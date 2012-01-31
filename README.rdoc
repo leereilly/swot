@@ -1,9 +1,11 @@
 = email
 
-Description goes here.
+Helpers for email addresses.
+
+* is this email address from an academic institution?
 
 == Contributing to email
- 
+
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
 * Fork the project.
