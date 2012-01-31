@@ -1,7 +1,7 @@
 require 'public_suffix'
 
 module Email
-  VERSION = "0.0.1"
+  VERSION = "0.1.0"
 
   ACADEMIC_TLDS = %w(edu ac.uk)
   ACADEMIC_DOMAINS = %w(ugr.es uottawa.ca)
