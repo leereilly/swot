@@ -13,4 +13,8 @@ class TestEmail < Test::Unit::TestCase
     assert_equal Email::academic?('lee@stanford.edu.com'),          false
     assert_equal Email::academic?('lee@strath.ac.uk.com'),          false
   end
+
+  should "should populate academic domains" do
+    Email::populate_academic_domains
+  end
 end

@@ -1,0 +1,8 @@
+# source: http://en.wikipedia.org/wiki/List_of_universities_in_Canada
+
+ualberta.ca
+athabascau.ca
+ucalgary.ca
+uleth.ca
+mtroyal.ca
+macewan.ca

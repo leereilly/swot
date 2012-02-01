@@ -18,5 +18,13 @@ module Email
         false
       end
     end
-end
+
+    def populate_academic_domains
+      Dir::foreach("lib/config") do |file|
+        unless file == '_lookup.txt' || file == "."
+          puts file
+        end
+      end
+    end
+  end
 end
