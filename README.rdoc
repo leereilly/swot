@@ -2,6 +2,18 @@
 
 Helpers for email addresses.
 
+    Email::academic?('lreilly@stanford.edu')          # true
+    Email::academic?('lreilly@slac.stanford.edu')     # true
+    Email::academic?('lreilly@strath.ac.uk')          # true
+    Email::academic?('lreilly@soft-eng.strath.ac.uk') # true
+    Email::academic?('lee@ugr.es')                    # true
+    Email::academic?('lee@uottawa.ca')                # true
+
+    Email::academic?('lee@leerilly.net')              # false
+    Email::academic?('lee@gmail.com')                 # false
+    Email::academic?('lee@stanford.edu.com')          # false
+    Email::academic?('lee@strath.ac.uk.com')          # false
+
 * is this email address from an academic institution?
 
 == Contributing to email
