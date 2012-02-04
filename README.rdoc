@@ -1,6 +1,8 @@
 = email
 
-Helpers for email addresses.
+Identify email addresses associated with educational institutions throughout the world which provide higher education in tertiary, quaternary and post-secondary education.
+
+== Email addresses belonging to academic institutions
 
     Email::academic?('lreilly@stanford.edu')          # true
     Email::academic?('lreilly@slac.stanford.edu')     # true
@@ -8,6 +10,8 @@ Helpers for email addresses.
     Email::academic?('lreilly@soft-eng.strath.ac.uk') # true
     Email::academic?('lee@ugr.es')                    # true
     Email::academic?('lee@uottawa.ca')                # true
+
+== Email addresses not belonging to academic institutions
 
     Email::academic?('lee@leerilly.net')              # false
     Email::academic?('lee@gmail.com')                 # false
