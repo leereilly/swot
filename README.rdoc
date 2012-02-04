@@ -39,7 +39,7 @@ world.
 * You can search by email and domain names only. You cannot search by IP.
 * Can't handle port numbers yet.
 
-![](https://a248.e.akamai.net/assets.github.com/img/e3700efc05ca611162b365367aadc8b112b4969d/687474703a2f2f692e696d6775722e636f6d2f4b387673772e676966)
+![](http://i.imgur.com/K8vsw.gif)
 
 == Copyright
 
