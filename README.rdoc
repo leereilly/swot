@@ -1,17 +1,21 @@
 Swot allows you to figure out whether a particular email address or domain
 is associated with an academic institution providing higher education in
-tertiary, quaternary and post-secondary education.
+tertiary, quaternary or post-secondary education in any country in the
+world.
 
-== Email addresses belonging to academic institutions
+**What is a swot?** [UrbanDictionary will fill you in](http://www.urbandictionary.com/define.php?term=swot) ಠ_ಠ
 
-    Swot::academic?('lreilly@stanford.edu')          # true
-    Swot::academic?('lreilly@slac.stanford.edu')     # true
-    Swot::academic?('lreilly@strath.ac.uk')          # true
-    Swot::academic?('lreilly@soft-eng.strath.ac.uk') # true
-    Swot::academic?('lee@ugr.es')                    # true
-    Swot::academic?('lee@uottawa.ca')                # true
+== Usage
 
-== Email addresses not belonging to academic institutions
+    Swot::academic?('lreilly@stanford.edu')           # true
+    Swot::academic?('lreilly@slac.stanford.edu')      # true
+    Swot::academic?('lreilly@strath.ac.uk')           # true
+    Swot::academic?('lreilly@soft-eng.strath.ac.uk')  # true
+    Swot::academic?('lee@ugr.es')                     # true
+    Swot::academic?('lee@uottawa.ca')                 # true
+    Swot::academic?('harvard.edu')                    # true
+    Swot::academic?('www.harvard.edu')                # true
+    Swot::academic?('http://www.harvard.edu')         # true
 
     Swot::academic?('lee@leerilly.net')              # false
     Swot::academic?('lee@gmail.com')                 # false
@@ -30,7 +34,12 @@ tertiary, quaternary and post-secondary education.
 * Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
 * Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
 
-== Known Issues / Bugs
+== Known Issues /
+
+* You can search by email and domain names only. You cannot search by IP.
+* Can't handle port numbers yet.
+
+![](https://a248.e.akamai.net/assets.github.com/img/e3700efc05ca611162b365367aadc8b112b4969d/687474703a2f2f692e696d6775722e636f6d2f4b387673772e676966)
 
 == Copyright
 
