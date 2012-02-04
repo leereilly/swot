@@ -1,22 +1,22 @@
-= email
-
-Identify email addresses associated with educational institutions throughout the world which provide higher education in tertiary, quaternary and post-secondary education.
+Swot allows you to figure out whether a particular email address or domain
+is associated with an academic institution providing higher education in
+tertiary, quaternary and post-secondary education.
 
 == Email addresses belonging to academic institutions
 
-    Email::academic?('lreilly@stanford.edu')          # true
-    Email::academic?('lreilly@slac.stanford.edu')     # true
-    Email::academic?('lreilly@strath.ac.uk')          # true
-    Email::academic?('lreilly@soft-eng.strath.ac.uk') # true
-    Email::academic?('lee@ugr.es')                    # true
-    Email::academic?('lee@uottawa.ca')                # true
+    Swot::academic?('lreilly@stanford.edu')          # true
+    Swot::academic?('lreilly@slac.stanford.edu')     # true
+    Swot::academic?('lreilly@strath.ac.uk')          # true
+    Swot::academic?('lreilly@soft-eng.strath.ac.uk') # true
+    Swot::academic?('lee@ugr.es')                    # true
+    Swot::academic?('lee@uottawa.ca')                # true
 
 == Email addresses not belonging to academic institutions
 
-    Email::academic?('lee@leerilly.net')              # false
-    Email::academic?('lee@gmail.com')                 # false
-    Email::academic?('lee@stanford.edu.com')          # false
-    Email::academic?('lee@strath.ac.uk.com')          # false
+    Swot::academic?('lee@leerilly.net')              # false
+    Swot::academic?('lee@gmail.com')                 # false
+    Swot::academic?('lee@stanford.edu.com')          # false
+    Swot::academic?('lee@strath.ac.uk.com')          # false
 
 * is this email address from an academic institution?
 
@@ -29,6 +29,8 @@ Identify email addresses associated with educational institutions throughout the
 * Commit and push until you are happy with your contribution.
 * Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
 * Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
+
+== Known Issues / Bugs
 
 == Copyright
 

@@ -14,8 +14,8 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "email"
-  gem.homepage = "http://github.com/leereilly/email"
+  gem.name = "swot"
+  gem.homepage = "http://github.com/leereilly/swot"
   gem.license = "MIT"
   gem.summary = %Q{email helpers}
   gem.description = %Q{email helpers}
@@ -39,7 +39,7 @@ Rake::RDocTask.new do |rdoc|
   version = File.exist?('VERSION') ? File.read('VERSION') : ""
 
   rdoc.rdoc_dir = 'rdoc'
-  rdoc.title = "email #{version}"
+  rdoc.title = "swot #{version}"
   rdoc.rdoc_files.include('README*')
   rdoc.rdoc_files.include('lib/**/*.rb')
 end
