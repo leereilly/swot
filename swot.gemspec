@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Lee Reilly"]
-  s.date = "2012-02-04"
+  s.date = "2012-02-05"
   s.description = "email helpers"
   s.email = "lee@leereilly.net"
   s.extra_rdoc_files = [
@@ -5875,8 +5875,10 @@ Gem::Specification.new do |s|
     "lib/domains/yk.ca/yukoncollege",
     "lib/domains/zgora.pl/pz",
     "lib/domains/zgora.pl/wsp",
+    "lib/swot.rb",
+    "swot.gemspec",
     "test/helper.rb",
-    "test/test_email.rb"
+    "test/test_swot.rb"
   ]
   s.homepage = "http://github.com/leereilly/swot"
   s.licenses = ["MIT"]
