@@ -101,17 +101,28 @@ module Swot
     # Returns true if the domain name belongs to an academic institution;
     #  false oterwise.
     def is_academic?(text)
+      return false if text.nil?
+
+      text.downcase!
       text = text.split("@")[1] if text.include? "@"
-      domain = PublicSuffix.parse(text)
 
-      if ACADEMIC_TLDS.include?(domain.tld)
-        true
-      elsif match_academic_domain?(domain)
-        true
-      else
-        false
+      begin
+        domain = PublicSuffix.parse(text)
+
+        if ACADEMIC_TLDS.include?(domain.tld)
+          true
+        elsif match_academic_domain?(domain)
+          true
+        else
+          false
+        end
+
+      rescue PublicSuffix::DomainInvalid => di
+        return false
+
+      rescue PublicSuffix::DomainNotAllowed => dna
+        return false
       end
-
     end
 
     # Figure out if a domain name is a know academic institution.

@@ -1,8 +1,10 @@
 require 'helper'
 
 class TestEmail < Test::Unit::TestCase
-  should "work with all the things" do
+  should "recognizes academic email addresses and domains" do
     assert_equal Swot::is_academic?('lreilly@stanford.edu'),          true
+    assert_equal Swot::is_academic?('LREILLY@STANFORD.EDU'),          true
+    assert_equal Swot::is_academic?('Lreilly@Stanford.Edu'),          true
     assert_equal Swot::is_academic?('lreilly@slac.stanford.edu'),     true
     assert_equal Swot::is_academic?('lreilly@strath.ac.uk'),          true
     assert_equal Swot::is_academic?('lreilly@soft-eng.strath.ac.uk'), true
@@ -32,6 +34,10 @@ class TestEmail < Test::Unit::TestCase
     assert_equal Swot::is_academic?('gmail.com'),                     false
     assert_equal Swot::is_academic?('stanford.edu.com'),              false
     assert_equal Swot::is_academic?('strath.ac.uk.com'),              false
+
+    assert_equal Swot::is_academic?(nil),                             false
+    assert_equal Swot::is_academic?(''),                              false
+    assert_equal Swot::is_academic?('the'),                           false
 
   end
 end
