@@ -1,11 +1,21 @@
-Swot allows you to figure out whether a particular email address or domain
+Swot allows you to identify whether a particular email address or domain
 is associated with an academic institution providing higher education in
 tertiary, quaternary or post-secondary education in any country in the
 world.
 
-**What is a swot?** [UrbanDictionary will fill you in](http://www.urbandictionary.com/define.php?term=swot) ಠ_ಠ
+# Why would you want to do that?
 
-== Usage
+Student discounts baby. A growing number of companies offer discounts on their products/services to those in academia. It's not a hard problem to solve in America or the UK, but other countries don't have domain name restrictions.
+
+## Pop quiz
+
+How many of the following email addresses are associated with a university? Answers at the bottom.
+
+nigel@stanford.edu, bawbag@cs.strath.ac.uk, lee@wunizar.es, terrence@ubishops.ca, philip@usask.ca, hans@hil.no, mila@unze.ba
+
+# Usage
+
+## Verify Email Addresses
 
     Swot::academic?('lreilly@stanford.edu')           # true
     Swot::academic?('lreilly@slac.stanford.edu')      # true
@@ -13,18 +23,24 @@ world.
     Swot::academic?('lreilly@soft-eng.strath.ac.uk')  # true
     Swot::academic?('lee@ugr.es')                     # true
     Swot::academic?('lee@uottawa.ca')                 # true
-    Swot::academic?('harvard.edu')                    # true
-    Swot::academic?('www.harvard.edu')                # true
-    Swot::academic?('http://www.harvard.edu')         # true
-
     Swot::academic?('lee@leerilly.net')              # false
     Swot::academic?('lee@gmail.com')                 # false
     Swot::academic?('lee@stanford.edu.com')          # false
     Swot::academic?('lee@strath.ac.uk.com')          # false
 
-* is this email address from an academic institution?
+## Verify Domain Names
 
-== Contributing to email
+    Swot::academic?('harvard.edu')                    # true
+    Swot::academic?('www.harvard.edu')                # true
+    Swot::academic?('http://www.harvard.edu')         # true
+    Swot::academic?('http://www.kink.com')            # false
+    Swot::academic?('http://www.rangers.co.uk')       # false
+
+# What is a swot?
+
+[UrbanDictionary will fill you in](http://www.urbandictionary.com/define.php?term=swot) ಠ_ಠ
+
+# Contributing to Swot
 
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
@@ -34,15 +50,19 @@ world.
 * Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
 * Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
 
-== Known Issues /
+# Known Issues /
 
 * You can search by email and domain names only. You cannot search by IP.
 * Can't handle port numbers yet.
+* You don't know if the email address is a student, faculty, staff, etc.
 
 ![](http://i.imgur.com/K8vsw.gif)
 
-== Copyright
+# Copyright
 
 Copyright (c) 2012 Lee Reilly. See LICENSE.txt for
 further details.
 
+# Pop Quiz Answers
+
+All of 'em.
