@@ -16,7 +16,7 @@ nigel@stanford.edu, bawbag@cs.strath.ac.uk, lee@wunizar.es, terrence@ubishops.ca
 # Usage
 
 ## Verify Email Addresses
-
+```ruby
     Swot::is_academic?('lreilly@stanford.edu')           # true
     Swot::is_academic?('lreilly@slac.stanford.edu')      # true
     Swot::is_academic?('lreilly@strath.ac.uk')           # true
@@ -27,15 +27,15 @@ nigel@stanford.edu, bawbag@cs.strath.ac.uk, lee@wunizar.es, terrence@ubishops.ca
     Swot::is_academic?('lee@gmail.com')                 # false
     Swot::is_academic?('lee@stanford.edu.com')          # false
     Swot::is_academic?('lee@strath.ac.uk.com')          # false
-
+```
 ## Verify Domain Names
-
-    Swot::academic?('harvard.edu')                    # true
-    Swot::academic?('www.harvard.edu')                # true
-    Swot::academic?('http://www.harvard.edu')         # true
-    Swot::academic?('http://www.kink.com')            # false
-    Swot::academic?('http://www.rangers.co.uk')       # false
-
+```ruby
+    Swot::is_academic?('harvard.edu')                    # true
+    Swot::is_academic?('www.harvard.edu')                # true
+    Swot::is_academic?('http://www.harvard.edu')         # true
+    Swot::is_academic?('http://www.kink.com')            # false
+    Swot::is_academic?('http://www.rangers.co.uk')       # false
+```
 # What is a swot?
 
 [UrbanDictionary will fill you in](http://www.urbandictionary.com/define.php?term=swot) ಠ_ಠ
