@@ -17,16 +17,16 @@ nigel@stanford.edu, bawbag@cs.strath.ac.uk, lee@wunizar.es, terrence@ubishops.ca
 
 ## Verify Email Addresses
 
-    Swot::academic?('lreilly@stanford.edu')           # true
-    Swot::academic?('lreilly@slac.stanford.edu')      # true
-    Swot::academic?('lreilly@strath.ac.uk')           # true
-    Swot::academic?('lreilly@soft-eng.strath.ac.uk')  # true
-    Swot::academic?('lee@ugr.es')                     # true
-    Swot::academic?('lee@uottawa.ca')                 # true
-    Swot::academic?('lee@leerilly.net')              # false
-    Swot::academic?('lee@gmail.com')                 # false
-    Swot::academic?('lee@stanford.edu.com')          # false
-    Swot::academic?('lee@strath.ac.uk.com')          # false
+    Swot::is_academic?('lreilly@stanford.edu')           # true
+    Swot::is_academic?('lreilly@slac.stanford.edu')      # true
+    Swot::is_academic?('lreilly@strath.ac.uk')           # true
+    Swot::is_academic?('lreilly@soft-eng.strath.ac.uk')  # true
+    Swot::is_academic?('lee@ugr.es')                     # true
+    Swot::is_academic?('lee@uottawa.ca')                 # true
+    Swot::is_academic?('lee@leerilly.net')              # false
+    Swot::is_academic?('lee@gmail.com')                 # false
+    Swot::is_academic?('lee@stanford.edu.com')          # false
+    Swot::is_academic?('lee@strath.ac.uk.com')          # false
 
 ## Verify Domain Names
 
