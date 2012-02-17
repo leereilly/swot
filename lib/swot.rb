@@ -132,12 +132,9 @@ module Swot
     #  false oterwise.
     def is_academic?(text)
       return false if text.nil?
-
-      text.downcase!
-      text = text.split("@")[1] if text.include? "@"
-
       begin
-        domain = PublicSuffix.parse(text)
+        domain = get_domain(text)
+        return false if domain.nil?
 
         if ACADEMIC_TLDS.include?(domain.tld)
           true
@@ -155,12 +152,49 @@ module Swot
       end
     end
 
+    def get_institution_name(text)
+      text.downcase!
+      text = text.split("@")[1] if text.include? "@"
+      domain = PublicSuffix.parse(text)
+      name_from_academic_domain(domain)
+    end
+
     # Figure out if a domain name is a know academic institution.
     #
     # Returns true if the domain name belongs to a known academic instition;
     #  false otherwise.
     def match_academic_domain?(domain)
       File.exists?("lib/domains/#{domain.tld}/#{domain.sld}")
+    end
+
+    # Figure out the insitutions' name based on the domain name.
+    #
+    # Return the institution name, or nil if not found.
+    def name_from_academic_domain(domain)
+      begin
+        file = File.open("lib/domains/#{domain.tld}/#{domain.sld}", "rb")
+        contents = file.read
+        contents.strip!
+        return contents
+      rescue
+        return nil
+      end
+    end
+
+    # Get the FQDN name from a URL or email address.
+    #
+    #
+    def get_domain(text)
+      return false if text.nil?
+      text.downcase!
+      text = text.split("@")[1] if text.include? "@"
+
+      begin
+        domain = PublicSuffix.parse(text)
+        return domain
+      rescue
+        return nil
+      end
     end
   end
 end

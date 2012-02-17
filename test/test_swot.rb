@@ -38,6 +38,9 @@ class TestEmail < Test::Unit::TestCase
     assert_equal Swot::is_academic?(nil),                             false
     assert_equal Swot::is_academic?(''),                              false
     assert_equal Swot::is_academic?('the'),                           false
+  end
 
+  should "returns name of valid institution" do
+    assert_equal Swot::get_institution_name('lreilly@cs.strath.ac.uk'), "University of Strathclyde"
   end
 end
