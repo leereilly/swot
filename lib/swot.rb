@@ -167,7 +167,7 @@ module Swot
     # Returns true if the domain name belongs to a known academic instition;
     #  false otherwise.
     def match_academic_domain?(domain)
-      File.exists?("lib/domains/#{domain.tld}/#{domain.sld}")
+      File.exists?("#{File.expand_path(__FILE__+'/..')}/domains/#{domain.tld}/#{domain.sld}")
     end
 
     # Figure out the insitutions' name based on the domain name.
