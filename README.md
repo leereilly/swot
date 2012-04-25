@@ -23,10 +23,10 @@ nigel@stanford.edu, bawbag@cs.strath.ac.uk, lee@wunizar.es, terrence@ubishops.ca
     Swot::is_academic?('lreilly@soft-eng.strath.ac.uk')  # true
     Swot::is_academic?('lee@ugr.es')                     # true
     Swot::is_academic?('lee@uottawa.ca')                 # true
-    Swot::is_academic?('lee@leerilly.net')              # false
-    Swot::is_academic?('lee@gmail.com')                 # false
-    Swot::is_academic?('lee@stanford.edu.com')          # false
-    Swot::is_academic?('lee@strath.ac.uk.com')          # false
+    Swot::is_academic?('lee@leerilly.net')               # false
+    Swot::is_academic?('lee@gmail.com')                  # false
+    Swot::is_academic?('lee@stanford.edu.com')           # false
+    Swot::is_academic?('lee@strath.ac.uk.com')           # false
 ```
 ## Verify Domain Names
 ```ruby
