@@ -152,6 +152,9 @@ module Swot
       end
     end
 
+    # Figure out the institution name based on the email address/domain.
+    #
+    # Returns a string with the instution name; nil if nothing is found.
     def get_institution_name(text)
       text.downcase!
       text = text.split("@")[1] if text.include? "@"
@@ -183,7 +186,7 @@ module Swot
 
     # Get the FQDN name from a URL or email address.
     #
-    #
+    # Returns a string with the FQDN; nil if there's an error.
     def get_domain(text)
       return false if text.nil?
       text.downcase!

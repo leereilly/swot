@@ -33,7 +33,7 @@ nigel@stanford.edu, bawbag@cs.strath.ac.uk, lee@wunizar.es, terrence@ubishops.ca
     Swot::is_academic?('harvard.edu')                    # true
     Swot::is_academic?('www.harvard.edu')                # true
     Swot::is_academic?('http://www.harvard.edu')         # true
-    Swot::is_academic?('http://www.kink.com')            # false
+    Swot::is_academic?('http://www.github.com')          # false
     Swot::is_academic?('http://www.rangers.co.uk')       # false
 ```
 # What is a swot?
