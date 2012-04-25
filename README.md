@@ -50,11 +50,10 @@ nigel@stanford.edu, bawbag@cs.strath.ac.uk, lee@wunizar.es, terrence@ubishops.ca
 * Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
 * Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
 
-# Known Issues /
+# Known Issues / Bugs / "Features"
 
 * You can search by email and domain names only. You cannot search by IP.
-* Can't handle port numbers yet.
-* You don't know if the email address is a student, faculty, staff, etc.
+* You don't know if the email address belongs to a student, faculty, staff member, etc.
 
 ![](http://i.imgur.com/K8vsw.gif)
 
