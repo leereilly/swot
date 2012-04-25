@@ -1,3 +1,5 @@
+$:.unshift(File.dirname(__FILE__))
+
 require 'public_suffix'
 
 module Swot
@@ -175,6 +177,7 @@ module Swot
     # Return the institution name, or nil if not found.
     def name_from_academic_domain(domain)
       begin
+        file = File.expand_path(__FILE__+'/..')
         file = File.open("lib/domains/#{domain.tld}/#{domain.sld}", "rb")
         contents = file.read
         contents.strip!
