@@ -54,6 +54,7 @@ nigel@stanford.edu, bawbag@cs.strath.ac.uk, lee@wunizar.es, terrence@ubishops.ca
 
 * You can search by email and domain names only. You cannot search by IP.
 * You don't know if the email address belongs to a student, faculty, staff member, etc.
+* There may be a few false positives, missing institutions... maybe even a couple of typos.
 
 ![](http://i.imgur.com/K8vsw.gif)
 
