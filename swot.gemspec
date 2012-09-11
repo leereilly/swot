@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "swot"
-  s.version = "0.2.0"
+  s.version = "0.2.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Lee Reilly"]
-  s.date = "2012-08-24"
+  s.date = "2012-09-11"
   s.description = "email helpers"
   s.email = "lee@leereilly.net"
   s.extra_rdoc_files = [
@@ -1811,6 +1811,7 @@ Gem::Specification.new do |s|
     "lib/domains/com/aesom",
     "lib/domains/com/ahlulbaitonline",
     "lib/domains/com/aiu-online",
+    "lib/domains/com/algonquinlive",
     "lib/domains/com/almaarifah",
     "lib/domains/com/american-college",
     "lib/domains/com/andoncollege",
@@ -6146,6 +6147,7 @@ Gem::Specification.new do |s|
     "lib/domains/fi/kuva",
     "lib/domains/fi/lamk",
     "lib/domains/fi/lut",
+    "lib/domains/fi/metropolia",
     "lib/domains/fi/oamk",
     "lib/domains/fi/oulu",
     "lib/domains/fi/puv",
@@ -6483,6 +6485,7 @@ Gem::Specification.new do |s|
     "lib/domains/ie/ittralee",
     "lib/domains/ie/lsb",
     "lib/domains/ie/may",
+    "lib/domains/ie/mydit",
     "lib/domains/ie/ncirl",
     "lib/domains/ie/nui",
     "lib/domains/ie/rcpi",
@@ -6893,6 +6896,7 @@ Gem::Specification.new do |s|
     "lib/domains/nl/leidenuniv",
     "lib/domains/nl/nhtv",
     "lib/domains/nl/nijenrode",
+    "lib/domains/nl/nikhef",
     "lib/domains/nl/ou",
     "lib/domains/nl/roac",
     "lib/domains/nl/ru",
@@ -6908,6 +6912,7 @@ Gem::Specification.new do |s|
     "lib/domains/nl/vu",
     "lib/domains/nl/wageningenuniversity",
     "lib/domains/nl/windesheim",
+    "lib/domains/nl/zuyd",
     "lib/domains/no/aho",
     "lib/domains/no/bi",
     "lib/domains/no/hia",
@@ -7479,6 +7484,7 @@ Gem::Specification.new do |s|
     "lib/domains/se/hj",
     "lib/domains/se/hkr",
     "lib/domains/se/htu",
+    "lib/domains/se/it-gymnasiet",
     "lib/domains/se/kau",
     "lib/domains/se/ki",
     "lib/domains/se/konstfack",
