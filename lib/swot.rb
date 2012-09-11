@@ -131,8 +131,8 @@ module Swot
     # Returns true if the domain name belongs to an academic institution;
     #  false oterwise.
     def is_academic?(text)
-      text.strip!
       return false if text.nil?
+      text.strip!
       begin
         domain = get_domain(text)
         return false if domain.nil?
@@ -169,7 +169,6 @@ module Swot
     # Returns true if the domain name belongs to a known academic instition;
     #  false otherwise.
     def match_academic_domain?(domain)
-      domain.strip!
       File.exists?("#{File.expand_path(__FILE__+'/..')}/domains/#{domain.tld}/#{domain.sld}")
     end
 
@@ -177,7 +176,6 @@ module Swot
     #
     # Return the institution name, or nil if not found.
     def name_from_academic_domain(domain)
-      domain.strip!
       begin
         file = File.open("#{File.expand_path(__FILE__+'/..')}/domains/#{domain.tld}/#{domain.sld}", "rb")
         contents = file.read
