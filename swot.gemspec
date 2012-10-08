@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "swot"
-  s.version = "0.2.3"
+  s.version = "0.2.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Lee Reilly"]
-  s.date = "2012-09-28"
+  s.date = "2012-10-08"
   s.description = "email helpers"
   s.email = "lee@leereilly.net"
   s.extra_rdoc_files = [
@@ -332,6 +332,8 @@ Gem::Specification.new do |s|
     "lib/domains/ac.il/wgalil",
     "lib/domains/ac.il/yvc",
     "lib/domains/ac.in/bits-pilani",
+    "lib/domains/ac.in/daiict",
+    "lib/domains/ac.in/iitd",
     "lib/domains/ac.in/iith",
     "lib/domains/ac.ir/acmt",
     "lib/domains/ac.ir/adiban",
@@ -784,6 +786,7 @@ Gem::Specification.new do |s|
     "lib/domains/ac.jp/nankyudai",
     "lib/domains/ac.jp/nebuta",
     "lib/domains/ac.jp/nias",
+    "lib/domains/ac.jp/osaka-cu",
     "lib/domains/ac.jp/pu-kumamoto",
     "lib/domains/ac.jp/redcross",
     "lib/domains/ac.jp/shakaijigyo",
@@ -796,6 +799,7 @@ Gem::Specification.new do |s|
     "lib/domains/ac.jp/tonichi-kokusai-u",
     "lib/domains/ac.jp/u-keiai",
     "lib/domains/ac.jp/u-tokai",
+    "lib/domains/ac.jp/u-tokyo",
     "lib/domains/ac.ke/anu",
     "lib/domains/ac.ke/egerton",
     "lib/domains/ac.ke/iu",
@@ -1144,6 +1148,7 @@ Gem::Specification.new do |s|
     "lib/domains/ac.uk/brad",
     "lib/domains/ac.uk/bris",
     "lib/domains/ac.uk/brookes",
+    "lib/domains/ac.uk/brooklands",
     "lib/domains/ac.uk/brunel",
     "lib/domains/ac.uk/bton",
     "lib/domains/ac.uk/buck",
@@ -1645,6 +1650,7 @@ Gem::Specification.new do |s|
     "lib/domains/ca/ubc",
     "lib/domains/ca/ubishops",
     "lib/domains/ca/ucalgary",
+    "lib/domains/ca/ufv",
     "lib/domains/ca/ulaval",
     "lib/domains/ca/uleth",
     "lib/domains/ca/umanitoba",
@@ -1661,10 +1667,12 @@ Gem::Specification.new do |s|
     "lib/domains/ca/uqac",
     "lib/domains/ca/uqam",
     "lib/domains/ca/uqo",
+    "lib/domains/ca/uqtr",
     "lib/domains/ca/uquebec",
     "lib/domains/ca/uregina",
     "lib/domains/ca/usask",
     "lib/domains/ca/usherb",
+    "lib/domains/ca/usherbrooke",
     "lib/domains/ca/ustpaul",
     "lib/domains/ca/utoronto",
     "lib/domains/ca/uvic",
@@ -2111,6 +2119,7 @@ Gem::Specification.new do |s|
     "lib/domains/de/fhw-berlin",
     "lib/domains/de/fhwt",
     "lib/domains/de/fom",
+    "lib/domains/de/fs-students",
     "lib/domains/de/fu-berlin",
     "lib/domains/de/h-da",
     "lib/domains/de/hanseuni",
@@ -2118,6 +2127,7 @@ Gem::Specification.new do |s|
     "lib/domains/de/hdm-stuttgart",
     "lib/domains/de/hfb",
     "lib/domains/de/hfg-gmuend",
+    "lib/domains/de/hft-leipzig",
     "lib/domains/de/hhl",
     "lib/domains/de/hs-albsig",
     "lib/domains/de/hs-anhalt",
@@ -2132,6 +2142,7 @@ Gem::Specification.new do |s|
     "lib/domains/de/hs-osnabrueck",
     "lib/domains/de/hs-wismar",
     "lib/domains/de/hs-zigr",
+    "lib/domains/de/htw-berlin",
     "lib/domains/de/htw-dresden",
     "lib/domains/de/htw-saarland",
     "lib/domains/de/htwk-leipzig",
@@ -2263,7 +2274,9 @@ Gem::Specification.new do |s|
     "lib/domains/de/unibw-hamburg",
     "lib/domains/de/unibw-muenchen",
     "lib/domains/de/uos",
+    "lib/domains/de/upb",
     "lib/domains/de/whu-koblenz",
+    "lib/domains/de/wwu",
     "lib/domains/dj/edu",
     "lib/domains/dk/a-aarhus",
     "lib/domains/dk/aau",
@@ -5608,6 +5621,7 @@ Gem::Specification.new do |s|
     "lib/domains/edu/stmatthews",
     "lib/domains/edu/stockton",
     "lib/domains/edu/stolaf",
+    "lib/domains/edu/stonybrook",
     "lib/domains/edu/strathmore",
     "lib/domains/edu/stritch",
     "lib/domains/edu/strose",
@@ -6333,6 +6347,7 @@ Gem::Specification.new do |s|
     "lib/domains/fr/unice",
     "lib/domains/fr/unilim",
     "lib/domains/fr/univ-ag",
+    "lib/domains/fr/univ-amu",
     "lib/domains/fr/univ-angers",
     "lib/domains/fr/univ-artois",
     "lib/domains/fr/univ-avignon",
@@ -6912,6 +6927,7 @@ Gem::Specification.new do |s|
     "lib/domains/net/uvg1",
     "lib/domains/net/uzsci",
     "lib/domains/net/yemenuniv",
+    "lib/domains/nl/avans",
     "lib/domains/nl/ddu",
     "lib/domains/nl/eur",
     "lib/domains/nl/han",
@@ -6924,6 +6940,7 @@ Gem::Specification.new do |s|
     "lib/domains/nl/iss",
     "lib/domains/nl/itc",
     "lib/domains/nl/leidenuniv",
+    "lib/domains/nl/liacs",
     "lib/domains/nl/nhl",
     "lib/domains/nl/nhtv",
     "lib/domains/nl/nijenrode",
