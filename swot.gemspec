@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "swot"
-  s.version = "0.2.6"
+  s.version = "0.2.7"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Lee Reilly"]
-  s.date = "2012-11-24"
+  s.date = "2012-12-03"
   s.description = "email helpers"
   s.email = "lee@leereilly.net"
   s.extra_rdoc_files = [
@@ -2229,6 +2229,7 @@ Gem::Specification.new do |s|
     "lib/domains/de/tfh-berlin",
     "lib/domains/de/tfh-bochum",
     "lib/domains/de/tfh-wildau",
+    "lib/domains/de/th-wildau",
     "lib/domains/de/thh-friedensau",
     "lib/domains/de/thm",
     "lib/domains/de/tiho-hannover",
