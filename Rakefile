@@ -46,12 +46,19 @@ end
 
 task :add, :sld, :tld, :name do |t, args|
   file_path = "#{File.expand_path(__FILE__+'/..')}/lib/domains/#{args.tld}/#{args.sld}"
-  unless File.exists?(file_path)
-    FileUtils.mkdir_p(File.dirname(file_path))
-    File.open( file_path, "w" ) do |contents|
-      contents.print args.name
+  if File.exists?(file_path)
+    puts "already exists"
+  elsif
+    begin
+      FileUtils.mkdir_p(File.dirname(file_path))
+      File.open( file_path, "w" ) do |contents|
+        contents.print args.name
+      end
+      `git add #{file_path}`
+      `git commit -m "Add #{args.name}"`
+      puts "commit successful"
+    rescue
+      puts "commit failed"
     end
-    `git add #{file_path}`
-    `git commit -m "Add #{args.name}"`
   end
 end  
