@@ -43,3 +43,22 @@ Rake::RDocTask.new do |rdoc|
   rdoc.rdoc_files.include('README*')
   rdoc.rdoc_files.include('lib/**/*.rb')
 end
+
+task :add, :sld, :tld, :name do |t, args|
+  file_path = "#{File.expand_path(__FILE__+'/..')}/lib/domains/#{args.tld}/#{args.sld}"
+  if File.exists?(file_path)
+    puts "already exists"
+  elsif
+    begin
+      FileUtils.mkdir_p(File.dirname(file_path))
+      File.open( file_path, "w" ) do |contents|
+        contents.print args.name
+      end
+      `git add #{file_path}`
+      `git commit -m "Add #{args.name}"`
+      puts "commit successful"
+    rescue
+      puts "commit failed"
+    end
+  end
+end  
