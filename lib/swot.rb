@@ -3,7 +3,7 @@ require 'public_suffix'
 module Swot
   VERSION = "0.1.0"
 
-  # These top-level domains are guaranteed to be academic instituions.
+  # These top-level domains are guaranteed to be academic institutions.
   ACADEMIC_TLDS = [
     'ac.ae',
     'ac.at',
@@ -126,10 +126,10 @@ module Swot
 
   class << self
 
-    # Figure out if an email or domain belongs to academic instituion.
+    # Figure out if an email or domain belongs to academic institution.
     #
     # Returns true if the domain name belongs to an academic institution;
-    #  false oterwise.
+    #  false otherwise.
     def is_academic?(text)
       return false if text.nil?
       text.strip!
@@ -155,7 +155,7 @@ module Swot
 
     # Figure out the institution name based on the email address/domain.
     #
-    # Returns a string with the instution name; nil if nothing is found.
+    # Returns a string with the institution name; nil if nothing is found.
     def get_institution_name(text)
       text.strip!
       text.downcase!
@@ -166,13 +166,13 @@ module Swot
 
     # Figure out if a domain name is a know academic institution.
     #
-    # Returns true if the domain name belongs to a known academic instition;
+    # Returns true if the domain name belongs to a known academic institution;
     #  false otherwise.
     def match_academic_domain?(domain)
       File.exists?("#{File.expand_path(__FILE__+'/..')}/domains/#{domain.tld}/#{domain.sld}")
     end
 
-    # Figure out the insitutions' name based on the domain name.
+    # Figure out the institutions' name based on the domain name.
     #
     # Return the institution name, or nil if not found.
     def name_from_academic_domain(domain)
