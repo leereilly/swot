@@ -17,24 +17,24 @@ nigel@stanford.edu, bawbag@cs.strath.ac.uk, lee@wunizar.es, terrence@ubishops.ca
 
 ## Verify Email Addresses
 ```ruby
-    Swot::is_academic?('lreilly@stanford.edu')           # true
-    Swot::is_academic?('lreilly@slac.stanford.edu')      # true
-    Swot::is_academic?('lreilly@strath.ac.uk')           # true
-    Swot::is_academic?('lreilly@soft-eng.strath.ac.uk')  # true
-    Swot::is_academic?('lee@ugr.es')                     # true
-    Swot::is_academic?('lee@uottawa.ca')                 # true
-    Swot::is_academic?('lee@leerilly.net')               # false
-    Swot::is_academic?('lee@gmail.com')                  # false
-    Swot::is_academic?('lee@stanford.edu.com')           # false
-    Swot::is_academic?('lee@strath.ac.uk.com')           # false
+    Swot::is_academic?('lreilly@stanford.edu')          # true
+    Swot::is_academic?('lreilly@slac.stanford.edu')     # true
+    Swot::is_academic?('lreilly@strath.ac.uk')          # true
+    Swot::is_academic?('lreilly@soft-eng.strath.ac.uk') # true
+    Swot::is_academic?('lee@ugr.es')                    # true
+    Swot::is_academic?('lee@uottawa.ca')                # true
+    Swot::is_academic?('lee@leerilly.net')              # false
+    Swot::is_academic?('lee@gmail.com')                 # false
+    Swot::is_academic?('lee@stanford.edu.com')          # false
+    Swot::is_academic?('lee@strath.ac.uk.com')          # false
 ```
 ## Verify Domain Names
 ```ruby
-    Swot::is_academic?('harvard.edu')                    # true
-    Swot::is_academic?('www.harvard.edu')                # true
-    Swot::is_academic?('http://www.harvard.edu')         # true
-    Swot::is_academic?('http://www.github.com')          # false
-    Swot::is_academic?('http://www.rangers.co.uk')       # false
+    Swot::is_academic?('harvard.edu')                   # true
+    Swot::is_academic?('www.harvard.edu')               # true
+    Swot::is_academic?('http://www.harvard.edu')        # true
+    Swot::is_academic?('http://www.github.com')         # false
+    Swot::is_academic?('http://www.rangers.co.uk')      # false
 ```
 # What is a swot?
 
