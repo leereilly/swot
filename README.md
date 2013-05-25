@@ -1,7 +1,4 @@
-Swot allows you to identify whether a particular email address or domain
-is associated with an academic institution providing higher education in
-tertiary, quaternary or post-secondary education in any country in the
-world.
+Swot allows you to identify whether a particular email address or domain is associated with an academic institution providing higher education in tertiary, quaternary or post-secondary education in any country in the world.
 
 # Why would you want to do that?
 
