@@ -2,19 +2,15 @@
 
 Swot allows you to identify whether a particular email address or domain name is associated with an academic institution providing higher education in tertiary, quaternary or post-secondary education in any country in the world.
 
-## Why would you want to do that?
+**Why would you want to do that?** A growing number of companies offer discounts on their products/services to those in academia. It's not a hard problem to solve in America or the UK (you can just whitelist `.edu` and `.ac.uk` domains), but what about the other countries out there?
 
-A growing number of companies offer discounts on their products/services to those in academia. It's not a hard problem to solve in America or the UK (you can just whitelist `.edu` and `.ac.uk` domains), but what about the other countries out there?
-
-### Pop quiz
-
-How many of the following email addresses are associated with a university? Answers at the bottom.
+**Pop quiz:** How many of the following email addresses are associated with a university? Answers at the bottom.
 
 `joe@stanford.edu`, `tom@cs.strath.ac.uk`, `lee@wunizar.es`, `bob@ubishops.ca`, `ally@usask.ca`, `hans@hil.no`, `mila@unze.ba`
 
-# Usage
+### Usage
 
-## Verify Email Addresses
+#### Verify Email Addresses
 
 ```ruby
 Swot::is_academic? 'lreilly@stanford.edu'           # true
@@ -25,7 +21,7 @@ Swot::is_academic? 'lee@uottawa.ca'                 # true
 Swot::is_academic? 'lee@leerilly.net'               # false
 ```
 
-## Verify Domain Names
+#### Verify Domain Names
 
 ```ruby
 Swot::is_academic?('harvard.edu')               # true
@@ -35,7 +31,7 @@ Swot::is_academic?('http://www.github.com')     # false
 Swot::is_academic?('http://www.rangers.co.uk')  # false
 ```
 
-## Find School Names
+#### Find School Names
 
 ```ruby
 Swot::scool_name 'lreilly@cs.strath.ac.uk'
@@ -45,11 +41,11 @@ Swot::scool_name 'lreilly@stanford.edu'
 # => "Stanford University"
 ```
 
-# What is a swot?
+### What is a swot?
 
 [UrbanDictionary will fill you in](http://www.urbandictionary.com/define.php?term=swot) ಠ_ಠ
 
-# Contributing to Swot
+### Contributing to Swot
 
 #### Data Contributions
 
@@ -114,15 +110,15 @@ This was literally my first Ruby gem, so please keep that in mind when you're lo
          (__)(__)
 ```
 
-# Copyright
+### Copyright
 
 Copyright (c) 2012 Lee Reilly. See LICENSE.txt for further details.
 
-# Pop Quiz Answers
+### Pop Quiz Answers
 
 All of 'em.
 
-# Known Issues / Bugs / "Features"
+### Known Issues / Bugs / "Features"
 
 * You can search by email and domain names only. You cannot search by IP.
 * You don't know if the email address belongs to a student, faculty, staff member, etc.
