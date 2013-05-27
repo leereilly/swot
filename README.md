@@ -114,14 +114,6 @@ This was literally my first Ruby gem, so please keep that in mind when you're lo
          (__)(__)
 ```
 
-# Known Issues / Bugs / "Features"
-
-* You can search by email and domain names only. You cannot search by IP.
-* You don't know if the email address belongs to a student, faculty, staff member, etc.
-* There may be a few false positives, missing institutions... maybe even a couple of typos. Contributons welcome!
-
-![](http://i.imgur.com/K8vsw.gif)
-
 # Copyright
 
 Copyright (c) 2012 Lee Reilly. See LICENSE.txt for further details.
@@ -129,3 +121,11 @@ Copyright (c) 2012 Lee Reilly. See LICENSE.txt for further details.
 # Pop Quiz Answers
 
 All of 'em.
+
+# Known Issues / Bugs / "Features"
+
+* You can search by email and domain names only. You cannot search by IP.
+* You don't know if the email address belongs to a student, faculty, staff member, etc.
+* There may be a few false positives, missing institutions... maybe even a couple of typos. Contributons welcome!
+
+![](http://i.imgur.com/K8vsw.gif)
