@@ -1,12 +1,10 @@
 # Swot :apple:
 
-Swot allows you to identify whether a particular email address or domain name is associated with an academic institution providing higher education in tertiary, quaternary or post-secondary education in any country in the world.
+If you have a product or service and offer **academic discounts**, there's a good chance there's some manual component to the approval process. Perhaps `.edu` email addresses are automatically approved because, for the most part at least, they're associated with American post-secondary educational institutions. Perhaps `.ac.uk` email addresses are automatically approved because they're guaranteed to belong to British universities and colleges. Unfortunately, not every country has an education-specific TLD (Top Level Domain) and plenty of schools use `.com` or `.net`.
 
-**Why would you want to do that?** A growing number of companies offer discounts on their products/services to those in academia. It's not a hard problem to solve in America or the UK (you can just whitelist `.edu` and `.ac.uk` domains), but what about the other countries out there?
+Swot is a community-driven or crowdsourced library for verifying that domain names and email addresses are tied to a legitimate university of college - more specifically, an academic institution providing higher education in tertiary, quaternary or any other kind of post-secondary education in any country in the world.
 
-**Pop quiz:** How many of the following email addresses are associated with a university? Answers at the bottom.
-
-`joe@stanford.edu`, `tom@cs.strath.ac.uk`, `lee@wunizar.es`, `bob@ubishops.ca`, `ally@usask.ca`, `hans@hil.no`, `mila@unze.ba`
+**Pop quiz:** Which of the following domain names should be eligible for an academic discount? `stanford.edu`, `america.edu`, `duep.edu`, `strath.ac.uk`, `wunizar.es`, `usask.ca`, `hil.no`, `unze.ba`, `fu-berlin.de`, `ecla.de`, `bvb.de`, `lsmu.com`. Answers at the foot of the page.
 
 ### Usage
 
@@ -34,81 +32,21 @@ Swot::is_academic?('http://www.rangers.co.uk')  # false
 #### Find School Names
 
 ```ruby
-Swot::scool_name 'lreilly@cs.strath.ac.uk'
+Swot::school_name 'lreilly@cs.strath.ac.uk'
 # => "University of Strathclyde"
 
-Swot::scool_name 'lreilly@stanford.edu'
+Swot::school_name 'lreilly@stanford.edu'
 # => "Stanford University"
 ```
 
-### What is a swot?
-
-[UrbanDictionary will fill you in](http://www.urbandictionary.com/define.php?term=swot) ಠ_ಠ
-
 ### Contributing to Swot
 
-#### Data Contributions
+Contributions welcome! Please see the [contribution guidelines](CONTRIBUTING.md) for details on how to add, update, or delete schools. Code contributions welcome too. Ports to different languages welcome too.
 
-* All of the school data is stored in a simple filesystem data structure under `lib/domains`.
-* Every directory name in here is a [TLD](http://en.wikipedia.org/wiki/Top-level_domain) (Top Level Domain) e.g. `edu`.
-* Every file in these directories is named after the school's [SLD](http://en.wikipedia.org/wiki/Second-level_domain) (Second Level Domain) e.g `stanford`.
-* The contents of that file are simply the school name e.g. `Stanford University`.
-* The [working example for Stanford University](https://github.com/leereilly/swot/blob/master/lib/domains/edu/stanford) :eyes:
-* Here's what the data structure looks like:
+**Thanks** to the following people for their contributions:
+@blutack, @captn3m0, @johndbritton, @johnotander, @pborreli, @rcurtis, @vikhyat,.
 
-```
-[-] lib
-    [-] domains
-        [-] ac.uk
-            [+] strath
-        [-] edu
-            [+] harvard
-            [+] stanford
-
-```
-
-##### Adding a School
-
-Let's say you want to add the [University of Strathclyde](http://www.strath.ac.uk/). We know the TLD is `ac.uk` and the SLD is `strath`. We'd simply create a file at `lib/domains/ac.uk/strath` containing the text `University of Strathcylde`. You can safely ignores subdomain like `www`, `cis`, whatever. You can see the actual file [here](https://github.com/leereilly/swot/blob/master/lib/domains/ac.uk/strath).
-
-#### Updating a School Name
-
-Change the file contents of the appropriate file.
-
-#### Deleting a School Name
-
-A simple `git rm` on the approriate file will do the trick.
-
-#### Code Contributions
-
-This was literally my first Ruby gem, so please keep that in mind when you're looking at the code :trollface:
-
-* Check out the latest [master](https://github.com/leereilly/swot/tree/master).
-* Take a look through the [open pull requests](https://github.com/leereilly/swot/issues) in case someone else has already contributed something similar.
-* Fork the project.
-* Start a topic branch of your own.
-* Commit and push away. Don't forget the tests!
-* Submit a pull request.
-* :boom: You've contributed to open source!
-
-```
-     ____________________________________________________
-    |.==================================================,|
-    ||  I WILL MERGE AND REVIEW PULL REQUESTS QUICKLY   ||
-    ||  I WILL MERGE AND REVIEW PULL REQUESTS QUICKLY   ||
-    ||  I WILL MERGE AND REVIEW PULL REQUESTS QUICKLY   ||
-    ||  I .----.ERG,                                    ||
-    ||   / ><   \  /                                    ||
-    ||  |        |/\                                    ||
-    ||   \______//\/                                    ||
-    ||   _(____)/ /                                     ||
-    ||__/ ,_ _  _/______________________________________||
-    '===\___\_) |========================================'
-         |______|
-         |  ||  |
-         |__||__|
-         (__)(__)
-```
+**Special thanks** to @weppos for the [public_suffix](https://github.com/weppos/publicsuffix-ruby) gem :metal:
 
 ### Copyright
 
@@ -116,12 +54,48 @@ Copyright (c) 2012 Lee Reilly. See LICENSE.txt for further details.
 
 ### Pop Quiz Answers
 
-All of 'em.
+Hopefully, you'll be surprised by some of this:
+
+| Domain | Academic? | Comments |
+|--------|-----------|----------|
+|`stanford.edu`|:heavy_check_mark:|OK, this was an easy one so you could get at least *one* right|
+|`america.edu`|:heavy_multiplication_x:| Prior to October 29th 2001, anyone could register a `.edu` domain name ([details](http://en.wikipedia.org/wiki/.edu#Grandfathered_uses)) |
+|`duep.edu`|:heavy_check_mark:| Alfred Nobel University is a *Ukranian* University *in the Ukraine* i.e. not in the USA :us: |
+|`strath.ac.uk`|:heavy_check_mark:|The University of Strathclyde in Glasgow, Scotland|
+|`unizar.es`|:heavy_check_mark:|The University of Zaragoza in Spain|
+|`usask.ca`|:heavy_check_mark:|The University of Saskatchewan in Canada|
+|`hil.no`|:heavy_check_mark:|Lillehammer University College in Norway|
+|`unze.ba`|:heavy_check_mark:|University of Zenica in Bosnia and Herzegovina|
+|`fu-berlin.de`|:heavy_check_mark:|Free University of Berlin in Germany|
+|`ecla.de`|:heavy_check_mark:|ECLA of Bard is a state recognized liberal arts university in Berlin, Germany |
+|`bvb.de`|:heavy_multiplication_x:|It's a soccer team from Germany|
+|`lsmu.com`|:heavy_check_mark:| Lugansk State Medical University in the Ukraine |
+
 
 ### Known Issues / Bugs / "Features"
 
 * You can search by email and domain names only. You cannot search by IP.
-* You don't know if the email address belongs to a student, faculty, staff member, etc.
-* There may be a few false positives, missing institutions... maybe even a couple of typos. Contributons welcome!
+* You don't know if the email address belongs to a student, faculty, staff member, alumni, or a contractor.
+* There may be a few false positives, missing institutions... maybe even a couple of typos. Contributions welcome!
 
 ![](http://i.imgur.com/K8vsw.gif)
+
+### Preventing Abuse
+
+Just because someone has verified that they own `lreilly@stanford.edu` doesn't mean that they're a student. They could be faculty, staff, alumnni, or maybe even an external contractor. If you're suddenly getting a lot of traffic from websites like [FatWallet](http://www.fatwallet.com) or [SlickDeals](http://www.slickdeals.net), you might want to find out why. If you're suddenly getting a lot of requests from a particular school, you should look into that too. It may be good business, word of mouth, or someone may have found a loophole.
+
+In short, Swot gives you a high confidence level and not a guarantee. You should put some controls in place or at least monitor how's it doing from time to time.
+
+### What is a swot?
+
+According to [UrbanDictionary](http://www.urbandictionary.com/define.php?term=swot) :blue_book:
+
+> A word used by morons to insult a person of superior academic abilities.
+
+or
+
+> [verb] To Swot; Revision undertaken preceding an examination.
+
+or
+
+> [anagram] Stupid Waste of Time
