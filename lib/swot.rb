@@ -151,6 +151,7 @@ module Swot
         return false
       end
     end
+    alias_method :academic?, :is_academic?
 
     # Figure out the institution name based on the email address/domain.
     #
@@ -162,6 +163,7 @@ module Swot
       domain = PublicSuffix.parse(text)
       name_from_academic_domain(domain)
     end
+    alias_method :school_name, :get_institution_name
 
     # Figure out if a domain name is a know academic institution.
     #
