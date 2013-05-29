@@ -54,7 +54,7 @@ Swot::school_name 'http://www.stanford.edu'
 Contributions welcome! Please see the [contribution guidelines](CONTRIBUTING.md) for details on how to add, update, or delete schools. Code contributions welcome too. Ports to different languages welcome too.
 
 **Thanks** to the following people for their contributions:
-@blutack, @captn3m0, @johndbritton, @johnotander, @pborreli, @rcurtis, @vikhyat,.
+@blutack, @captn3m0, @chrishunt, @johndbritton, @johnotander, @pborreli, @rcurtis, @vikhyat,.
 
 **Special thanks** to @weppos for the [public_suffix](https://github.com/weppos/publicsuffix-ruby) gem :metal:
 
