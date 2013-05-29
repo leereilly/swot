@@ -191,17 +191,16 @@ module Swot
     #
     # Returns a string with the FQDN; nil if there's an error.
     def get_domain(text)
-      text.strip!
-      return false if text.nil?
-      text.downcase!
-      text = text.split("@")[1] if text.include? "@"
+      PublicSuffix.parse text.downcase.match(domain_regex).captures.first
+    rescue
+      return nil
+    end
 
-      begin
-        domain = PublicSuffix.parse(text)
-        return domain
-      rescue
-        return nil
-      end
+    private
+
+    # http://rubular.com/r/uW2GqSxvqD
+    def domain_regex
+      /([^@\/:]+)[:\d]*$/
     end
   end
 end
