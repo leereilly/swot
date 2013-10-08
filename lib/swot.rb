@@ -131,7 +131,6 @@ module Swot
     #  false otherwise.
     def is_academic?(text)
       return false if text.nil?
-      text.strip!
       begin
         domain = get_domain(text)
         return false if domain.nil?
@@ -157,11 +156,7 @@ module Swot
     #
     # Returns a string with the institution name; nil if nothing is found.
     def get_institution_name(text)
-      text.strip!
-      text.downcase!
-      text = text.split("@")[1] if text.include? "@"
-      domain = PublicSuffix.parse(text)
-      name_from_academic_domain(domain)
+      name_from_academic_domain(get_domain(text))
     end
     alias_method :school_name, :get_institution_name
 
@@ -170,7 +165,7 @@ module Swot
     # Returns true if the domain name belongs to a known academic institution;
     #  false otherwise.
     def match_academic_domain?(domain)
-      File.exists?("#{File.expand_path(__FILE__+'/..')}/domains/#{domain.tld}/#{domain.sld}")
+      File.exists?(get_path(domain))
     end
 
     # Figure out the institutions' name based on the domain name.
@@ -178,10 +173,7 @@ module Swot
     # Return the institution name, or nil if not found.
     def name_from_academic_domain(domain)
       begin
-        file = File.open("#{File.expand_path(__FILE__+'/..')}/domains/#{domain.tld}/#{domain.sld}", "rb")
-        contents = file.read
-        contents.strip!
-        return contents
+        File.read(get_path(domain), :mode => "rb").strip
       rescue
         return nil
       end
@@ -191,9 +183,13 @@ module Swot
     #
     # Returns a string with the FQDN; nil if there's an error.
     def get_domain(text)
-      PublicSuffix.parse text.downcase.match(domain_regex).captures.first
+      PublicSuffix.parse text.strip.downcase.match(domain_regex).captures.first
     rescue
       return nil
+    end
+
+    def get_path(domain)
+      File.join(File.dirname(__FILE__), "domains", domain.tld, domain.sld)
     end
 
     private

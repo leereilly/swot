@@ -48,6 +48,10 @@ class TestEmail < Test::Unit::TestCase
     assert_equal Swot::get_institution_name('lreilly@cs.strath.ac.uk'), "University of Strathclyde"
   end
 
+  should "returns nil when institution invalid" do
+    assert_equal Swot::get_institution_name('foo@shop.com'), nil
+  end
+
   should "test aliased methods" do
     assert_equal Swot::academic?('stanford.edu'), true
     assert_equal Swot::school_name('lreilly@cs.strath.ac.uk'), "University of Strathclyde"
