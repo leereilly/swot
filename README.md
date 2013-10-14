@@ -51,7 +51,7 @@ Swot::school_name 'http://www.stanford.edu'
 
 ### Contributing to Swot
 
-Contributions welcome! Please see the [contribution guidelines](CONTRIBUTING.md) for details on how to add, update, or delete schools. Code contributions welcome too. Ports to different languages welcome too.
+Contributions welcome! Please see the [contribution guidelines](CONTRIBUTING.md) for details on how to add, update, or delete schools. Code contributions and ports to different languages welcome too.
 
 **Thanks** to the following people for their contributions:
 @blutack, @captn3m0, @chrishunt, @johndbritton, @johnotander, @pborreli, @rcurtis, @vikhyat,.
