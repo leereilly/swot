@@ -173,7 +173,7 @@ module Swot
     # Return the institution name, or nil if not found.
     def name_from_academic_domain(domain)
       begin
-        File.read(get_path(domain), :mode => "rb").strip
+        File.read(get_path(domain), :mode => "rb", :external_encoding => "UTF-8").strip
       rescue
         return nil
       end
