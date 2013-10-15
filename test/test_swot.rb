@@ -1,3 +1,4 @@
+# encoding: UTF-8
 require 'helper'
 
 class TestEmail < Test::Unit::TestCase
@@ -46,6 +47,7 @@ class TestEmail < Test::Unit::TestCase
 
   should "returns name of valid institution" do
     assert_equal Swot::get_institution_name('lreilly@cs.strath.ac.uk'), "University of Strathclyde"
+    assert_equal Swot::get_institution_name('lreilly@fadi.at'), "BRG Fadingerstraße Linz, Austria"
   end
 
   should "returns nil when institution invalid" do
