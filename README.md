@@ -102,3 +102,8 @@ Hopefully, you'll be surprised by some of this:
 |`lsmu.com`|:heavy_check_mark:| Lugansk State Medical University in the Ukraine |
 
 If you verified this by visiting all of the websites, how long did it take you? Did you have fun? Imagine you had to do this 10 - 100 times every day. Now you know a little something about the inspiration for Swot. Swot can verify them all in a fraction of a second and remove a :poop: part of someone's job.
+
+### See Also
+
+* [gman](https://github.com/benbalter/gman) - like swot, but for government emails
+
