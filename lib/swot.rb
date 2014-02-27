@@ -123,6 +123,13 @@ module Swot
     'vic.edu.au' => 1,
   }
 
+  # These are domains that snuck into the edu registry,
+  # but don't pass the education sniff test
+  # Note: domain must be a direct match
+  BLACKLIST = [
+    'si.edu',
+  ]
+
   class << self
 
     # Figure out if an email or domain belongs to academic institution.
@@ -135,7 +142,9 @@ module Swot
         domain = get_domain(text)
         return false if domain.nil?
 
-        if ACADEMIC_TLDS[domain.tld]
+        if BLACKLIST.include? domain.name
+          false
+        elsif ACADEMIC_TLDS[domain.tld]
           true
         elsif match_academic_domain?(domain)
           true

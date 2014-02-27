@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   ]
   s.files = [
     ".document",
-    ".rbenv-version",
+    ".ruby-version",
     "CONTRIBUTING.md",
     "Gemfile",
     "LICENSE.txt",
@@ -7725,4 +7725,3 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<jeweler>, ["~> 1.8.3"])
   end
 end
-

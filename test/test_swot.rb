@@ -58,4 +58,10 @@ class TestEmail < Test::Unit::TestCase
     assert_equal Swot::academic?('stanford.edu'), true
     assert_equal Swot::school_name('lreilly@cs.strath.ac.uk'), "University of Strathclyde"
   end
+
+  should "fail blacklisted domains" do
+    ["si.edu", " si.edu ", "imposter@si.edu"].each do |domain|
+      assert_equal false, Swot::is_academic?(domain), "#{domain} should be denied"
+    end
+  end
 end
