@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Lee Reilly"]
   s.date = "2014-04-01"
-  s.description = "email helpers"
+  s.description = "Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts."
   s.email = "lee@leereilly.net"
   s.extra_rdoc_files = [
     "LICENSE.txt",
