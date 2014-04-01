@@ -1,7 +1,7 @@
 require 'public_suffix'
 
 module Swot
-  VERSION = "0.1.0"
+  VERSION = "0.3.0"
 
   # These top-level domains are guaranteed to be academic institutions.
   ACADEMIC_TLDS = {

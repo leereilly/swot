@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "swot"
-  s.version = "0.2.13"
+  s.version = "0.3.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Lee Reilly"]
-  s.date = "2013-05-28"
+  s.date = "2014-03-31"
   s.description = "email helpers"
   s.email = "lee@leereilly.net"
   s.extra_rdoc_files = [
@@ -19,6 +19,7 @@ Gem::Specification.new do |s|
   s.files = [
     ".document",
     ".ruby-version",
+    ".travis.yml",
     "CONTRIBUTING.md",
     "Gemfile",
     "LICENSE.txt",
@@ -331,6 +332,7 @@ Gem::Specification.new do |s|
     "lib/domains/ac.il/weizmann",
     "lib/domains/ac.il/wgalil",
     "lib/domains/ac.il/yvc",
+    "lib/domains/ac.in/becs",
     "lib/domains/ac.in/bitmesra",
     "lib/domains/ac.in/bits-pilani",
     "lib/domains/ac.in/daiict",
@@ -1257,6 +1259,7 @@ Gem::Specification.new do |s|
     "lib/domains/ac.uk/soas",
     "lib/domains/ac.uk/solent",
     "lib/domains/ac.uk/soton",
+    "lib/domains/ac.uk/southwales",
     "lib/domains/ac.uk/ssees",
     "lib/domains/ac.uk/st-and",
     "lib/domains/ac.uk/st-patricks",
@@ -1355,6 +1358,7 @@ Gem::Specification.new do |s|
     "lib/domains/asso.fr/essca",
     "lib/domains/asso.fr/fupl",
     "lib/domains/asso.fr/ict-toulouse",
+    "lib/domains/at/fadi",
     "lib/domains/at/fh-burgenland",
     "lib/domains/at/fh-hagenberg",
     "lib/domains/at/fh-joanneum",
@@ -1672,6 +1676,7 @@ Gem::Specification.new do |s|
     "lib/domains/ca/rrc",
     "lib/domains/ca/ryerson",
     "lib/domains/ca/sait",
+    "lib/domains/ca/saultcollege",
     "lib/domains/ca/sfu",
     "lib/domains/ca/stfx",
     "lib/domains/ca/stmarys",
@@ -6331,6 +6336,7 @@ Gem::Specification.new do |s|
     "lib/domains/fr/essec",
     "lib/domains/fr/estp",
     "lib/domains/fr/eudil",
+    "lib/domains/fr/eurecom",
     "lib/domains/fr/hec",
     "lib/domains/fr/hei",
     "lib/domains/fr/icam",
@@ -7695,25 +7701,25 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/leereilly/swot"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.23"
+  s.rubygems_version = "2.0.14"
   s.summary = "email helpers"
 
   if s.respond_to? :specification_version then
-    s.specification_version = 3
+    s.specification_version = 4
 
     if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
       s.add_runtime_dependency(%q<public_suffix>, [">= 0"])
       s.add_development_dependency(%q<rake>, ["~> 10.0.4"])
       s.add_development_dependency(%q<shoulda>, [">= 0"])
       s.add_development_dependency(%q<rdoc>, ["~> 3.12"])
-      s.add_development_dependency(%q<bundler>, ["~> 1.2.1"])
+      s.add_development_dependency(%q<bundler>, ["~> 1.5.0"])
       s.add_development_dependency(%q<jeweler>, ["~> 1.8.3"])
     else
       s.add_dependency(%q<public_suffix>, [">= 0"])
       s.add_dependency(%q<rake>, ["~> 10.0.4"])
       s.add_dependency(%q<shoulda>, [">= 0"])
       s.add_dependency(%q<rdoc>, ["~> 3.12"])
-      s.add_dependency(%q<bundler>, ["~> 1.2.1"])
+      s.add_dependency(%q<bundler>, ["~> 1.5.0"])
       s.add_dependency(%q<jeweler>, ["~> 1.8.3"])
     end
   else
@@ -7721,7 +7727,7 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<rake>, ["~> 10.0.4"])
     s.add_dependency(%q<shoulda>, [">= 0"])
     s.add_dependency(%q<rdoc>, ["~> 3.12"])
-    s.add_dependency(%q<bundler>, ["~> 1.2.1"])
+    s.add_dependency(%q<bundler>, ["~> 1.5.0"])
     s.add_dependency(%q<jeweler>, ["~> 1.8.3"])
   end
 end
