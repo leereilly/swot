@@ -64,4 +64,9 @@ class TestEmail < Test::Unit::TestCase
       assert_equal false, Swot::is_academic?(domain), "#{domain} should be denied"
     end
   end
+
+  should "not err on tld-only domains" do
+    assert_nothing_raised { Swot::is_academic? ".com" }
+    assert_equal false, Swot::is_academic?(".com")
+  end
 end
