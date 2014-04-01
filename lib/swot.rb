@@ -125,7 +125,7 @@ module Swot
 
   # These are domains that snuck into the edu registry,
   # but don't pass the education sniff test
-  # Note: domain must be a direct match
+  # Note: validated domain must not end with the blacklisted string
   BLACKLIST = [
     'si.edu',
   ]
@@ -142,7 +142,7 @@ module Swot
         domain = get_domain(text)
         return false if domain.nil?
 
-        if BLACKLIST.include? domain.name
+        if BLACKLIST.any? { |d| domain.name =~ /#{Regexp.escape(d)}$/ }
           false
         elsif ACADEMIC_TLDS[domain.tld]
           true
