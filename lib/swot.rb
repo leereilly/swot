@@ -199,6 +199,8 @@ module Swot
 
     def get_path(domain)
       File.join(File.dirname(__FILE__), "domains", domain.tld, domain.sld)
+    rescue
+      return nil
     end
 
     private
