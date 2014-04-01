@@ -174,7 +174,7 @@ module Swot
     # Returns true if the domain name belongs to a known academic institution;
     #  false otherwise.
     def match_academic_domain?(domain)
-      File.exists?(get_path(domain))
+      File.exists?(get_path(domain)) if domain.tld && domain.sld
     end
 
     # Figure out the institutions' name based on the domain name.
@@ -199,8 +199,6 @@ module Swot
 
     def get_path(domain)
       File.join(File.dirname(__FILE__), "domains", domain.tld, domain.sld)
-    rescue
-      return nil
     end
 
     private
