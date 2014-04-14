@@ -142,7 +142,7 @@ module Swot
         domain = get_domain(text)
         return false if domain.nil?
 
-        if BLACKLIST.any? { |d| domain.name =~ /#{Regexp.escape(d)}$/ }
+        if BLACKLIST.any? { |d| domain.name =~ /(\A|\.)#{Regexp.escape(d)}\z/ }
           false
         elsif ACADEMIC_TLDS[domain.tld]
           true
