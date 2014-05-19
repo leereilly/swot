@@ -1,8 +1,8 @@
 # encoding: UTF-8
 require 'helper'
 
-class TestEmail < MiniTest::Test
-  should "recognizes academic email addresses and domains" do
+describe Swot do
+  it "recognizes academic email addresses and domains" do
     assert_equal Swot::is_academic?('lreilly@stanford.edu'),          true
     assert_equal Swot::is_academic?('LREILLY@STANFORD.EDU'),          true
     assert_equal Swot::is_academic?('Lreilly@Stanford.Edu'),          true
@@ -45,27 +45,27 @@ class TestEmail < MiniTest::Test
     assert_equal Swot::is_academic?(' gmail.com '),                   false
   end
 
-  should "returns name of valid institution" do
+  it "returns name of valid institution" do
     assert_equal Swot::get_institution_name('lreilly@cs.strath.ac.uk'), "University of Strathclyde"
     assert_equal Swot::get_institution_name('lreilly@fadi.at'), "BRG Fadingerstraße Linz, Austria"
   end
 
-  should "returns nil when institution invalid" do
+  it "returns nil when institution invalid" do
     assert_equal Swot::get_institution_name('foo@shop.com'), nil
   end
 
-  should "test aliased methods" do
+  it "test aliased methods" do
     assert_equal Swot::academic?('stanford.edu'), true
     assert_equal Swot::school_name('lreilly@cs.strath.ac.uk'), "University of Strathclyde"
   end
 
-  should "fail blacklisted domains" do
+  it "fail blacklisted domains" do
     ["si.edu", " si.edu ", "imposter@si.edu", "foo.si.edu"].each do |domain|
       assert_equal false, Swot::is_academic?(domain), "#{domain} should be denied"
     end
   end
 
-  should "not err on tld-only domains" do
+  it "not err on tld-only domains" do
     Swot::is_academic? ".com"
     assert_equal false, Swot::is_academic?(".com")
   end
