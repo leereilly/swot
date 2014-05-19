@@ -1,7 +1,7 @@
 # encoding: UTF-8
 require 'helper'
 
-class TestEmail < Test::Unit::TestCase
+class TestEmail < MiniTest::Test
   should "recognizes academic email addresses and domains" do
     assert_equal Swot::is_academic?('lreilly@stanford.edu'),          true
     assert_equal Swot::is_academic?('LREILLY@STANFORD.EDU'),          true
@@ -66,7 +66,7 @@ class TestEmail < Test::Unit::TestCase
   end
 
   should "not err on tld-only domains" do
-    assert_nothing_raised { Swot::is_academic? ".com" }
+    Swot::is_academic? ".com"
     assert_equal false, Swot::is_academic?(".com")
   end
 end
