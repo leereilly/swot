@@ -44,7 +44,7 @@ describe Swot do
     assert_equal Swot::is_academic?('lee@strath.ac.uk '),             true
     assert_equal Swot::is_academic?(' gmail.com '),                   false
 
-    assert_equal Swot::is_academic?('lee@stud.uni-corvinus.hu'),          true
+    assert_equal Swot::is_academic?('lee@stud.uni-corvinus.hu'),      true
   end
 
   it "returns name of valid institution" do
