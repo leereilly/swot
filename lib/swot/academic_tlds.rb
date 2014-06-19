@@ -52,6 +52,7 @@ module Swot
     edu.bs
     edu.bt
     edu.bz
+    edu.cn
     edu.co
     edu.cu
     edu.do
