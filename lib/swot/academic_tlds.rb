@@ -12,6 +12,7 @@ module Swot
     ac.fj
     ac.id
     ac.il
+    ac.in
     ac.ir
     ac.jp
     ac.ke
