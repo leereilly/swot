@@ -61,4 +61,30 @@ task :add, :sld, :tld, :name do |t, args|
       puts "commit failed"
     end
   end
-end  
+end
+
+task :quackit_import do
+  require 'nokogiri'
+  require 'open-uri'
+  require_relative File.join('lib', 'swot', 'academic_tlds')
+
+  domains = Set.new
+  doc = Nokogiri::HTML(open('http://www.quackit.com/domain-names/country_domain_extensions.cfm'))
+  doc.css('#content li').each do |li|
+    desc = li.content.split(' - ')[1]
+    if desc =~ /academic|education|school/i
+      domain_el = li.at_css('b')
+      domain = domain_el.content.sub(/\A\./, '')
+      if domain =~ /\A(\w+\.)*\w+\z/ && !Swot::ACADEMIC_TLDS.include?(domain)
+        puts "#{domain} - #{desc.strip.gsub(/\s+/, ' ')}"
+        domains << domain
+      end
+    end
+  end
+
+  puts "\nNEW DOMAINS:\n\n"
+
+  domains.sort.each do |domain|
+    puts domain
+  end
+end
