@@ -5,12 +5,12 @@
 
 Gem::Specification.new do |s|
   s.name = "swot"
-  s.version = "0.3.0"
+  s.version = "0.3.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Lee Reilly"]
-  s.date = "2014-04-01"
-  s.description = "Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts."
+  s.date = "2014-06-19"
+  s.description = "email helpers"
   s.email = "lee@leereilly.net"
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -336,6 +336,7 @@ Gem::Specification.new do |s|
     "lib/domains/ac.in/bitmesra",
     "lib/domains/ac.in/bits-pilani",
     "lib/domains/ac.in/daiict",
+    "lib/domains/ac.in/gtu",
     "lib/domains/ac.in/iiita",
     "lib/domains/ac.in/iiitd",
     "lib/domains/ac.in/iiitdmj",
@@ -350,6 +351,8 @@ Gem::Specification.new do |s|
     "lib/domains/ac.in/nirmauni",
     "lib/domains/ac.in/nitc",
     "lib/domains/ac.in/sastra",
+    "lib/domains/ac.in/srmuniv",
+    "lib/domains/ac.in/unipune",
     "lib/domains/ac.in/vit",
     "lib/domains/ac.in/vvpedulink",
     "lib/domains/ac.ir/acmt",
@@ -1007,6 +1010,7 @@ Gem::Specification.new do |s|
     "lib/domains/ac.nz/massey",
     "lib/domains/ac.nz/openpolytechnic",
     "lib/domains/ac.nz/otago",
+    "lib/domains/ac.nz/uclive",
     "lib/domains/ac.nz/vuw",
     "lib/domains/ac.nz/waikato",
     "lib/domains/ac.pa/institutoteima",
@@ -1903,6 +1907,7 @@ Gem::Specification.new do |s|
     "lib/domains/com/icn-nancy",
     "lib/domains/com/icsw",
     "lib/domains/com/imi-luzern",
+    "lib/domains/com/ionis-stm",
     "lib/domains/com/isbm-school",
     "lib/domains/com/islamicug",
     "lib/domains/com/iu-travnik",
@@ -3152,8 +3157,6 @@ Gem::Specification.new do |s|
     "lib/domains/edu.hn/upnfm",
     "lib/domains/edu.hn/usps",
     "lib/domains/edu.ht/ueh",
-    "lib/domains/edu.in/gtu",
-    "lib/domains/edu.in/srmuniv",
     "lib/domains/edu.iq/auis",
     "lib/domains/edu.iq/muc",
     "lib/domains/edu.iq/nahrainuniv",
@@ -6199,6 +6202,7 @@ Gem::Specification.new do |s|
     "lib/domains/eu/carolus-magnus-university",
     "lib/domains/eu/coleurope",
     "lib/domains/eu/ensam",
+    "lib/domains/eu/epitech",
     "lib/domains/eu/escpeurope",
     "lib/domains/eu/ibss",
     "lib/domains/eu/it-sudparis",
@@ -6210,6 +6214,7 @@ Gem::Specification.new do |s|
     "lib/domains/eun.eg/msa",
     "lib/domains/fi/aalto",
     "lib/domains/fi/abo",
+    "lib/domains/fi/arcada",
     "lib/domains/fi/businesscollege",
     "lib/domains/fi/cou",
     "lib/domains/fi/diak",
@@ -6374,9 +6379,11 @@ Gem::Specification.new do |s|
     "lib/domains/fr/sorbon",
     "lib/domains/fr/sorbonne",
     "lib/domains/fr/supaero",
+    "lib/domains/fr/supbiotech",
     "lib/domains/fr/supco-amiens",
     "lib/domains/fr/supco-montpellier",
     "lib/domains/fr/supelec",
+    "lib/domains/fr/supinternet",
     "lib/domains/fr/u-3mrs",
     "lib/domains/fr/u-bordeaux",
     "lib/domains/fr/u-bordeaux2",
@@ -6568,6 +6575,7 @@ Gem::Specification.new do |s|
     "lib/domains/hu/szie",
     "lib/domains/hu/tkbf",
     "lib/domains/hu/u-szeged",
+    "lib/domains/hu/uni-corvinus",
     "lib/domains/hu/uni-miskolc",
     "lib/domains/hu/uni-pannon",
     "lib/domains/hu/unideb",
@@ -6948,7 +6956,9 @@ Gem::Specification.new do |s|
     "lib/domains/net.pe/rcp",
     "lib/domains/net.ph/evis",
     "lib/domains/net/bracuniversity",
+    "lib/domains/net/e-artsup",
     "lib/domains/net/eastafricauniversity",
+    "lib/domains/net/etna-alternance",
     "lib/domains/net/gitis",
     "lib/domains/net/gulfuniversity",
     "lib/domains/net/iraquniversity",
@@ -6993,9 +7003,11 @@ Gem::Specification.new do |s|
     "lib/domains/nl/nikhef",
     "lib/domains/nl/ou",
     "lib/domains/nl/roac",
+    "lib/domains/nl/roceindhoven",
     "lib/domains/nl/rocvantwente",
     "lib/domains/nl/ru",
     "lib/domains/nl/rug",
+    "lib/domains/nl/summacollege",
     "lib/domains/nl/tilburguniversity",
     "lib/domains/nl/tudelft",
     "lib/domains/nl/tue",
@@ -7112,6 +7124,7 @@ Gem::Specification.new do |s|
     "lib/domains/org/spartanmed",
     "lib/domains/org/svuonline",
     "lib/domains/org/thiqaruni",
+    "lib/domains/org/toulouse-bs",
     "lib/domains/org/tusol",
     "lib/domains/org/tusom",
     "lib/domains/org/ucapanama",
@@ -7694,6 +7707,7 @@ Gem::Specification.new do |s|
     "lib/domains/zgora.pl/pz",
     "lib/domains/zgora.pl/wsp",
     "lib/swot.rb",
+    "lib/swot/academic_tlds.rb",
     "swot.gemspec",
     "test/helper.rb",
     "test/test_swot.rb"
@@ -7709,26 +7723,26 @@ Gem::Specification.new do |s|
 
     if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
       s.add_runtime_dependency(%q<public_suffix>, [">= 0"])
-      s.add_development_dependency(%q<rake>, ["~> 10.0.4"])
-      s.add_development_dependency(%q<shoulda>, [">= 0"])
+      s.add_development_dependency(%q<nokogiri>, ["~> 1.5"])
+      s.add_development_dependency(%q<rake>, ["~> 10.0"])
       s.add_development_dependency(%q<rdoc>, ["~> 3.12"])
-      s.add_development_dependency(%q<bundler>, ["~> 1.5.0"])
-      s.add_development_dependency(%q<jeweler>, ["~> 1.8.3"])
+      s.add_development_dependency(%q<bundler>, ["~> 1.5"])
+      s.add_development_dependency(%q<jeweler>, ["~> 1.8"])
     else
       s.add_dependency(%q<public_suffix>, [">= 0"])
-      s.add_dependency(%q<rake>, ["~> 10.0.4"])
-      s.add_dependency(%q<shoulda>, [">= 0"])
+      s.add_dependency(%q<nokogiri>, ["~> 1.5"])
+      s.add_dependency(%q<rake>, ["~> 10.0"])
       s.add_dependency(%q<rdoc>, ["~> 3.12"])
-      s.add_dependency(%q<bundler>, ["~> 1.5.0"])
-      s.add_dependency(%q<jeweler>, ["~> 1.8.3"])
+      s.add_dependency(%q<bundler>, ["~> 1.5"])
+      s.add_dependency(%q<jeweler>, ["~> 1.8"])
     end
   else
     s.add_dependency(%q<public_suffix>, [">= 0"])
-    s.add_dependency(%q<rake>, ["~> 10.0.4"])
-    s.add_dependency(%q<shoulda>, [">= 0"])
+    s.add_dependency(%q<nokogiri>, ["~> 1.5"])
+    s.add_dependency(%q<rake>, ["~> 10.0"])
     s.add_dependency(%q<rdoc>, ["~> 3.12"])
-    s.add_dependency(%q<bundler>, ["~> 1.5.0"])
-    s.add_dependency(%q<jeweler>, ["~> 1.8.3"])
+    s.add_dependency(%q<bundler>, ["~> 1.5"])
+    s.add_dependency(%q<jeweler>, ["~> 1.8"])
   end
 end
 
