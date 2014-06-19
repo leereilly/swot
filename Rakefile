@@ -78,7 +78,7 @@ task :quackit_import do
       domains = domain_el.content.split(/\s*\/\s*/)
       domains.each do |domain|
         # remove leading space
-        domain = domain.sub(/\A\./, '')
+        domain = domain.strip.sub(/\A\./, '')
         unless Swot::ACADEMIC_TLDS.include?(domain)
           # print out for manual review
           puts "#{domain} - #{desc.strip.gsub(/\s+/, ' ')}"
@@ -90,7 +90,7 @@ task :quackit_import do
 
   puts "\nNEW DOMAINS (#{new_domains.size}):\n\n"
 
-  new_domains.sort.each do |domain|
+  new_domains.each do |domain|
     puts domain
   end
 end
