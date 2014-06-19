@@ -71,7 +71,7 @@ task :quackit_import do
   new_domains = Set.new
   doc = Nokogiri::HTML(open('http://www.quackit.com/domain-names/country_domain_extensions.cfm'))
   doc.css('#content li').each do |li|
-    desc = li.content.split(/\s+-\s+/)[1]
+    desc = li.content.split(/\s+-\s+/, 2)[1]
     if desc =~ /academic|education|school/i
       domain_el = li.at_css('b')
       # some lines have more than one domain listed
