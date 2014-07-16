@@ -9,6 +9,7 @@ module Swot
   # Note: validated domain must not end with the blacklisted string
   BLACKLIST = %w(
     si.edu
+    america.edu
   ).freeze
 
   class << self
