@@ -106,3 +106,4 @@ If you verified this by visiting all of the websites, how long did it take you? 
 ### See Also
 
 * [gman](https://github.com/benbalter/gman) - like swot, but for government emails
+* [swotphp](https://github.com/mdwheele/swotphp) - PHP port of Swot
