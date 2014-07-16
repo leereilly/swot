@@ -62,7 +62,7 @@ describe Swot do
   end
 
   it "fail blacklisted domains" do
-    ["si.edu", " si.edu ", "imposter@si.edu", "foo.si.edu"].each do |domain|
+    ["si.edu", " si.edu ", "imposter@si.edu", "foo.si.edu", "america.edu"].each do |domain|
       assert_equal false, Swot::is_academic?(domain), "#{domain} should be denied"
     end
   end
