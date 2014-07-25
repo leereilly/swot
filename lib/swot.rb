@@ -80,7 +80,9 @@ module Swot
     end
 
     def get_path(domain)
-      File.join(File.dirname(__FILE__), "domains", domain.tld, domain.sld)
+      parts = [File.dirname(__FILE__), "domains"]
+      parts += domain.domain.split(".").reverse
+      File.join(*parts) + ".txt"
     end
 
     private
