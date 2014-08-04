@@ -80,7 +80,7 @@ or
 
 or
 
-> [anagram] Stupid Waste of Time
+> [backronym] Stupid Waste of Time
 
 ### Pop Quiz Answers
 
