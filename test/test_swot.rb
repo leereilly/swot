@@ -48,7 +48,7 @@ describe Swot do
 
     # overkill
     assert_equal Swot::is_academic?('lee@harvard.edu'),               true
-    assert_equal Swot::is_academic?('lee@mail.harvard.edu'),                       true
+    assert_equal Swot::is_academic?('lee@mail.harvard.edu'),          true
   end
 
   it "returns name of valid institution" do
