@@ -72,6 +72,10 @@ describe Swot do
     assert_equal Swot::is_academic?('lit.ie'),                        true
     assert_equal Swot::get_institution_name('lit.ie'), "Limerick Institute of Technology"
 
+    # National College of Art and Design
+    assert_equal Swot::is_academic?('ncad.ie'),                       true
+    assert_equal Swot::get_institution_name('ncad.ie'), "National College of Art and Design"
+
     # National University of Ireland, Galway
     assert_equal Swot::is_academic?('nuigalway.ie'),                  true
     assert_equal Swot::get_institution_name('nuigalway.ie'), "National University of Ireland, Galway"
