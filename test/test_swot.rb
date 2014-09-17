@@ -46,6 +46,11 @@ describe Swot do
 
     assert_equal Swot::is_academic?('lee@stud.uni-corvinus.hu'),      true
 
+    # ie - Ireland
+    # National University of Ireland, Galway
+    assert_equal Swot::is_academic?('nuigalway.ie'),                  true
+    assert_equal Swot::is_academic?('ucg.ie'),                        true
+
     # overkill
     assert_equal Swot::is_academic?('lee@harvard.edu'),               true
     assert_equal Swot::is_academic?('lee@mail.harvard.edu'),          true
