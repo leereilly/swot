@@ -56,6 +56,10 @@ describe Swot do
     assert_equal Swot::is_academic?('itb.ie'),                        true
     assert_equal Swot::get_institution_name('itb.ie'), "Institute of Technology, Blanchardstown"
 
+    # Institute of Technology, Sligo
+    assert_equal Swot::is_academic?('itsligo.ie'),                    true
+    assert_equal Swot::get_institution_name('itsligo.ie'), "Institute of Technology, Sligo"
+
     # Letterkenny Institute of Technology
     assert_equal Swot::is_academic?('lyit.ie'),                       true
     assert_equal Swot::get_institution_name('lyit.ie'), "Letterkenny Institute of Technology"
