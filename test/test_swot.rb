@@ -47,9 +47,16 @@ describe Swot do
     assert_equal Swot::is_academic?('lee@stud.uni-corvinus.hu'),      true
 
     # ie - Ireland
+
+    # Dún Laoghaire Institute of Art, Design and Technology
+    assert_equal Swot::is_academic?('iadt.ie'),                       true
+    assert_equal Swot::get_institution_name('iadt.ie'), "Dún Laoghaire Institute of Art, Design and Technology"
+
     # National University of Ireland, Galway
     assert_equal Swot::is_academic?('nuigalway.ie'),                  true
+    assert_equal Swot::get_institution_name('nuigalway.ie'), "National University of Ireland, Galway"
     assert_equal Swot::is_academic?('ucg.ie'),                        true
+    assert_equal Swot::get_institution_name('ucg.ie'), "National University of Ireland, Galway"
 
     # overkill
     assert_equal Swot::is_academic?('lee@harvard.edu'),               true
