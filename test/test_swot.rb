@@ -60,6 +60,10 @@ describe Swot do
     assert_equal Swot::is_academic?('lyit.ie'),                       true
     assert_equal Swot::get_institution_name('lyit.ie'), "Letterkenny Institute of Technology"
 
+    # Limerick Institute of Technology
+    assert_equal Swot::is_academic?('lit.ie'),                        true
+    assert_equal Swot::get_institution_name('lit.ie'), "Limerick Institute of Technology"
+
     # National University of Ireland, Galway
     assert_equal Swot::is_academic?('nuigalway.ie'),                  true
     assert_equal Swot::get_institution_name('nuigalway.ie'), "National University of Ireland, Galway"
