@@ -52,6 +52,10 @@ describe Swot do
     assert_equal Swot::is_academic?('iadt.ie'),                       true
     assert_equal Swot::get_institution_name('iadt.ie'), "Dún Laoghaire Institute of Art, Design and Technology"
 
+    # Institute of Technology, Blanchardstown
+    assert_equal Swot::is_academic?('itb.ie'),                        true
+    assert_equal Swot::get_institution_name('itb.ie'), "Institute of Technology, Blanchardstown"
+
     # National University of Ireland, Galway
     assert_equal Swot::is_academic?('nuigalway.ie'),                  true
     assert_equal Swot::get_institution_name('nuigalway.ie'), "National University of Ireland, Galway"
