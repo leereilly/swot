@@ -1,6 +1,7 @@
 source "http://rubygems.org"
 
 gem 'public_suffix'
+gem 'naughty_or_nice'
 
 group :development do
   gem "nokogiri", "~> 1.5"
