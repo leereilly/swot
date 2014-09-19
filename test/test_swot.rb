@@ -46,42 +46,6 @@ describe Swot do
 
     assert_equal Swot::is_academic?('lee@stud.uni-corvinus.hu'),      true
 
-    # ie - Ireland
-
-    # Dún Laoghaire Institute of Art, Design and Technology
-    assert_equal Swot::is_academic?('iadt.ie'),                       true
-    assert_equal Swot::get_institution_name('iadt.ie'), "Dún Laoghaire Institute of Art, Design and Technology"
-
-    # Institute of Technology, Blanchardstown
-    assert_equal Swot::is_academic?('itb.ie'),                        true
-    assert_equal Swot::get_institution_name('itb.ie'), "Institute of Technology, Blanchardstown"
-
-    # Institute of Technology, Sligo
-    assert_equal Swot::is_academic?('itsligo.ie'),                    true
-    assert_equal Swot::get_institution_name('itsligo.ie'), "Institute of Technology, Sligo"
-
-    # Institute of Technology, Tallaght
-    assert_equal Swot::is_academic?('ittdublin.ie'),                  true
-    assert_equal Swot::get_institution_name('ittdublin.ie'), "Institute of Technology, Tallaght"
-
-    # Letterkenny Institute of Technology
-    assert_equal Swot::is_academic?('lyit.ie'),                       true
-    assert_equal Swot::get_institution_name('lyit.ie'), "Letterkenny Institute of Technology"
-
-    # Limerick Institute of Technology
-    assert_equal Swot::is_academic?('lit.ie'),                        true
-    assert_equal Swot::get_institution_name('lit.ie'), "Limerick Institute of Technology"
-
-    # National College of Art and Design
-    assert_equal Swot::is_academic?('ncad.ie'),                       true
-    assert_equal Swot::get_institution_name('ncad.ie'), "National College of Art and Design"
-
-    # National University of Ireland, Galway
-    assert_equal Swot::is_academic?('nuigalway.ie'),                  true
-    assert_equal Swot::get_institution_name('nuigalway.ie'), "National University of Ireland, Galway"
-    assert_equal Swot::is_academic?('ucg.ie'),                        true
-    assert_equal Swot::get_institution_name('ucg.ie'), "National University of Ireland, Galway"
-
     # overkill
     assert_equal Swot::is_academic?('lee@harvard.edu'),               true
     assert_equal Swot::is_academic?('lee@mail.harvard.edu'),          true
