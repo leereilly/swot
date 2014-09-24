@@ -28,7 +28,7 @@ private object Resources {
 
 private fun findSchoolNames(parts: List<String>): List<String> {
     val resourcePath = StringBuilder("")
-    for (part in parts.reverse()) {
+    for (part in parts) {
         resourcePath.append('/').append(part)
         val school = Resources.readList("${resourcePath}.txt")
         if (school != null) {
@@ -40,19 +40,15 @@ private fun findSchoolNames(parts: List<String>): List<String> {
 }
 
 private fun domainParts(emailOrDomain: String): List<String> {
-    return emailOrDomain.toLowerCase().substringAfter('@').split('.').toList()
+    return emailOrDomain.trim().toLowerCase().substringAfter('@').substringAfter("://").substringBefore(':').split('.').reverse()
 }
 
 private fun checkSet(set: Set<String>, parts: List<String>): Boolean {
     val subj = StringBuilder()
     for (part in parts) {
-        subj.append(part)
+        subj.insert(0, part)
         if (set.contains(subj.toString())) return true
-        subj.append('.')
+        subj.insert(0 ,'.')
     }
     return false
-}
-
-fun main(args: Array<String>) {
-    println(isAcademic("max@mit.edu"))
 }
