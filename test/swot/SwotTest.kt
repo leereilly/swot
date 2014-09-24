@@ -41,6 +41,15 @@ class SwotTest : TestCase() {
         assertEquals (false, isAcademic(" gmail.com "))                   
         assertEquals (true , isAcademic("lee@stud.uni-corvinus.hu"))      
         assertEquals (true , isAcademic("lee@harvard.edu"))               
-        assertEquals (true , isAcademic("lee@mail.harvard.edu"))          
+        assertEquals (true , isAcademic("lee@mail.harvard.edu"))
+
+        assertEquals(false, isAcademic("imposter@si.edu"))
+    }
+
+    fun testSchoolNames() {
+        assertEquals("University of Strathclyde", findSchoolNames("lreilly@cs.strath.ac.uk").single())
+        assertEquals("BRG Fadingerstraße Linz, Austria", findSchoolNames("lreilly@fadi.at").single())
+        assertEquals("St. Petersburg State University", findSchoolNames("max@spbu.ru ").single())
+        assertEquals(0, findSchoolNames("foo@shop.com").size())
     }
 }
