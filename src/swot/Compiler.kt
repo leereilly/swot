@@ -23,5 +23,6 @@ fun main(args: Array<String>) {
     }
 
     val blacklist = CompilationState.blacklist.map { "-$it" }.sort().join("\n")
+    File("out/artifacts").mkdirs()
     File("out/artifacts/swot.txt").writeText(blacklist + "\n" + CompilationState.domains.sort().join("\n"))
 }
