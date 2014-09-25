@@ -32,17 +32,16 @@ Change the file contents of the appropriate file.
 
 A simple `git rm` on the approriate file will do the trick.
 
-#### Code Contributions
+#### Refer the blacklist
+Please do not suggest to add domains from the blacklist. They're banned for the reason. The list currently looks like follows
+* si.edu - anyone could register a domain there
+* america.edu - anyone could register a domain there
+* californiacolleges.edu - anyone could register e-mail account there
+* maricopa.edu - anyone could register e-mail account there
+* cet.edu - this one's best. It could forward e-mails to your gmail.com even without registration. Cool.
+* australia.edu - anyone could register e-mail account there
 
-This was literally my first Ruby gem, so please keep that in mind when you're looking at the code :trollface:
 
-* Check out the latest [master](https://github.com/leereilly/swot/tree/master).
-* Take a look through the [open pull requests](https://github.com/leereilly/swot/issues) in case someone else has already contributed something similar.
-* Fork the project.
-* Start a topic branch of your own.
-* Commit and push away. Don't forget the tests!
-* Submit a pull request.
-* :boom: You've contributed to open source!
 
 ```
      ____________________________________________________
