@@ -15,7 +15,7 @@ fun main(args: Array<String>) {
     val root = File("lib/domains")
     root.recurse {
         if (it.isFile()) {
-            val parts = root.relativePath(it).trimTrailing(".txt").split('/').toList()
+            val parts = root.relativePath(it).replace('\\', '/').trimTrailing(".txt").split('/').toList()
             if (!checkSet(CompilationState.blacklist, parts) && !checkSet(CompilationState.domains, parts)) {
                 CompilationState.domains.add(parts.reverse().join("."))
             }
