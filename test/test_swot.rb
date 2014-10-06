@@ -75,4 +75,8 @@ describe Swot do
     Swot::is_academic? ".com"
     assert_equal false, Swot::is_academic?(".com")
   end
+
+  it "does not err on invalid domains" do
+    assert_equal false, Swot::is_academic?("foo@bar.invalid")
+  end
 end

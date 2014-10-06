@@ -32,7 +32,7 @@ class Swot < NaughtyOrNice
   # Returns true if the domain name belongs to an academic institution;
   #  false otherwise.
   def valid?
-    if domain.nil?
+    if domain.nil? || domain_parts.nil?
       false
     elsif BLACKLIST.any? { |d| domain =~ /(\A|\.)#{Regexp.escape(d)}\z/ }
       false
