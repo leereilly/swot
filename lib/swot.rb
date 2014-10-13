@@ -11,6 +11,9 @@ class Swot < NaughtyOrNice
   BLACKLIST = %w(
     si.edu
     america.edu
+    californiacolleges.edu
+    australia.edu
+    cet.edu
   ).freeze
 
   class << self
