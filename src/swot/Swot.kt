@@ -1,10 +1,19 @@
 package swot
 
-fun isAcademic(emailOrDomain: String): Boolean {
-    if (emailOrDomain.contains("@alum")) return false
+fun isAcademic(email: String): Boolean {
+    return when {
+        email.contains("@alumni."),
+        email.contains("@alumnus."),
+        email.contains("@alum")
+                && email.endsWith(".edu")
+                && !email.contains("@alumno")
+                && !email.contains("@alumnes")-> false
 
-    val parts = domainParts(emailOrDomain)
-    return !isBlacklisted(parts) && (isUnderTLD(parts) || findSchoolNames(parts).isNotEmpty())
+        else -> {
+            val parts = domainParts(email)
+            !isBlacklisted(parts) && (isUnderTLD(parts) || findSchoolNames(parts).isNotEmpty())
+        }
+    }
 }
 
 fun findSchoolNames(emailOrDomain: String): List<String> {
