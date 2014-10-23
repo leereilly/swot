@@ -52,15 +52,4 @@ class SwotTest : TestCase() {
         assertEquals("St. Petersburg State University", findSchoolNames("max@spbu.ru ").single())
         assertEquals(0, findSchoolNames("foo@shop.com").size())
     }
-
-    fun testAlumniDomains() {
-        assertTrue(isAcademic("me@alumnes.ub.edu"))  // University of Barcelona. Alumnes means students in Catalan
-        assertTrue(isAcademic("me@alumnos.uva.es"))  // In Spanish this means... Students!!
-        assertTrue(isAcademic("me@alumno.ipn.mx"))   // one student (from Mexico)
-        assertTrue(isAcademic("me@alum.us.es"))    // That might be shorter...
-        assertFalse(isAcademic("me@alum.mit.edu"))   // But MIT is neither Spanish nor Catalan entry
-        assertFalse(isAcademic("me@alumnus.tue.nl")) // In Dutch this means... Graduate!!
-        assertFalse(isAcademic("me@alumnimail.utdallas.edu"))   // Good try.
-        assertTrue(isAcademic("me@alumail.uji.es"))   // Yet this one shall pass.
-    }
 }
