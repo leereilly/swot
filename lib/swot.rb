@@ -3,7 +3,7 @@ require "naughty_or_nice"
 require_relative "swot/academic_tlds"
 
 class Swot < NaughtyOrNice
-  VERSION = "0.3.0"
+  VERSION = "0.4.2"
 
   # These are domains that snuck into the edu registry,
   # but don't pass the education sniff test
@@ -13,7 +13,7 @@ class Swot < NaughtyOrNice
     america.edu
     californiacolleges.edu
     australia.edu
-    cet.edu
+    cet.edud
   ).freeze
 
   class << self
