@@ -13,7 +13,7 @@ class Swot < NaughtyOrNice
     america.edu
     californiacolleges.edu
     australia.edu
-    cet.edud
+    cet.edu
   ).freeze
 
   class << self
