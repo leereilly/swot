@@ -108,4 +108,5 @@ If you verified this by visiting all of the websites, how long did it take you? 
 * [gman](https://github.com/benbalter/gman) - like swot, but for government emails
 * [swotphp](https://github.com/mdwheele/swotphp) - PHP port of Swot
 * [swot-js](https://github.com/theotow/swot-js) - JS port of Swot
+* [swot-simple](https://github.com/mapbox/swot-simple) - JS port of Swot
 * [swot-clj](https://github.com/ipavl/swot-clj) - Clojure port of Swot
