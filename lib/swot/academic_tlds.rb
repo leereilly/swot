@@ -43,6 +43,49 @@ class Swot < NaughtyOrNice
     ac.za
     ac.zm
     ac.zw
+    cc.al.us
+    cc.ar.us
+    cc.az.us
+    cc.ca.us
+    cc.co.us
+    cc.fl.us
+    cc.ga.us
+    cc.hi.us
+    cc.ia.us
+    cc.id.us
+    cc.il.us
+    cc.in.us
+    cc.ks.us
+    cc.ky.us
+    cc.la.us
+    cc.md.us
+    cc.me.us
+    cc.mi.us
+    cc.mn.us
+    cc.mo.us
+    cc.ms.us
+    cc.mt.us
+    cc.nc.us
+    cc.nd.us
+    cc.ne.us
+    cc.nj.us
+    cc.nm.us
+    cc.nv.us
+    cc.ny.us
+    cc.oh.us
+    cc.ok.us
+    cc.or.us
+    cc.pa.us
+    cc.ri.us
+    cc.sc.us
+    cc.sd.us
+    cc.tx.us
+    cc.va.us
+    cc.vi.us
+    cc.wa.us
+    cc.wi.us
+    cc.wv.us
+    cc.wy.us
     ed.ao
     ed.cr
     ed.jp
@@ -164,6 +207,43 @@ class Swot < NaughtyOrNice
     sch.uk
     school.nz
     school.za
+    tec.ar.us
+    tec.az.us
+    tec.co.us
+    tec.fl.us
+    tec.ga.us
+    tec.ia.us
+    tec.id.us
+    tec.il.us
+    tec.in.us
+    tec.ks.us
+    tec.ky.us
+    tec.la.us
+    tec.ma.us
+    tec.md.us
+    tec.me.us
+    tec.mi.us
+    tec.mn.us
+    tec.mo.us
+    tec.ms.us
+    tec.mt.us
+    tec.nc.us
+    tec.nd.us
+    tec.nh.us
+    tec.nm.us
+    tec.nv.us
+    tec.ny.us
+    tec.oh.us
+    tec.ok.us
+    tec.pa.us
+    tec.sc.us
+    tec.sd.us
+    tec.tx.us
+    tec.ut.us
+    tec.vi.us
+    tec.wa.us
+    tec.wi.us
+    tec.wv.us
     vic.edu.au
   ).to_set.freeze
 end
