@@ -64,7 +64,7 @@ class Swot < NaughtyOrNice
   # Returns true if the domain name belongs to a known academic institution;
   #  false otherwise.
   def academic_domain?
-    @academic_domain ||= File.exists?(file_path)
+    @academic_domain ||= File.exist?(file_path)
   end
 
   private
