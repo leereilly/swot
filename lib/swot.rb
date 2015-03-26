@@ -1,6 +1,7 @@
 require "public_suffix"
 require "naughty_or_nice"
 require_relative "swot/academic_tlds"
+require_relative "swot/collection_methods"
 
 class Swot < NaughtyOrNice
   VERSION = "0.4.2"
@@ -16,6 +17,7 @@ class Swot < NaughtyOrNice
     cet.edu
   ).freeze
 
+  extend SwotCollectionMethods
   class << self
     alias_method :is_academic?, :valid?
     alias_method :academic?, :valid?
