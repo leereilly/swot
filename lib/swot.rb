@@ -30,6 +30,19 @@ class Swot < NaughtyOrNice
     def domains_path
       @domains_path ||= File.expand_path "domains", File.dirname(__FILE__)
     end
+
+    # Returns a new Swot instance for the domain file at the given path.
+    #   Note that the path must be absolute.
+    #
+    # Returns a Swot instance or false is no domain is found at the given path.
+    def from_path(path_string_or_path)
+      path = Pathname.new(path_string_or_path)
+      return false unless path.exist?
+      path_dir, file = path.relative_path_from(Pathname.new(domains_path)).split
+      backwards_path = path_dir.to_s.split('/').push(file.basename('.txt').to_s)
+      domain = backwards_path.reverse.join('.')
+      Swot.new(domain)
+    end
   end
 
   # Figure out if an email or domain belongs to academic institution.
