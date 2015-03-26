@@ -16,4 +16,11 @@ module SwotCollectionMethods
     end
     all_domains
   end
+
+  # Yields a Swot instance for every domain under lib/domains
+  def each_domain
+    Pathname.glob(Pathname.new(Swot.domains_path).join('**/*.txt')) do |path|
+      yield(Swot.from_path(path))
+    end
+  end
 end
