@@ -68,6 +68,20 @@ task :add, :sld, :tld, :name do |t, args|
   end
 end
 
+task :check_files do
+  require './lib/swot'
+  all_schools = {}
+  swot_data_path = Pathname.new(Swot.domains_path)
+  Pathname.glob(swot_data_path.join('**/*.txt')) do |path|
+    path_dir, file = path.relative_path_from(swot_data_path).split
+    backwards_path = path_dir.to_s.split('/').push(file.basename('.txt').to_s)
+    unsanitized_school_name = path.readlines.first
+    unless unsanitized_school_name.valid_encoding?
+      puts "Invalid encoding for #{unsanitized_school_name} in #{path}"
+    end
+  end
+end
+
 task :quackit_import do
   require 'nokogiri'
   require 'open-uri'
