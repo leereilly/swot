@@ -1,4 +1,11 @@
+# Module for methods that act on the entire Swot dataset.
+
 module SwotCollectionMethods
+
+  # Parses the files under lib/domains. Does not include blacklist or
+  #   ACADEMIC_TLDS in results.
+  #
+  # Returns an array of domain strings.
   def all_domains
     all_domains = []
     swot_data_path = Pathname.new(Swot.domains_path)
