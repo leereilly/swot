@@ -7,18 +7,14 @@ module SwotCollectionMethods
   #
   # Returns an array of domain strings.
   def all_domains
-    all_domains = []
-    swot_data_path = Pathname.new(Swot.domains_path)
-    Pathname.glob(swot_data_path.join('**/*.txt')) do |path|
-      path_dir, file = path.relative_path_from(swot_data_path).split
-      backwards_path = path_dir.to_s.split('/').push(file.basename('.txt').to_s)
-      all_domains << backwards_path.reverse.join('.')
-    end
-    all_domains
+    each_domain.map(&:domain)
   end
 
   # Yields a Swot instance for every domain under lib/domains
+  #
+  # returns a Enumerator object with Swot instances if no block is given
   def each_domain
+    return to_enum(:each_domain) unless block_given?
     Pathname.glob(Pathname.new(Swot.domains_path).join('**/*.txt')) do |path|
       yield(Swot.from_path(path))
     end
