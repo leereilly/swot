@@ -2,15 +2,13 @@
 
 module SwotCollectionMethods
 
-  # Parses the files under lib/domains. Does not include blacklist or
-  #   ACADEMIC_TLDS in results.
-  #
   # Returns an array of domain strings.
   def all_domains
     each_domain.map(&:domain)
   end
 
-  # Yields a Swot instance for every domain under lib/domains
+  # Yields a Swot instance for every domain under lib/domains. Does not
+  #   include blacklisted or ACADEMIC_TLDS domains.
   #
   # returns a Enumerator object with Swot instances if no block is given
   def each_domain
