@@ -18,6 +18,10 @@ Or add this to your `Gemfile` before doing a `bundle install`:
 
 `gem 'swot'`
 
+## Requirements
+
+- Ruby >= 2.0
+
 ### Usage
 
 #### Verify Email Addresses
