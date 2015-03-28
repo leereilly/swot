@@ -6,7 +6,7 @@ If you have a product or service and offer **academic discounts**, there's a goo
 
 Swot is a community-driven or crowdsourced library for verifying that domain names and email addresses are tied to a legitimate university of college - more specifically, an academic institution providing higher education in tertiary, quaternary or any other kind of post-secondary education in any country in the world.
 
-**Pop quiz:** Which of the following domain names should be eligible for an academic discount? `stanford.edu`, `america.edu`, `duep.edu`, `gla.ac.uk`, `wunizar.es`, `usask.ca`, `hil.no`, `unze.ba`, `fu-berlin.de`, `ecla.de`, `bvb.de`, `lsmu.com`. Answers at the foot of the page.
+**Pop quiz:** Which of the following domain names should be eligible for an academic discount? `stanford.edu`, `america.edu`, `duep.edu`, `gla.ac.uk`, `unizar.es`, `usask.ca`, `hil.no`, `unze.ba`, `fu-berlin.de`, `ecla.de`, `bvb.de`, `lsmu.com`. Answers at the foot of the page.
 
 ### Installation
 
@@ -17,6 +17,10 @@ Swot is a Ruby gem, so you'll need a little Ruby-fu to get it working. Simply
 Or add this to your `Gemfile` before doing a `bundle install`:
 
 `gem 'swot'`
+
+## Requirements
+
+- Ruby >= 2.0
 
 ### Usage
 
