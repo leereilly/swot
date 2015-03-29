@@ -13,14 +13,19 @@ require 'rake'
 
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
-  # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "swot"
-  gem.homepage = "http://github.com/leereilly/swot"
-  gem.license = "MIT"
-  gem.summary = %Q{email helpers}
-  gem.description = %Q{email helpers}
-  gem.email = "lee@leereilly.net"
-  gem.authors = ["Lee Reilly"]
+  # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference for more options
+  gem.name                  = 'swot'
+  gem.homepage              = 'https://github.com/leereilly/swot'
+  gem.license               = 'MIT'
+  gem.summary               = 'Identify email addresses or domains names that belong to colleges or universities.'
+  gem.description           = 'Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.'
+  gem.email                 = 'lee@leereilly.net'
+  gem.authors               = ['Lee Reilly']
+
+  gem.required_ruby_version = Gem::Requirement.new('>= 2.0')
+  gem.files.exclude *%w(.gitignore .travis.yml .ruby-version)
+  gem.test_files            = gem.files.grep(/^test/)
+
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
