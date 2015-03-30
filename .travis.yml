@@ -2,3 +2,6 @@ language: ruby
 rvm:
   - 2.0.0
   - 2.2.0
+script:
+  - bundle exec rake test
+  - bundle exec rake validate_domain_files
