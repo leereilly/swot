@@ -82,8 +82,6 @@ class Swot < NaughtyOrNice
     @academic_domain ||= File.exist?(file_path)
   end
 
-  private
-
   def file_path
     @file_path ||= File.join(Swot::domains_path, domain_parts.domain.to_s.split(".").reverse) + ".txt"
   end

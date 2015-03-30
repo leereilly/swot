@@ -68,17 +68,32 @@ task :add, :sld, :tld, :name do |t, args|
   end
 end
 
-task :check_files do
-  require './lib/swot'
-  all_schools = {}
-  swot_data_path = Pathname.new(Swot.domains_path)
-  Pathname.glob(swot_data_path.join('**/*.txt')) do |path|
-    path_dir, file = path.relative_path_from(swot_data_path).split
-    backwards_path = path_dir.to_s.split('/').push(file.basename('.txt').to_s)
-    unsanitized_school_name = path.readlines.first
-    unless unsanitized_school_name.valid_encoding?
-      puts "Invalid encoding for #{unsanitized_school_name} in #{path}"
+task :validate_domain_files do
+  require_relative 'lib/swot'
+  errors = []
+  Swot.each_domain do |domain|
+    begin
+      unless domain.valid?
+        errors << "Swot reporting domain as invalid: #{domain.domain}"
+        next
+      end
+      unless domain.school_name
+        errors << "No school name set in #{domain.file_path}"
+        next
+      end
+      unless domain.school_name.valid_encoding?
+        errors << "Invalid encoding in #{domain.file_path}"
+        next
+      end
+    rescue StandardError => e
+      errors << "#{e.message} for file: #{domain.file_path}"
     end
+  end
+  if errors.size > 0
+    puts "Error: Some domains are invalid:"
+    require 'pp'
+    pp errors
+    raise
   end
 end
 
