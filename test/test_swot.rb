@@ -52,31 +52,31 @@ describe Swot do
   end
 
   it "returns name of valid institution" do
-    assert_equal Swot::get_institution_name('lreilly@cs.strath.ac.uk'), "University of Strathclyde"
-    assert_equal Swot::get_institution_name('lreilly@fadi.at'), "BRG Fadingerstraße Linz, Austria"
+    assert_equal(Swot::get_institution_name('lreilly@cs.strath.ac.uk'), "University of Strathclyde")
+    assert_equal(Swot::get_institution_name('lreilly@fadi.at'), "BRG Fadingerstraße Linz, Austria")
   end
 
   it "returns nil when institution invalid" do
-    assert_equal Swot::get_institution_name('foo@shop.com'), nil
+    assert_equal(Swot::get_institution_name('foo@shop.com'), nil)
   end
 
   it "test aliased methods" do
-    assert_equal Swot::academic?('stanford.edu'), true
-    assert_equal Swot::school_name('lreilly@cs.strath.ac.uk'), "University of Strathclyde"
+    assert_equal(Swot::academic?('stanford.edu'), true)
+    assert_equal(Swot::school_name('lreilly@cs.strath.ac.uk'), "University of Strathclyde")
   end
 
   it "fail blacklisted domains" do
     ["si.edu", " si.edu ", "imposter@si.edu", "foo.si.edu", "america.edu"].each do |domain|
-      assert_equal false, Swot::is_academic?(domain), "#{domain} should be denied"
+      assert_equal(false, Swot::is_academic?(domain), "#{domain} should be denied")
     end
   end
 
   it "not err on tld-only domains" do
     Swot::is_academic? ".com"
-    assert_equal false, Swot::is_academic?(".com")
+    assert_equal(false, Swot::is_academic?(".com"))
   end
 
   it "does not err on invalid domains" do
-    assert_equal false, Swot::is_academic?("foo@bar.invalid")
+    assert_equal(false, Swot::is_academic?("foo@bar.invalid"))
   end
 end
