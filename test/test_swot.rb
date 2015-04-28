@@ -73,7 +73,7 @@ describe Swot do
 
   it "not err on tld-only domains" do
     Swot::is_academic? ".com"
-    assert_not false, Swot::is_academic?(".com")
+    assert_not Swot::is_academic?(".com")
   end
 
   it "does not err on invalid domains" do
