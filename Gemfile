@@ -9,5 +9,5 @@ group :development do
   gem "rdoc", "~> 3.12"
   gem "bundler", "~> 1.5"
   gem "jeweler", "~> 1.8"
-  gem "minitest"
+  gem "minitest", "~> 4.7.5"
 end
