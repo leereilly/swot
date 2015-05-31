@@ -68,6 +68,35 @@ task :add, :sld, :tld, :name do |t, args|
   end
 end
 
+task :validate_domain_files do
+  require_relative 'lib/swot'
+  errors = []
+  Swot.each_domain do |domain|
+    begin
+      unless domain.valid?
+        errors << "Swot reporting domain as invalid: #{domain.domain}"
+        next
+      end
+      unless domain.school_name
+        errors << "No school name set in #{domain.file_path}"
+        next
+      end
+      unless domain.school_name.valid_encoding?
+        errors << "Invalid encoding in #{domain.file_path}"
+        next
+      end
+    rescue StandardError => e
+      errors << "#{e.message} for file: #{domain.file_path}"
+    end
+  end
+  if errors.size > 0
+    puts "Error: Some domains are invalid:"
+    require 'pp'
+    pp errors
+    raise
+  end
+end
+
 task :quackit_import do
   require 'nokogiri'
   require 'open-uri'
