@@ -79,4 +79,12 @@ describe Swot do
   it "does not err on invalid domains" do
     assert_not Swot::is_academic?("foo@bar.invalid")
   end
+
+  it "contains only text files" do
+    Dir.glob("lib/domains/**/*") do |file|
+      if not File.directory?(file)
+        assert file.end_with?(".txt"), "#{file} should have a .txt extension"
+      end
+    end
+  end
 end
