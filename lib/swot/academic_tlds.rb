@@ -1,6 +1,6 @@
 require 'set'
 
-class Swot < NaughtyOrNice
+class Swot
   # These top-level domains are guaranteed to be academic institutions.
   ACADEMIC_TLDS = %w(
     ac.ae
