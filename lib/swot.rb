@@ -54,7 +54,7 @@ class Swot
   def valid?
     if domain.nil?
       false
-    elsif BLACKLIST.any? { |d| domain.to_s =~ /(\A|\.)#{Regexp.escape(d)}\z/ }
+    elsif BLACKLIST.any? { |d| to_s =~ /(\A|\.)#{Regexp.escape(d)}\z/ }
       false
     elsif ACADEMIC_TLDS.include?(domain.tld)
       true
