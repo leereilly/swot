@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Lee Reilly"]
-  s.date = "2015-06-30"
+  s.date = "2015-07-09"
   s.description = "Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts."
   s.email = "lee@leereilly.net"
   s.extra_rdoc_files = [
@@ -1544,6 +1544,7 @@ Gem::Specification.new do |s|
     "lib/domains/cz/vsfs.txt",
     "lib/domains/cz/vslib.txt",
     "lib/domains/cz/vsp.txt",
+    "lib/domains/cz/vspj.txt",
     "lib/domains/cz/vutbr.txt",
     "lib/domains/cz/zcu.txt",
     "lib/domains/de/akad.txt",
@@ -1726,6 +1727,7 @@ Gem::Specification.new do |s|
     "lib/domains/de/hs-magdeburg.txt",
     "lib/domains/de/hs-mannheim.txt",
     "lib/domains/de/hs-mittweida.txt",
+    "lib/domains/de/hs-neu-ulm.txt",
     "lib/domains/de/hs-offenburg.txt",
     "lib/domains/de/hs-osnabrueck.txt",
     "lib/domains/de/hs-owl.txt",
@@ -1892,6 +1894,7 @@ Gem::Specification.new do |s|
     "lib/domains/de/unibw.txt",
     "lib/domains/de/uos.txt",
     "lib/domains/de/upb.txt",
+    "lib/domains/de/vwa-gruppe-net.txt",
     "lib/domains/de/w-hs.txt",
     "lib/domains/de/wak-sh.txt",
     "lib/domains/de/whu-koblenz.txt",
@@ -4743,6 +4746,7 @@ Gem::Specification.new do |s|
     "lib/domains/in/ac/unipune.txt",
     "lib/domains/in/ac/vit.txt",
     "lib/domains/in/ac/vvpedulink.txt",
+    "lib/domains/in/aryacollege.txt",
     "lib/domains/in/edu/gtu.txt",
     "lib/domains/in/edu/karunya.txt",
     "lib/domains/in/edu/skpit.txt",
@@ -5386,6 +5390,7 @@ Gem::Specification.new do |s|
     "lib/domains/jp/ac/u-keiai.txt",
     "lib/domains/jp/ac/u-tokai.txt",
     "lib/domains/jp/ac/u-tokyo.txt",
+    "lib/domains/jp/ac/ynu.txt",
     "lib/domains/jp/chibakoudai.txt",
     "lib/domains/jp/co/termnet.txt",
     "lib/domains/jp/keio.txt",
@@ -5395,6 +5400,7 @@ Gem::Specification.new do |s|
     "lib/domains/jp/sendai-nct.txt",
     "lib/domains/jp/senshu-u.txt",
     "lib/domains/jp/waseda.txt",
+    "lib/domains/jp/ynu.txt",
     "lib/domains/ke/ac/anu.txt",
     "lib/domains/ke/ac/egerton.txt",
     "lib/domains/ke/ac/iu.txt",
@@ -6096,6 +6102,7 @@ Gem::Specification.new do |s|
     "lib/domains/net/ubuea.txt",
     "lib/domains/net/ucasal.txt",
     "lib/domains/net/ulatina.txt",
+    "lib/domains/net/unesc.txt",
     "lib/domains/net/univ-mngb.txt",
     "lib/domains/net/universityofsomalia.txt",
     "lib/domains/net/uoit.txt",
@@ -6273,6 +6280,7 @@ Gem::Specification.new do |s|
     "lib/domains/org/hsrw.txt",
     "lib/domains/org/icu-edu.txt",
     "lib/domains/org/internationaluniversity-schoolofmedicine.txt",
+    "lib/domains/org/ipeindia.txt",
     "lib/domains/org/ipiaget.txt",
     "lib/domains/org/islahonline.txt",
     "lib/domains/org/khazar.txt",
@@ -7160,6 +7168,7 @@ Gem::Specification.new do |s|
     "lib/domains/ru/vstu.txt",
     "lib/domains/ru/vsu.txt",
     "lib/domains/ru/vvsu.txt",
+    "lib/domains/ru/vyatsu.txt",
     "lib/domains/ru/wsnet.txt",
     "lib/domains/ru/yar.txt",
     "lib/domains/ru/yaroslavl/rgata.txt",
@@ -8074,7 +8083,7 @@ Gem::Specification.new do |s|
 
     if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
       s.add_runtime_dependency(%q<public_suffix>, [">= 0"])
-      s.add_runtime_dependency(%q<naughty_or_nice>, ["~> 1.0"])
+      s.add_runtime_dependency(%q<naughty_or_nice>, ["~> 2.0"])
       s.add_development_dependency(%q<nokogiri>, ["~> 1.5"])
       s.add_development_dependency(%q<rake>, ["~> 10.0"])
       s.add_development_dependency(%q<rdoc>, ["~> 3.12"])
@@ -8083,7 +8092,7 @@ Gem::Specification.new do |s|
       s.add_development_dependency(%q<minitest>, ["~> 4.7.5"])
     else
       s.add_dependency(%q<public_suffix>, [">= 0"])
-      s.add_dependency(%q<naughty_or_nice>, ["~> 1.0"])
+      s.add_dependency(%q<naughty_or_nice>, ["~> 2.0"])
       s.add_dependency(%q<nokogiri>, ["~> 1.5"])
       s.add_dependency(%q<rake>, ["~> 10.0"])
       s.add_dependency(%q<rdoc>, ["~> 3.12"])
@@ -8093,7 +8102,7 @@ Gem::Specification.new do |s|
     end
   else
     s.add_dependency(%q<public_suffix>, [">= 0"])
-    s.add_dependency(%q<naughty_or_nice>, ["~> 1.0"])
+    s.add_dependency(%q<naughty_or_nice>, ["~> 2.0"])
     s.add_dependency(%q<nokogiri>, ["~> 1.5"])
     s.add_dependency(%q<rake>, ["~> 10.0"])
     s.add_dependency(%q<rdoc>, ["~> 3.12"])

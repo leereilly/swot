@@ -37,8 +37,8 @@ describe 'SwotCollectionMethods' do
       Swot.each_domain { |d| domains << d }
       assert_equal domains.size, 2
       assert_equal true, domains.all?{ |d| d.is_a? Swot }
-      assert_includes domains.map(&:domain), "students.texas.edu"
-      assert_includes domains.map(&:domain), "mit.edu"
+      assert_includes domains.map(&:to_s), "students.texas.edu"
+      assert_includes domains.map(&:to_s), "mit.edu"
     end
   end
 end
