@@ -52,11 +52,11 @@ class Swot
   # Returns true if the domain name belongs to an academic institution;
   #  false otherwise.
   def valid?
-    if domain.nil? || domain_parts.nil?
+    if domain.nil?
       false
-    elsif BLACKLIST.any? { |d| domain =~ /(\A|\.)#{Regexp.escape(d)}\z/ }
+    elsif BLACKLIST.any? { |d| domain.to_s =~ /(\A|\.)#{Regexp.escape(d)}\z/ }
       false
-    elsif ACADEMIC_TLDS.include?(domain_parts.tld)
+    elsif ACADEMIC_TLDS.include?(domain.tld)
       true
     elsif academic_domain?
       true
@@ -87,6 +87,6 @@ class Swot
   private
 
   def file_path
-    @file_path ||= File.join(Swot::domains_path, domain_parts.domain.to_s.split(".").reverse) + ".txt"
+    @file_path ||= File.join(Swot::domains_path, domain.domain.to_s.split(".").reverse) + ".txt"
   end
 end
