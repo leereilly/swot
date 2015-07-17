@@ -87,4 +87,24 @@ describe Swot do
       end
     end
   end
+
+  it "contains no file with an invalid encoding" do
+    Dir.glob("lib/domains/**/*") do |file|
+      if not File.directory?(file)
+        File.open(file, "r") do |fh|
+          assert fh.read.valid_encoding?, "Invalid encoding for #{file}"
+        end
+      end
+    end
+  end
+
+  it "contains only file with a single line" do
+    Dir.glob("lib/domains/**/*") do |file|
+      if not File.directory?(file)
+        File.open(file, "r") do |fh|
+          assert fh.read.lines.count == 1, "#{file} should only contain one line"
+        end
+      end
+    end
+  end
 end
