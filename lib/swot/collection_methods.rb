@@ -4,7 +4,7 @@ module SwotCollectionMethods
 
   # Returns an array of domain strings.
   def all_domains
-    each_domain.map(&:domain)
+    each_domain.map(&:to_s)
   end
 
   # Yields a Swot instance for every domain under lib/domains. Does not

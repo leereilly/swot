@@ -1,2 +1,1 @@
-CollegeAmerica, Phoenix
-CollegeAmerica, Denver
+CollegeAmerica
