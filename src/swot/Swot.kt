@@ -43,7 +43,7 @@ private fun domainParts(emailOrDomain: String): List<String> {
     return emailOrDomain.trim().toLowerCase().substringAfter('@').substringAfter("://").substringBefore(':').split('.').reverse()
 }
 
-private fun checkSet(set: Set<String>, parts: List<String>): Boolean {
+internal fun checkSet(set: Set<String>, parts: List<String>): Boolean {
     val subj = StringBuilder()
     for (part in parts) {
         subj.insert(0, part)
