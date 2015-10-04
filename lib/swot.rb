@@ -16,6 +16,7 @@ class Swot
     californiacolleges.edu
     australia.edu
     cet.edu
+    folger.edu
   ).freeze
 
   include NaughtyOrNice
