@@ -22,7 +22,7 @@ private object Resources {
     val blackList = readList("/blacklist.txt") ?: error("Cannot find /blacklist.txt")
 
     fun readList(resource: String) : Set<String>? {
-        return javaClass.getResourceAsStream(resource)?.reader()?.buffered()?.lines()?.toHashSet()
+        return javaClass.getResourceAsStream(resource)?.reader()?.buffered()?.lineSequence()?.toHashSet()
     }
 }
 
@@ -40,7 +40,7 @@ private fun findSchoolNames(parts: List<String>): List<String> {
 }
 
 private fun domainParts(emailOrDomain: String): List<String> {
-    return emailOrDomain.trim().toLowerCase().substringAfter('@').substringAfter("://").substringBefore(':').split('.').reverse()
+    return emailOrDomain.trim().toLowerCase().substringAfter('@').substringAfter("://").substringBefore(':').split('.').reversed()
 }
 
 internal fun checkSet(set: Set<String>, parts: List<String>): Boolean {
