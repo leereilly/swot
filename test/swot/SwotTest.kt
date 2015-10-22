@@ -50,6 +50,6 @@ class SwotTest : TestCase() {
         assertEquals("University of Strathclyde", findSchoolNames("lreilly@cs.strath.ac.uk").single())
         assertEquals("BRG Fadingerstraße Linz, Austria", findSchoolNames("lreilly@fadi.at").single())
         assertEquals("St. Petersburg State University", findSchoolNames("max@spbu.ru ").single())
-        assertEquals(0, findSchoolNames("foo@shop.com").size())
+        assertEquals(0, findSchoolNames("foo@shop.com").size)
     }
 }
