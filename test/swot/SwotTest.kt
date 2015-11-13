@@ -44,6 +44,7 @@ class SwotTest : TestCase() {
         assertEquals (true , isAcademic("lee@mail.harvard.edu"))
 
         assertEquals(false, isAcademic("imposter@si.edu"))
+        assertEquals(false, isAcademic("lee@acmt.ac.ir"))
     }
 
     fun testSchoolNames() {
