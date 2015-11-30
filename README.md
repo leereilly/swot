@@ -93,7 +93,7 @@ Hopefully, you'll be surprised by some of this:
 | Domain | Academic? | Comments |
 |--------|-----------|----------|
 |`stanford.edu`|:heavy_check_mark:|OK, this was an easy one so you could get at least *one* right|
-|`america.edu`|:heavy_multiplication_x:| Prior to October 29th 2001, anyone could register a `.edu` domain name ([details](http://en.wikipedia.org/wiki/.edu#Grandfathered_uses)) |
+|`america.edu`|:heavy_multiplication_x:| Prior to October 29th 2001, anyone could register a `.edu` domain name ([details](https://en.wikipedia.org/wiki/.edu#Grandfathered_uses)) |
 |`duep.edu`|:heavy_check_mark:| Alfred Nobel University is a *Ukranian* University *in the Ukraine* i.e. not in the USA :us: |
 |`gla.ac.uk`|:heavy_check_mark:|Glasgow University in Scotland|
 |`unizar.es`|:heavy_check_mark:|The University of Zaragoza in Spain|
