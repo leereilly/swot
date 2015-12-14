@@ -7,3 +7,4 @@ alumni.nottingham.ac.uk
 alumni.cmu.edu
 int.edu.gr
 ir
+maricopa.edu
