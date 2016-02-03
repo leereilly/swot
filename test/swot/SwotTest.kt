@@ -1,7 +1,6 @@
 package swot
 
-import kotlin.test.*
-import junit.framework.*
+import junit.framework.TestCase
 
 class SwotTest : TestCase() {
     fun testSwot() {
