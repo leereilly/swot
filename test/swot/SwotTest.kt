@@ -1,7 +1,6 @@
 package swot
 
-import kotlin.test.*
-import junit.framework.*
+import junit.framework.TestCase
 
 class SwotTest : TestCase() {
     fun testSwot() {
@@ -44,12 +43,15 @@ class SwotTest : TestCase() {
         assertEquals (true , isAcademic("lee@mail.harvard.edu"))
 
         assertEquals(false, isAcademic("imposter@si.edu"))
+
+        // Iran sanctions are lifted
+        assertEquals(true, isAcademic("lee@acmt.ac.ir"))
     }
 
     fun testSchoolNames() {
         assertEquals("University of Strathclyde", findSchoolNames("lreilly@cs.strath.ac.uk").single())
         assertEquals("BRG Fadingerstraße Linz, Austria", findSchoolNames("lreilly@fadi.at").single())
         assertEquals("St. Petersburg State University", findSchoolNames("max@spbu.ru ").single())
-        assertEquals(0, findSchoolNames("foo@shop.com").size())
+        assertEquals(0, findSchoolNames("foo@shop.com").size)
     }
 }
