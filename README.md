@@ -42,5 +42,7 @@ If all the domains used for teachers' and students' email are in the same upper-
 
 However, if the upper-level domain is also used by alumni, research staff, and other people who do not participate in education directly, we encourage you to add separate subdomains, if it is possible.
 
-#### Some universities have their names duplicated in the first and the second line in respective .txt file. Shall I put the university name twice in my .txt file to have the domain added?
-No. We have no idea why they put two identical lines into .txt file, it does not make any sense in this repository. However, nothing bad happens if you do it, don't worry. It does not affect our decision on your request. 
+If the university uses several email domains in different upper-level domains (for example, `euroacademia.ee` and `euroacademia.eu`), please submit several different files with the same content (i.e., same name of the university) in your pull request.
+
+#### Some universities have their names duplicated in the first and the second line in respective .txt file in this repository. Shall I put the university name twice in my .txt file to have the domain added?
+No. We have no idea why they put two identical lines into .txt file, it does not make sense in this repository. However, nothing bad happens if you do it, don't worry. It does not affect our decision on your request. 
