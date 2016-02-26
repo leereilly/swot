@@ -9,7 +9,9 @@ If you know a school, college or university which is not in this list, feel free
 ## Which educational institutions can be added to the repository?
 
 Your pull request for adding a new email domain to the repository will be satisfied if all of the conditions below are met:
+
 1. The domain is used by an educational institution, which offers at least one long-term course (one year or longer), and the course is somehow related to IT (it is in computer science, software engineering, statistics, bioinformatics, etc.)
+
 2. The educational institution has a physically existing location, where students attend classes in classrooms, not over the Internet. In general, we do not include online universities to this repository. 
 
 **NOTE:** If an organization provides primary and secondary education only (i.e., no high or higher education programs), it shall not be included into the list. Primary and secondary school students usually do not need professional developer tools, and in case they learn some programming, we are glad to offer them Community versions of the tools, which are free to everybody, such as PyCharm Community Edition, etc.
@@ -19,9 +21,7 @@ Your pull request for adding a new email domain to the repository will be satisf
 To add a domain, make a pull request. You must be familiar with git tool or GitHub user interface in order to make a pull request.
 We review your request and merge it (i.e., accept it) if it meets the following rules:
 
-1. Each domain is represented by a single `.txt` file in the repository. If there is a file `lib/domains/edu/mit.txt`, it means that e-mail domain `mit.edu` is included into the repository. Please note that the repository uses reverse order of the name components, and also note that **.txt extension is mandatory**.
-
-Example: add file `/lib/domains/ng/edu/unaab.txt` to add a domain `unaab.edu.ng` to the repository.
+1. Each domain is represented by a single `.txt` file in the repository. If there is a file `lib/domains/edu/mit.txt`, it means that e-mail domain `mit.edu` is included into the repository. Please note that the repository uses reverse order of the name components, and also note that **.txt extension is mandatory**. Example: add file `/lib/domains/ng/edu/unaab.txt` to add a domain `unaab.edu.ng` to the repository.
 
 2. Pull request can include one or more files which you wish to add.
 
