@@ -12,7 +12,7 @@ Your pull request for adding a new email domain to the repository will be satisf
 
 1. The domain is used by an educational institution, which offers at least one long-term course (one year or longer), and the course is somehow related to IT (it is in computer science, software engineering, statistics, bioinformatics, etc.)
 
-2. The educational institution has a physically existing location, where students attend classes in classrooms, not over the Internet. In general, we do not include online universities to this repository. 
+2. The educational institution has a physically existing location, where students attend classes in the classrooms. In general, we do not include online universities to this repository. 
 
 **NOTE:** If an organization provides primary and secondary education only (i.e., no high or higher education programs), it shall not be included into the list. Primary and secondary school students usually do not need professional developer tools, and in case they learn some programming, we are glad to offer them Community versions of the tools, which are free to everybody, such as PyCharm Community Edition, etc.
 
