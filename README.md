@@ -16,6 +16,8 @@ Your pull request for adding a new email domain to the repository will be satisf
 
 **NOTE:** If an organization provides primary and secondary education only (i.e., no high or higher education programs), it shall not be included into the list. Primary and secondary school students usually do not need professional developer tools, and in case they learn some programming, we are glad to offer them Community versions of the tools, which are free to everybody, such as PyCharm Community Edition, etc.
 
+If you represent a primary or secondary school and you are certain of the necessity of professional version of a JetBrains tool for your school, please contact JetBrains sales team via  https://www.jetbrains.com/support/sales/
+
 ## How to add a domain to this repository
 
 To add a domain, make a pull request. You must be familiar with git tool or GitHub user interface in order to make a pull request.
@@ -33,16 +35,18 @@ Other lines can contain other known names of the university. A university in a n
 `.group`
 
 ## How to change a domain to this repository
-
 If a university changes its email domain or name, you can submit a pull request with necessary changes.
+
+## Additional references
+Please refer to `CONTRIBUTING.md` file of this repository to read more about repository structure and contributing rules.
 
 ## FAQ
 #### There are many domains in my university, how can I add all of them?
-If all the domains used for teachers' and students' email are in the same upper-level domain, you can add the upper-level domain. For example, if there is a domain `joedoe.org` owned by a university, and there are subdomains such as `stud.joedoe.org` and `prof.joedoe.org`, you can add joedoe.org domain, and both students and teachers will be able to request their free licenses.
+If all the domains used for teachers' and students' email are in the same upper-level domain, you can add the upper-level domain. For example, if there is a domain `joedoe.org` owned by a university, and there are subdomains such as `stud.joedoe.org` and `prof.joedoe.org`, used by the students and the teachers respectively, you can add `joedoe.org` domain only, and both students and teachers will be able to request their free licenses.
 
 However, if the upper-level domain is also used by alumni, research staff, and other people who do not participate in education directly, we encourage you to add separate subdomains, if it is possible.
 
-If the university uses several email domains in different upper-level domains (for example, `euroacademia.ee` and `euroacademia.eu`), please submit several different files with the same content (i.e., same name of the university) in your pull request.
+If the university uses several email domains in different upper-level domains (for example, `euroacademia.ee` and `euroacademia.eu`), please submit several files with different paths and the same content (i.e., same name of the university) in your pull request.
 
 #### Some universities have their names duplicated in the first and the second line in respective .txt file in this repository. Shall I put the university name twice in my .txt file to have the domain added?
-No. We have no idea why they put two identical lines into .txt file, it does not make sense in this repository. However, nothing bad happens if you do it, don't worry. It does not affect our decision on your request. 
+No, it's not needed. However, nothing bad happens if you do it, don't worry. It does not affect our decision on your request. 
