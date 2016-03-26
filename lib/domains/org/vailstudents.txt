@@ -1,0 +1,5 @@
+Empire High School
+General Website: http://ehs.vail.k12.az.us/
+Page showing 3 year course for Web Development (30/35) for 2015-2016: http://ehs.vail.k12.az.us/wp-content/uploads/2014/05/1516cbup12715.pdf
+Page showing same courses for 2016-2017 (29/33): http://ehs.vail.k12.az.us/wp-content/uploads/2014/05/16-17-Course-Description-book-EHS-3.pdf
+This page (http://ehs.vail.k12.az.us/resources/students/) has a link to "Student Email", which redirects to Gmail for the vailstudents.org domain (mail.vailstudents.org).
