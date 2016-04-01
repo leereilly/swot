@@ -1,17 +1,17 @@
-####Institution/School Name 
+#### Institution/School Name 
 {Name Here}
 
-####Instiution/School Website
+#### Instiution/School Website
 {Website URL}
 
-####Email Users
+#### Email Users
 
 *Please place an x between the square brackets if yes*
 - [ ] Students
 - [ ] Academic/Teaching Staff
 - [ ] Other/Support Staff
 
-####Education Levels
+#### Education Levels
 
 *Please place an x between the square brackets if yes*
 
