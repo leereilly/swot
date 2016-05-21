@@ -5,3 +5,5 @@ cet.edu
 australia.edu
 alumni.nottingham.ac.uk
 alumni.cmu.edu
+int.edu.gr
+maricopa.edu

@@ -1,1 +1,4 @@
-Fachhochschule Deggendorf
+Fachhochschule Deggendorf/Deggendorf Institute of Technology
+Domain:th-deg.de
+Email: ..@stud.th-deg.de
+Email: ..@th-deg.de
