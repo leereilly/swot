@@ -10,6 +10,7 @@
 - [ ] Students
 - [ ] Academic/Teaching Staff
 - [ ] Other/Support Staff
+- [ ] Alumni
 
 #### Education Levels
 
