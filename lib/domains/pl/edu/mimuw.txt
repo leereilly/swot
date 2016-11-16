@@ -1,12 +1,4 @@
-Email addresses are of the form username@students.mimuw.edu.pl
-
 The University of Warsaw
 Uniwersytet Warszawski
-
 Faculty of Mathematics, Informatics and Mechanics
 Wydział Matematyki, Informatyki i Mechaniki Uniwersytetu Warszawskiego (MIMUW)
-
-uw.edu.pl (The University of Warsaw)
-mimuw.edu.pl (Faculty of Mathematics, Informatics and Mechanics of the University of Warsaw)
-
-students.mimuw.edu.pl/mail
