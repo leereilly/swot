@@ -114,3 +114,4 @@ If you verified this by visiting all of the websites, how long did it take you? 
 * [swot-js](https://github.com/theotow/swot-js) - JS port of Swot
 * [swot-simple](https://github.com/mapbox/swot-simple) - JS port of Swot
 * [swot-clj](https://github.com/ipavl/swot-clj) - Clojure port of Swot
+* [swot](https://github.com/abadojack/swot) - Go port of Swot
