@@ -187,6 +187,7 @@ class Swot
     edu.ye
     edu.zm
     es.kr
+    fshnstudent.info
     g12.br
     hs.kr
     ms.kr
