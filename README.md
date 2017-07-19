@@ -6,6 +6,8 @@ There is `lib/domains` directory which contains hierarcicaly structured list of 
 
 If you know a school, college or university which is not in this list, feel free to submit a pull request to add it.
 
+> **Due to summer holidays, pull requests processing may take longer than usual. If you submit your request between Jul 20th and Aug 1st,  its processing may be delayed for up to ten business days. We apologise for any inconvenience it may cause and thank you for understanding! JetBrains Team**
+
 ## Which educational institutions can be added to the repository?
 
 Your pull request for adding a new email domain to the repository will be satisfied if all of the conditions below are met:
