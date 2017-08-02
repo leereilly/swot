@@ -2,8 +2,6 @@
 
 If you did not contribute to this repository before, please read the repository rules at the bottom of [this page](https://github.com/JetBrains/swot/).
 
-> **Due to summer holidays, pull requests processing may take longer than usual. If you submit your request between Jul 20th and Aug 1st,  its processing may be delayed for up to ten business days. We apologise for any inconvenience it may cause and thank you for understanding! JetBrains Team**
-
 #### Data Contributions
 
 * All of the school data is stored in a simple filesystem data structure under `lib/domains`.
