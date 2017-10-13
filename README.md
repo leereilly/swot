@@ -1,3 +1,4 @@
+[![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 # swot
 
 JetBrains uses this **swot** repository to grant free licenses for JetBrains tools to students and teachers worldwide. If your email is in one of the domains listed in this repository, you are entitled to request your free license from JetBrains. Visit http://jetbrains.com/student to request!
@@ -34,7 +35,7 @@ Other lines can contain other known names of the university. A university in a n
 4. If the domain is shared among several institutions, such a school district domain, please add the last line starting with dot (`.`) followed by a word "group". Example:
 `.group`
 
-> ####How to add the domain quicker
+> #### How to add the domain quicker
 > We merge pull requests manually, and check the information which you have provided us with prior to merge.
 > Thus, if you wish to make the verification easier for us and therefore much quicker, please mention the following in your comment to the request:
 > * the university official website URL, if different from the domain you are submitting
