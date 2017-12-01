@@ -1,9 +1,1 @@
-the university official website URL:
-http://www.funcesi.br
-
-an URL of a page on the official website where an IT-related long-term (>1 year) course is offered by the university:
-http://www4.funcesi.br/web/index.php/graduacao/cursos/sis
-
-an URL of a page or another proof (.pdf or a screenshot are OK) showing that the university recognizes the domain which you are submitting as an official email domain for the students:
-http://portal.funcesi.br/
-http://portal.funcesi.br/Email/
+Fundacao Comunitaria de Ensino Superior de Itabira
