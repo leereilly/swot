@@ -3,3 +3,4 @@ Gemfile.lock
 *.gem
 .bundle
 .idea
+.vscode
