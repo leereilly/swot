@@ -9,3 +9,5 @@ int.edu.gr
 sbu.ac.ir
 mail.sbu.ac.ir
 maricopa.edu
+sharif.ir
+sharif.edu
