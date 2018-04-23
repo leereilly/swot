@@ -1,0 +1,3 @@
+-Chambre de Commerce et d'Industrie Colmar
+-Called aswell ccicampus
+-Mail are formatted like : studentId@ccicampus.fr
