@@ -11,3 +11,5 @@ mail.sbu.ac.ir
 maricopa.edu
 sharif.ir
 sharif.edu
+my.edu.moi
+art.edu.lv
