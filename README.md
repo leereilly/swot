@@ -35,7 +35,7 @@ Other lines can contain other names the university is known by. A university in 
 4. If the domain is shared by several institutions, such a school district domain, please add the last line starting with a dot (`.`) followed by the word "group". Example:
 `.group`
 
-> #### How to add the domain quicker
+#### How to add the domain quicker
 > We merge pull requests manually and check the information which you have provided us with before merging it.
 > Thus, if you wish to make the verification process easier for us and therefore much quicker, please mention the following in your comment to the request:
 > * the university official website URL, if it is different from the domain you are submitting
