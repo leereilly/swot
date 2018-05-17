@@ -22,7 +22,7 @@ If you represent a primary or secondary school and you are certain of the necess
 ## How to add a domain to this repository
 
 To add a domain, make a pull request. You must be familiar with git tool or GitHub user interface in order to make a pull request.
-We will review your request and merge it if we accept it meets the following conditions:
+We will review your request, and if we accept that it meets all the following conditions then we will merge it:
 
 1. Each domain is represented by a single `.txt` file in the repository. If there is a file `lib/domains/edu/mit.txt`, it means that an email domain `mit.edu` is included in the repository. Please note that the repository reverses the order of the name components, and also note that **.txt extension is mandatory**. Example: add file `/lib/domains/ng/edu/unaab.txt` to add a domain `unaab.edu.ng` to the repository.
 
