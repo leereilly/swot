@@ -118,7 +118,6 @@ edu.pt
 edu.pw
 edu.py
 edu.qa
-edu.rs
 edu.ru
 edu.sa
 edu.sc
