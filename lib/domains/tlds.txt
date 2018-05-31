@@ -26,7 +26,6 @@ ac.om
 ac.pa
 ac.pg
 ac.pr
-ac.rs
 ac.ru
 ac.rw
 ac.sz
@@ -90,7 +89,6 @@ edu.kz
 edu.la
 edu.lb
 edu.lr
-edu.lv
 edu.ly
 edu.me
 edu.mg
