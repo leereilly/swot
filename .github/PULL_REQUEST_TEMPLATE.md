@@ -1,7 +1,7 @@
 #### Institution/School Name 
 {Name Here}
 
-#### Instiution/School Website
+#### Institution/School Website
 {Website URL}
 
 #### Email Users
