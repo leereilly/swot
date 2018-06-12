@@ -57,7 +57,6 @@ edu.bs
 edu.bt
 edu.bz
 edu.ck
-edu.cn
 edu.co
 edu.cu
 edu.do
@@ -70,7 +69,6 @@ edu.es
 edu.et
 edu.ge
 edu.gh
-edu.gr
 edu.gt
 edu.hk
 edu.hn
@@ -108,7 +106,6 @@ edu.pa
 edu.pe
 edu.ph
 edu.pk
-edu.pl
 edu.pr
 edu.ps
 edu.pt
