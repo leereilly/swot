@@ -13,3 +13,4 @@ sharif.ir
 sharif.edu
 my.edu.moi
 art.edu.lv
+aaedu.edu.pl
