@@ -39,7 +39,6 @@ ac.zw
 ed.ao
 ed.cr
 ed.jp
-edu
 edu.af
 edu.al
 edu.ar
