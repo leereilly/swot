@@ -80,7 +80,6 @@ edu.kg
 edu.kh
 edu.kn
 edu.kw
-edu.ky
 edu.kz
 edu.la
 edu.lb
