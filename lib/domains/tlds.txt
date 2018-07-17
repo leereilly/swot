@@ -39,6 +39,7 @@ ac.zw
 ed.ao
 ed.cr
 ed.jp
+edu
 edu.af
 edu.al
 edu.ar
@@ -56,6 +57,7 @@ edu.bs
 edu.bt
 edu.bz
 edu.ck
+edu.cn
 edu.co
 edu.cu
 edu.do
@@ -80,7 +82,6 @@ edu.kg
 edu.kh
 edu.kn
 edu.kw
-edu.ky
 edu.kz
 edu.la
 edu.lb
