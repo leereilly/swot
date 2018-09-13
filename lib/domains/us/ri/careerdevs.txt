@@ -7,7 +7,7 @@ INSTRUCTORS
 -------------
 arnell@careerdevs.com
 cliff@careerdevs.com
-reese@careerdevs.com
+reece@careerdevs.com
 tim@careerdevs.com
 
 60+ students with email formated as firstInitialLastName.student@careerdevs.com
