@@ -1,0 +1,15 @@
+CareerDevs Computer Science Academy
+Providence, Rhode Island
+www.careerdevs.com
+
+-------------
+INSTRUCTORS
+-------------
+arnell@careerdevs.com
+cliff@careerdevs.com
+reese@careerdevs.com
+tim@careerdevs.com
+
+60+ students with email formated as firstInitialLastName.student@careerdevs.com
+
+Large focus on JavaScript and C#
