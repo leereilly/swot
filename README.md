@@ -15,7 +15,7 @@ Your pull request for adding a new email domain to the repository will be satisf
 
 2. The educational institution is a physical entity with student attendance and recognized as providing a learning curriculum for the educational system, or the institution is an accredited online educational organization providing their students with: (1) online courses with a curriculum at least one year long, (2) a dedicated email address which is provided to students only until their graduation.
 
-**NOTE:** If an organization provides primary or secondary education only (i.e., no higher education programs), it will not be included in the list. Primary and secondary school students do not usually need access to professional developer tools, and if they learn some programming, we are glad to offer them Community versions of the tools, such as PyCharm Community Edition, to use which are free to everybody.
+**NOTE:** If an organization provides primary or secondary education only (i.e., no high or higher education programs), it will not be included in the list. Primary and secondary school students do not usually need access to professional developer tools, and if they learn some programming, we are glad to offer them Community versions of the tools, such as PyCharm Community Edition, to use which are free to everybody.
 
 If you represent a primary or secondary school and you are certain of the necessity of a professional version of a JetBrains tool for your school, please contact JetBrains sales team via https://www.jetbrains.com/support/sales/
 
