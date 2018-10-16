@@ -21,7 +21,6 @@ ac.mu
 ac.mw
 ac.mz
 ac.ni
-ac.nz
 ac.om
 ac.pa
 ac.pg
