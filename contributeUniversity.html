@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JetBrains Products for Learning</title>
+    
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5P98');</script>
+        
+    <link rel="stylesheet" href="/shop/appresources/chosen.css?v=b9b0510a" type="text/css"/>
+    <link rel="stylesheet" href="/shop/appresources/jquery.growl.css?v=26245b98" type="text/css"/>
+    <link rel="stylesheet" href="https://resources.jetbrains.com/storage/ui/fonts/fonts.css" type="text/css"/>
+    <link rel="stylesheet" href="https://resources.jetbrains.com/storage/ui/fonts/fonts.css" type="text/css"/>
+    <link rel="stylesheet" href="/shop/appresources/free-students.less?v=6881f2b9" type="text/css"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
+    <link rel="shortcut icon" href="/shop/static/favicon.ico" type="x-icon"/>
+    <meta name="referrer" content="origin-when-cross-origin"></meta>
+  </head>
+  <body onunload=";">
+    
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5P98"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        
+    <div style="display:none;" class="popupBg shield"></div>
+    <div style="display:none;" id="loadingCheckout" class="popup shield">
+      <p class="iconLeft"><span></span>Please wait... Payment processing may take a few moments.</p>
+    </div>
+    <div class="topHeader">
+      <div class="container"><a href="https://www.jetbrains.com/" class="logo">JetBrains</a></div>
+    </div>
+    <div class="grid980">
+      <div class="title">JetBrains Products for Learning</div>
+      <h2>Add your school to JetBrains</h2>
+      <div class="formDescription full">
+        <p>Please fill in the form below, and we will generate a special file with your school’s details which you should pull to the GitHub repository:</p>
+        <ol>
+          <li>Read the repository rules located <a href="https://github.com/JetBrains/swot">at the bottom of this page</a>. Reading the rules before submitting a pull request is mandatory and must not be skipped.</li>
+          <li>
+            Fork the 
+            <a href="https://github.com/JetBrains/swot"> repository</a>
+             and add the file you generated 
+            <strong>(unzipped, following the directory structure)</strong>
+             to it.
+            <br/>
+            <span>Then create a <a href="https://help.github.com/articles/creating-a-pull-request-from-a-fork/">pull request from the forked repository</a>.</span>
+          </li>
+          <li>Wait a few days while we check the submitted details, then request your student license again.</li>
+        </ol>
+      </div>
+      <div class="formNotice">If you are not familiar with GitHub, please consider learning how it works. Experience with version control systems such as git, and GitHub in particular, is essential for software developers, and most students worldwide will need to familiarize themselves with GitHub at some point. But, if you have trouble submitting the request file for your school's email domain to the GitHub repository, please email us at <a href="mailto:support@jetbrains.com">support@jetbrains.com</a>, and we will help do it for you.</div>
+      <div class="formBlock formStudentsDefault">
+        <form method="post" action="/shop/eform/students/contributeUniversity?email=keffa%40nan.ci&amp;_st=5u19wsqvr6">
+          <fieldset>
+            <label>Email address:</label>
+            <div class="fieldPredefined">keffa@nan.ci</div>
+            <label>Name of your school:</label>
+            <div class="field "><input name="institution" type="text" value="" class="required" required/></div>
+            <label>Name of school in English (optional):</label>
+            <div class="field "><input name="institutionEnglish" type="text" value=""/></div>
+          </fieldset>
+          <button type="submit" class="btnSubmit"><span>Get file</span></button>
+        </form>
+      </div>
+      <div class="footer">
+        <div class="container">
+          <p>Copyright&nbsp;&copy;&nbsp;2000&ndash;2018 JetBrains s.r.o.&nbsp;|&nbsp;<a href="https://sales.jetbrains.com/hc/categories/200934669-JetBrains-Account-Help" target="_blank">Help</a>&nbsp;|&nbsp;<a href="mailto:sales@jetbrains.com?subject=JetBrains Sales Support">Support</a>&nbsp;|&nbsp;<a href="https://www.jetbrains.com/company/privacy.html" target="_blank">JetBrains Privacy Policy</a>&nbsp;|&nbsp;<a href="//www.jetbrains.com/legal/agreements/jetbrains_account.html">JetBrains Account Agreement</a>&nbsp;|&nbsp;Build&nbsp;#1419</p>
+        </div>
+      </div>
+    </div>
+    <script src="/shop/appresources/requirejs-config.js?v=9d3e7161" type="text/javascript"></script>
+    <script src="/shop/appresources/require.js?v=92fabbd4" type="text/javascript"></script>
+    <script type="text/javascript">
+    requirejs.onError = function(error) {
+        require(['jetprofile'], function (JetProfile) {
+            console.error(error.message, error.stack || error.originalError.target.src);
+            window.onerror(error.message, error.stack || error.originalError.target.src);
+        });
+    };
+    require(['/shop/appresources/configs/eforms.js']);</script>
+  </body>
+</html>
