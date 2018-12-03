@@ -150,6 +150,5 @@ sch.om
 sch.ps
 sch.sa
 sch.uk
-school.nz
 school.za
 vic.edu.au
