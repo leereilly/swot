@@ -49,7 +49,6 @@ edu.ba
 edu.bb
 edu.bd
 edu.bh
-edu.bi
 edu.bn
 edu.bo
 edu.br
