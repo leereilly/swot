@@ -16,3 +16,4 @@ aaedu.edu.pl
 k.tut.edu.pl
 uno.edu.gr
 mdu.edu.rs
+my.tccd.edu
