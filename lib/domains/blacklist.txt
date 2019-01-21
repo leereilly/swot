@@ -6,4 +6,14 @@ australia.edu
 alumni.nottingham.ac.uk
 alumni.cmu.edu
 int.edu.gr
-maricopa.edu
+sbu.ac.ir
+mail.sbu.ac.ir
+sharif.ir
+sharif.edu
+my.edu.moi
+art.edu.lv
+aaedu.edu.pl
+k.tut.edu.pl
+uno.edu.gr
+mdu.edu.rs
+my.tccd.edu

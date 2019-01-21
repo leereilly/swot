@@ -1,6 +1,6 @@
 # Contributing to Swot
 
-If you did not contributed to this repository before, please read the repository rules at the bottom of [this page](https://github.com/JetBrains/swot/).
+If you did not contribute to this repository before, please read the repository rules at the bottom of [this page](https://github.com/JetBrains/swot/).
 
 #### Data Contributions
 
