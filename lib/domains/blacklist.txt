@@ -19,3 +19,4 @@ mdu.edu.rs
 my.tccd.edu
 x.pycharm.ac.cn
 pycharm.ac.cn
+kjdx.ac.cn
