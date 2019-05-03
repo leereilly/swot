@@ -36,3 +36,4 @@ bjdx.ac.cn
 ahlg.ac.cn
 hndx.ac.cn
 nkdx.ac.cn
+northfacing.ac.cn
