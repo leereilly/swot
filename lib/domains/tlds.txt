@@ -2,7 +2,6 @@ ac.ae
 ac.at
 ac.bd
 ac.be
-ac.cn
 ac.cr
 ac.cy
 ac.fj
