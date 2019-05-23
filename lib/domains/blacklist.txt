@@ -46,3 +46,4 @@ mail.mzr.me
 mail.hrka.net 
 abcda.tech
 t.odmail.cn
+ccc.edu
