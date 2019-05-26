@@ -47,3 +47,4 @@ mail.hrka.net
 abcda.tech
 t.odmail.cn
 ccc.edu
+cqu.edu.cn
