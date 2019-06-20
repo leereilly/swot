@@ -49,3 +49,5 @@ t.odmail.cn
 ccc.edu
 nfs.edu.rs
 cqu.edu.cn
+losrios.edu
+vccs.edu
