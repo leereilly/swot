@@ -76,7 +76,6 @@ edu.in
 edu.iq
 edu.jm
 edu.jo
-edu.kg
 edu.kh
 edu.kn
 edu.kw
