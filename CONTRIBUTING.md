@@ -1,7 +1,5 @@
 # Contributing to Swot
 
-**Due to summer holidays, pull requests processing may take longer than usual. If you submit your request between Jul 24th and Aug 6th,  its processing may be delayed for up to twelve business days. We apologise for any inconvenience it may cause and thank you for understanding! JetBrains Team**
-
 If you did not contribute to this repository before, please read the repository rules at the bottom of [this page](https://github.com/JetBrains/swot/).
 
 #### Data Contributions
