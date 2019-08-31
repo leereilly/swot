@@ -13,6 +13,7 @@ describe Swot do
     assert Swot::is_academic?('lee@uottawa.ca')
     assert Swot::is_academic?('lee@mother.edu.ru')
     assert Swot::is_academic?('lee@ucy.ac.cy')
+    assert Swot::is_academic?('lee@hfm-weimar.de')
 
     assert_not Swot::is_academic?('lee@leerilly.net')
     assert_not Swot::is_academic?('lee@gmail.com')
@@ -54,6 +55,7 @@ describe Swot do
   it "returns name of valid institution" do
     assert_equal "University of Strathclyde",        Swot::get_institution_name('lreilly@cs.strath.ac.uk')
     assert_equal "BRG Fadingerstraße Linz, Austria", Swot::get_institution_name('lreilly@fadi.at')
+    assert_equal "Hochschule fuer Musik FRANZ LISZT Weimar", Swot::get_institution_name('lee@hfm-weimar.de')
   end
 
   it "returns nil when institution invalid" do
