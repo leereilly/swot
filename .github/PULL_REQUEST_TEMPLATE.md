@@ -1,14 +1,14 @@
 #### Institution/School Name 
-{Name Here}
+Brigham Young University
 
 #### Instiution/School Website
-{Website URL}
+byu.edu
 
 #### Email Users
 
 *Please place an x between the square brackets if yes*
-- [ ] Students
-- [ ] Academic/Teaching Staff
+- [X] Students
+- [X] Academic/Teaching Staff
 - [ ] Other/Support Staff
 - [ ] Alumni
 
@@ -17,8 +17,8 @@
 *Please place an x between the square brackets if yes*
 
 - [ ] Post-graduate research
-- [ ] Graduate School
-- [ ] College (University) or Undergraduate School or equivalent
+- [X] Graduate School
+- [X] College (University) or Undergraduate School or equivalent
 - [ ] Community College or equivalent
 - [ ] High School or equivalent
 - [ ] Elementary School or equivalent
