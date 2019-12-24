@@ -1,5 +1,7 @@
 # Contributing to Swot
 
+If you did not contribute to this repository before, please read the repository rules at the bottom of [this page](https://github.com/JetBrains/swot/).
+
 #### Data Contributions
 
 * All of the school data is stored in a simple filesystem data structure under `lib/domains`.
