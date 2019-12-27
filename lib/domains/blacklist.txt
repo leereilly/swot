@@ -57,3 +57,5 @@ sierracollege.edu
 sss.edu.bi
 stu.shzu.edu.cn
 mail.wcccd.edu
+ustb.edu.cn
+cumtb.edu.cn
