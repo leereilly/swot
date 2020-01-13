@@ -61,3 +61,4 @@ cccd.edu
 mail.wcccd.edu
 ustb.edu.cn
 cumtb.edu.cn
+student.cumtb.edu.cn
