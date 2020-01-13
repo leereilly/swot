@@ -124,7 +124,6 @@ edu.tw
 edu.ua
 edu.uy
 edu.ve
-edu.vn
 edu.ws
 edu.ye
 edu.zm
