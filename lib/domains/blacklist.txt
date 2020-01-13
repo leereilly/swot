@@ -62,3 +62,8 @@ mail.wcccd.edu
 ustb.edu.cn
 cumtb.edu.cn
 student.cumtb.edu.cn
+alumni.edu.vn
+mail.alumni.edu.vn
+t.edu.vn
+stu.t.edu.vn
+email.t.edu.vn
