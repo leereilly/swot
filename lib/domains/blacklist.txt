@@ -70,3 +70,5 @@ email.t.edu.vn
 student.mtsac.edu
 sbcc.edu
 pipeline.sbcc.edu
+ccsf.edu
+my.riohondo.edu
