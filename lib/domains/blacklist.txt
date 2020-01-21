@@ -18,6 +18,7 @@ k.tut.edu.pl
 uno.edu.gr
 mdu.edu.rs
 my.tccd.edu
+tccd.edu
 x.pycharm.ac.cn
 pycharm.ac.cn
 k.kkk.ac.nz
