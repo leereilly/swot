@@ -1,13 +1,13 @@
 #### Institution/School Name 
-{Name Here}
+{Virginia’s Community Colleges}
 
 #### Instiution/School Website
-{Website URL}
+{https://www.vccs.edu}
 
 #### Email Users
 
 *Please place an x between the square brackets if yes*
-- [ ] Students
+- [x] Students
 - [ ] Academic/Teaching Staff
 - [ ] Other/Support Staff
 - [ ] Alumni
@@ -18,7 +18,7 @@
 
 - [ ] Post-graduate research
 - [ ] Graduate School
-- [ ] College (University) or Undergraduate School or equivalent
+- [x] College (University) or Undergraduate School or equivalent
 - [ ] Community College or equivalent
 - [ ] High School or equivalent
 - [ ] Elementary School or equivalent
