@@ -73,6 +73,7 @@ sbcc.edu
 pipeline.sbcc.edu
 ccsf.edu
 my.riohondo.edu
+riohondo.edu
 myunitec.com.mx
 pcc.edu
 sotcstudent.net
