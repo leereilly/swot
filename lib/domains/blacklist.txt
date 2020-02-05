@@ -82,3 +82,4 @@ student.smc.edu
 student.sbccd.edu
 stu.centralaz.edu
 student.glendale.edu
+xs.hnit.edu.cn
