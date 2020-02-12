@@ -86,3 +86,4 @@ xs.hnit.edu.cn
 student.rockvalleycollege.edu
 sekuco.org
 shitac.tech
+stumail.sdut.edu.cn
