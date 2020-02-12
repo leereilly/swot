@@ -120,7 +120,6 @@ edu.sv
 edu.sy
 edu.tr
 edu.tt
-edu.tw
 edu.ua
 edu.uy
 edu.ve
