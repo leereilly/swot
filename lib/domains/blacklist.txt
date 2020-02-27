@@ -88,3 +88,4 @@ sekuco.org
 shitac.tech
 stumail.sdut.edu.cn
 cougarmail.collin.edu
+cet.edu
