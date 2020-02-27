@@ -89,3 +89,6 @@ shitac.tech
 stumail.sdut.edu.cn
 cougarmail.collin.edu
 cet.edu
+myportal.taftcollege.edu
+students.noc.edu
+ncist.edu.cn
