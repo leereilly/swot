@@ -92,3 +92,4 @@ cet.edu
 myportal.taftcollege.edu
 students.noc.edu
 ncist.edu.cn
+saddleback.edu
