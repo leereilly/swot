@@ -93,3 +93,4 @@ myportal.taftcollege.edu
 students.noc.edu
 ncist.edu.cn
 saddleback.edu
+noc.edu
