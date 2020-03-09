@@ -96,3 +96,5 @@ saddleback.edu
 noc.edu
 mail.philau.edu
 students.rossu.edu
+my.cleveland.edu
+hqu.edu.cn
