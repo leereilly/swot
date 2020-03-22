@@ -62,7 +62,6 @@ edu.do
 edu.dz
 edu.ec
 edu.ee
-edu.eg
 edu.er
 edu.es
 edu.et
