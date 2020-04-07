@@ -102,3 +102,4 @@ cloudlearn.tech
 bbc.edu.cn
 student.cccs.edu
 fountaingatesc.vic.edu.au
+edu.tanta.edu.eg
