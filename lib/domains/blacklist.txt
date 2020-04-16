@@ -104,3 +104,4 @@ student.cccs.edu
 fountaingatesc.vic.edu.au
 edu.tanta.edu.eg
 std.uestc.edu.cn
+mail.ltcc.edu 
