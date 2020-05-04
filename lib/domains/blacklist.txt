@@ -108,3 +108,5 @@ mail.ltcc.edu
 student.ksu.edu.sa
 vip.henu.edu.cn
 student.napavalley.edu
+mycom.marin.edu 
+alu.comillas.edu
