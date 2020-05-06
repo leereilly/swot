@@ -111,3 +111,4 @@ student.napavalley.edu
 mycom.marin.edu 
 alu.comillas.edu
 zknu.edu.cn
+go.sfcollege.edu
