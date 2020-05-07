@@ -112,3 +112,4 @@ mycom.marin.edu
 alu.comillas.edu
 zknu.edu.cn
 go.sfcollege.edu
+kst.edu.sg

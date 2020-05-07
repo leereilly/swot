@@ -112,7 +112,6 @@ edu.ru
 edu.sa
 edu.sc
 edu.sd
-edu.sg
 edu.sh
 edu.sl
 edu.sv
