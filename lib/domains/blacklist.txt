@@ -116,3 +116,5 @@ kst.edu.sg
 campus.mccd.edu
 xzyz.edu.cn
 giant.cos.edu
+henu.edu.cn
+stu.zuel.edu.cn
