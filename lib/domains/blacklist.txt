@@ -82,6 +82,7 @@ student.sbccd.edu
 stu.centralaz.edu
 student.glendale.edu
 xs.hnit.edu.cn
+hnit.ed.cn
 student.rockvalleycollege.edu
 sekuco.org
 shitac.tech
