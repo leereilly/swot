@@ -121,3 +121,4 @@ henu.edu.cn
 stu.zuel.edu.cn
 uotago.ac.nz
 xzyz.edu.cn
+edu.uca.ma
