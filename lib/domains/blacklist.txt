@@ -130,3 +130,4 @@ mymail.aacc.edu
 madisoncollege.edu
 email.cpcc.edu
 stlcc.edu
+alu.suda.edu.cn
