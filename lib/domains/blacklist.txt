@@ -133,3 +133,4 @@ stlcc.edu
 alu.suda.edu.cn
 swccd.edu
 stmail.tanenbaumchat.org
+stu.haust.edu.cn
