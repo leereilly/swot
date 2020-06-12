@@ -136,3 +136,5 @@ stu.haust.edu.cn
 students.solano.edu
 mywvm.wvm.edu
 scc.stanly.edu
+queens.ac.id
+haywood.edu
