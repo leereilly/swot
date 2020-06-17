@@ -1,0 +1,11 @@
+Noting:this docment contains Chinese character, please use utf-8 encoding format.
+
+add The Institute of Medical Information (IMI) & Library, Chinese Academy of Medical Sciences and Peking Union Medical College (CAMS & PUMC)
+
+the website: http://www.imicams.ac.cn/
+
+IMICAMS is the library of the Chinese Academy of Medical Sciences (CAMS) and Peking Union Medical College (PUMC)(English website: http://english.cams.cn/index.html, You can find Institute of Medical Information in  Research Institutes webpage from http://english.cams.cn/maps.html).
+
+IMICAMS also offers graduate education, you can find more details about graduate education and courses in http://www.imicams.ac.cn/publish/default/yjsjy/ and http://www.imicams.ac.cn/page/tszy/gywm_yjsjy_kcjx.html, IT related courses like Medical information retrieval and utilization(医学信息检索与利用) and Practical technology of medical data mining(医学数据挖掘实用技术)
+
+
