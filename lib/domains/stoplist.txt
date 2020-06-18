@@ -140,3 +140,4 @@ queens.ac.id
 haywood.edu
 vcccd.edu
 alumni.montclair.edu
+mclennan.edu
