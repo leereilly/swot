@@ -143,3 +143,6 @@ alumni.montclair.edu
 mclennan.edu
 kings.ac.id
 ul.edu.lb
+smc.edu
+imghost.tech
+alumni.albany.edu
