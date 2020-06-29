@@ -146,3 +146,7 @@ ul.edu.lb
 smc.edu
 imghost.tech
 alumni.albany.edu
+aurora.ekof.bg.ac.rs
+queens.ac.id
+stu.ccsu.edu.cn
+email.axc.edu.gr
