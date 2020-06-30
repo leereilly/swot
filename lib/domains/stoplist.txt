@@ -150,3 +150,6 @@ aurora.ekof.bg.ac.rs
 queens.ac.id
 stu.ccsu.edu.cn
 email.axc.edu.gr
+zju.edu.cn
+mail.csu.edu.cn
+zanestate.edu
