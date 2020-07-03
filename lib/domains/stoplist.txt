@@ -153,3 +153,5 @@ email.axc.edu.gr
 zju.edu.cn
 mail.csu.edu.cn
 zanestate.edu
+student.palomar.edu
+cumt.edu.cn 
