@@ -1,7 +1,9 @@
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 # swot
 
-> **Due to summer holidays, pull requests processing may take longer than usual. If you submit your request between July 4th and July 15th,  its processing may be delayed for up to ten business days. We apologise for any inconvenience it may cause and thank you for understanding! JetBrains Team**
+```diff
+- Due to summer holidays, pull requests processing may take longer than usual. If you submit your request between July 4th and July 15th,  its processing may be delayed for up to ten business days. We apologise for any inconvenience it may cause and thank you for understanding! JetBrains Team
+```
 
 JetBrains uses this **swot** repository to grant free licenses for JetBrains tools to students and teachers worldwide. If your email is in one of the domains listed in this repository, you may request your free license from JetBrains. Visit http://jetbrains.com/student to request!
 
