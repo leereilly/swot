@@ -156,3 +156,11 @@ zanestate.edu
 student.palomar.edu
 cumt.edu.cn 
 me.bergen.edu
+students.smanra.sch.id
+my.canyons.edu
+cau.edu.cn
+eafit.edu.co
+al.insper.edu.br
+khi.iba.edu.pk
+student.ntu.edu.pk
+correo.icesi.edu.co

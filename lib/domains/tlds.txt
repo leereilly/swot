@@ -49,13 +49,11 @@ edu.bd
 edu.bh
 edu.bn
 edu.bo
-edu.br
 edu.bs
 edu.bt
 edu.bz
 edu.ck
 edu.cn
-edu.co
 edu.cu
 edu.do
 edu.dz
@@ -99,7 +97,6 @@ edu.om
 edu.pa
 edu.pe
 edu.ph
-edu.pk
 edu.pr
 edu.ps
 edu.pt
