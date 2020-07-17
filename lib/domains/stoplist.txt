@@ -164,4 +164,3 @@ al.insper.edu.br
 khi.iba.edu.pk
 student.ntu.edu.pk
 correo.icesi.edu.co
-ecccomp.com
