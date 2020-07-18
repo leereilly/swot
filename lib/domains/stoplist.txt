@@ -165,3 +165,4 @@ khi.iba.edu.pk
 student.ntu.edu.pk
 correo.icesi.edu.co
 avc.edu
+edu.moi
