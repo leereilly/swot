@@ -166,3 +166,4 @@ student.ntu.edu.pk
 correo.icesi.edu.co
 avc.edu
 edu.moi
+alum.ccu.edu.tw
