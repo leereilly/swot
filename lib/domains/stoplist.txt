@@ -168,3 +168,12 @@ avc.edu
 edu.moi
 alum.ccu.edu.tw
 hbgyzy.edu.cn
+mail.edu.tw
+hc.edu.tw
+go.edu.tw
+hcc.edu.tw
+chc.edu.tw
+ccu.edu.tw
+sinclair.edu
+aims.edu
+cochise.edu
