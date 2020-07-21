@@ -9,7 +9,6 @@ ac.gg
 ac.gn
 ac.il
 ac.in
-ac.ir
 ac.jp
 ac.ke
 ac.kr
@@ -127,7 +126,6 @@ sc.ug
 sch.ae
 sch.gg
 sch.id
-sch.ir
 sch.je
 sch.jo
 sch.lk
