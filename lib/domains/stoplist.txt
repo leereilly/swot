@@ -177,3 +177,4 @@ ccu.edu.tw
 ms.edu.tw
 cochise.edu
 pcc.edu
+kings.edu.uy

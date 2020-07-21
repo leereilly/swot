@@ -114,7 +114,6 @@ edu.sy
 edu.tr
 edu.tt
 edu.ua
-edu.uy
 edu.ve
 edu.ws
 edu.ye
