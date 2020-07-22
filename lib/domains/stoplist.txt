@@ -180,3 +180,4 @@ pcc.edu
 kings.edu.uy
 cjlu.edu.cn
 my.yosemite.edu
+bit.edu.cn
