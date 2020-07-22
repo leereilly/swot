@@ -178,3 +178,5 @@ ms.edu.tw
 cochise.edu
 pcc.edu
 kings.edu.uy
+cjlu.edu.cn
+my.yosemite.edu
