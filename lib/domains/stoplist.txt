@@ -182,3 +182,4 @@ cjlu.edu.cn
 my.yosemite.edu
 bit.edu.cn
 hit.edu.cn
+stu.parkland.edu
