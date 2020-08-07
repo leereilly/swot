@@ -129,7 +129,7 @@ mymail.aacc.edu
 madisoncollege.edu
 email.cpcc.edu
 stlcc.edu
-alu.suda.edu.cn
+suda.edu.cn
 swccd.edu
 stmail.tanenbaumchat.org
 stu.haust.edu.cn
@@ -197,3 +197,18 @@ swpu.edu.cn
 lzu.edu.cn
 student.unsw.edu.au
 bfsu.edu.cn
+shu.edu.cn
+hrbeu.edu.cn
+bnu.edu.cn
+jlu.edu.cn
+zucc.edu.cn
+xmu.edu.cn
+seu.edu.cn
+nenu.edu.cn
+csu.edu.cn
+nwafu.edu.cn
+swu.edu.cn
+snnu.edu.cn
+hnu.edu.cn
+dlut.edu.cn
+hust.edu.cn
