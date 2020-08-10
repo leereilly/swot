@@ -215,3 +215,7 @@ hust.edu.cn
 student.monash.edu
 clatsopcc.edu
 tmu.edu.cn
+sch.edu.af
+student.cmccd.edu
+zjsru.edu.cn
+student.scf.edu

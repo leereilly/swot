@@ -37,7 +37,6 @@ ed.ao
 ed.cr
 ed.jp
 edu
-edu.af
 edu.al
 edu.ar
 edu.au
@@ -53,7 +52,6 @@ edu.bt
 edu.bz
 edu.ck
 edu.cn
-edu.cu
 edu.do
 edu.dz
 edu.ec
