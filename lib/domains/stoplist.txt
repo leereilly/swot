@@ -212,7 +212,6 @@ snnu.edu.cn
 hnu.edu.cn
 dlut.edu.cn
 hust.edu.cn
-student.monash.edu
 clatsopcc.edu
 tmu.edu.cn
 sch.edu.af
