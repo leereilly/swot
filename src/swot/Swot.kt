@@ -2,7 +2,7 @@ package swot
 
 fun isAcademic(email: String): Boolean {
     val parts = domainParts(email)
-    return !isBlacklisted(parts) && (isUnderTLD(parts) || findSchoolNames(parts).isNotEmpty())
+    return !isStoplisted(parts) && (isUnderTLD(parts) || findSchoolNames(parts).isNotEmpty())
 }
 
 fun findSchoolNames(emailOrDomain: String): List<String> {
@@ -13,13 +13,13 @@ fun isUnderTLD(parts: List<String>): Boolean {
     return checkSet(Resources.tlds, parts)
 }
 
-fun isBlacklisted(parts: List<String>): Boolean {
-    return checkSet(Resources.blackList, parts)
+fun isStoplisted(parts: List<String>): Boolean {
+    return checkSet(Resources.stoplist, parts)
 }
 
 private object Resources {
     val tlds = readList("/tlds.txt") ?: error("Cannot find /tlds.txt")
-    val blackList = readList("/blacklist.txt") ?: error("Cannot find /blacklist.txt")
+    val stoplist = readList("/stoplist.txt") ?: error("Cannot find /stoplist.txt")
 
     fun readList(resource: String) : Set<String>? {
         return javaClass.getResourceAsStream(resource)?.reader()?.buffered()?.lineSequence()?.toHashSet()

@@ -34,8 +34,8 @@ Change the file contents of the appropriate file.
 
 A simple `git rm` on the approriate file will do the trick.
 
-#### Refer the blacklist
-Please do not suggest to add domains from the blacklist. They're banned for the reason. The list currently looks like follows
+#### Refer the stoplist
+Please do not suggest to add domains from the stoplist. They're banned for the reason. The list currently looks like follows
 * si.edu - anyone could register a domain there
 * america.edu - anyone could register a domain there
 * californiacolleges.edu - anyone could register e-mail account there

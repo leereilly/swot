@@ -1,6 +1,10 @@
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 # swot
 
+```diff
+- Due to summer holidays, pull requests processing may take longer than usual. If you submit your request between July 4th and July 15th,  its processing may be delayed for up to ten business days. We apologise for any inconvenience it may cause and thank you for understanding! JetBrains Team
+```
+
 JetBrains uses this **swot** repository to grant free licenses for JetBrains tools to students and teachers worldwide. If your email is in one of the domains listed in this repository, you may request your free license from JetBrains. Visit http://jetbrains.com/student to request!
 
 There is `lib/domains` directory which contains a hierarchically structured list of email domains belonging to various educational institutions. The domains are mostly owned by colleges and universities, and also by groups of schools united together because they are sharing the same email domain between several institutions, such as Township High School District 211 of Cook County, Illinois.
