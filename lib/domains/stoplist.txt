@@ -216,3 +216,4 @@ sch.edu.af
 student.cmccd.edu
 zjsru.edu.cn
 student.scf.edu
+my.unitec.edu.mx
