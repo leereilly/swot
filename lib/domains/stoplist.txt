@@ -44,8 +44,8 @@ hndx.ac.cn
 nkdx.ac.cn
 northfacing.ac.cn
 lxiv.secondary.edu.pl
-mail.mzr.me 
-mail.hrka.net 
+mail.mzr.me
+mail.hrka.net
 abcda.tech
 t.odmail.cn
 ccc.edu
@@ -104,11 +104,11 @@ bbc.edu.cn
 student.cccs.edu
 fountaingatesc.vic.edu.au
 edu.tanta.edu.eg
-mail.ltcc.edu 
+mail.ltcc.edu
 student.ksu.edu.sa
 vip.henu.edu.cn
 student.napavalley.edu
-mycom.marin.edu 
+mycom.marin.edu
 alu.comillas.edu
 zknu.edu.cn
 go.sfcollege.edu
@@ -153,7 +153,7 @@ zju.edu.cn
 mail.csu.edu.cn
 zanestate.edu
 student.palomar.edu
-cumt.edu.cn 
+cumt.edu.cn
 me.bergen.edu
 students.smanra.sch.id
 my.canyons.edu
