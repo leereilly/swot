@@ -218,3 +218,4 @@ zjsru.edu.cn
 student.scf.edu
 my.unitec.edu.mx
 s.upc.edu.cn
+student.gla.ac.uk
