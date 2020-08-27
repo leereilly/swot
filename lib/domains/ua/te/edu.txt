@@ -1,3 +1,0 @@
-Ternopil State Ivan Pul'uj Technical University
-
-//It's wrong information. Domain must be @tntu.edu.ua
