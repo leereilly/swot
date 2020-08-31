@@ -224,3 +224,7 @@ kmismail.com
 andrew.cmu.edu
 aufe.edu.cn
 wru.vn
+bcmail.cuny.edu
+peking.pkumail.tech
+stu.hcnu.edu.cn
+stu.ouc.edu.cn
