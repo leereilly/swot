@@ -127,7 +127,7 @@ students.uwc.edu
 mail.broward.edu
 mymail.aacc.edu
 madisoncollege.edu
-email.cpcc.edu
+cpcc.edu
 stlcc.edu
 suda.edu.cn
 swccd.edu
