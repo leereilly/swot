@@ -228,3 +228,4 @@ bcmail.cuny.edu
 peking.pkumail.tech
 stu.hcnu.edu.cn
 stu.ouc.edu.cn
+tsinghua.pkumail.tech
