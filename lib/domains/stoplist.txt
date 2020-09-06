@@ -236,3 +236,4 @@ mails.cust.edu.cn
 insite.4cd.edu
 cug.edu.cn
 mail.sustc.edu.cn
+alumni.usp.br
