@@ -240,3 +240,4 @@ alumni.usp.br
 cdmc.edu.cn
 hufe.edu.cn
 alumni.hust.edu.cn
+stu.ctcd.edu
