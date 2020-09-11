@@ -239,3 +239,4 @@ mail.sustc.edu.cn
 alumni.usp.br
 cdmc.edu.cn
 hufe.edu.cn
+alumni.hust.edu.cn
