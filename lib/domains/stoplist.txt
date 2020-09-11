@@ -238,3 +238,4 @@ cug.edu.cn
 mail.sustc.edu.cn
 alumni.usp.br
 cdmc.edu.cn
+hufe.edu.cn
