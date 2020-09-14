@@ -241,3 +241,5 @@ cdmc.edu.cn
 hufe.edu.cn
 alumni.hust.edu.cn
 stu.ctcd.edu
+mails.hufe.edu.cn
+stu.just.edu.cn
