@@ -175,7 +175,6 @@ chc.edu.tw
 ccu.edu.tw
 ms.edu.tw
 cochise.edu
-pcc.edu
 kings.edu.uy
 cjlu.edu.cn
 my.yosemite.edu
@@ -221,7 +220,6 @@ s.upc.edu.cn
 student.gla.ac.uk
 mywvm.wvm.edu
 kmismail.com
-andrew.cmu.edu
 aufe.edu.cn
 wru.vn
 bcmail.cuny.edu
