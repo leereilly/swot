@@ -242,3 +242,4 @@ stu.ctcd.edu
 mails.hufe.edu.cn
 stu.just.edu.cn
 stud.u-szeged.hu
+vip.hnist.edu.cn
