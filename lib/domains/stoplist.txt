@@ -243,3 +243,4 @@ mails.hufe.edu.cn
 stu.just.edu.cn
 vip.hnist.edu.cn
 nccu.edu.tw
+stu.hnucm.edu.cn
