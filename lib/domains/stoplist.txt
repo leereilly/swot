@@ -245,3 +245,4 @@ vip.hnist.edu.cn
 nccu.edu.tw
 stu.hnucm.edu.cn
 mail.ntust.edu.tw
+bit.edu.cn
