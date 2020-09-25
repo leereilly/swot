@@ -248,3 +248,4 @@ mail.ntust.edu.tw
 bit.edu.cn
 mails.qust.edu.cn
 lzjtu.edu.cn
+connect.hku.hk
