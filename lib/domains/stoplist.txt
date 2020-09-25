@@ -249,3 +249,6 @@ bit.edu.cn
 mails.qust.edu.cn
 lzjtu.edu.cn
 connect.hku.hk
+stu.scu.edu.cn
+stu.kust.edu.cn
+mail.ustc.edu.cn
