@@ -75,9 +75,11 @@ edu.mv
 edu.mw
 edu.mx
 edu.ni
+edu.np
 edu.pa
 edu.pe
 edu.ph
+edu.pk
 edu.pr
 edu.ps
 edu.pt
