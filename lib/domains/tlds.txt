@@ -50,7 +50,6 @@ edu.dz
 edu.ee
 edu.er
 edu.et
-edu.ge
 edu.gh
 edu.gt
 edu.hn
