@@ -1,4 +1,4 @@
-Stichting LMC Voortgezet Onderwijs:
+Stichting LMC Voortgezet Onderwijs
 Experience College
 Havo/vwo voor muziek en dans
 Het Lyceum Rotterdam  
@@ -21,3 +21,4 @@ Vak College Zuidrand
 Veenoord 
 Young Business School Rotterdam en afdeling Vrijeschool de Kaap
 Zuiderpark College 
+.group
