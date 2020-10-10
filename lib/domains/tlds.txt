@@ -80,7 +80,6 @@ edu.pe
 edu.ph
 edu.pk
 edu.pr
-edu.ps
 edu.pt
 edu.pw
 edu.py
