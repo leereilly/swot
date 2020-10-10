@@ -217,7 +217,6 @@ zjsru.edu.cn
 student.scf.edu
 my.unitec.edu.mx
 s.upc.edu.cn
-student.gla.ac.uk
 mywvm.wvm.edu
 kmismail.com
 aufe.edu.cn
