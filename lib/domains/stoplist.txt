@@ -258,3 +258,4 @@ st.usst.edu.cn
 student.laccd.edu
 mail.irsc.edu
 kmust.edu.cn
+rawafed.edu.ps
