@@ -249,7 +249,7 @@ mails.qust.edu.cn
 lzjtu.edu.cn
 connect.hku.hk
 stu.scu.edu.cn
-stu.kust.edu.cn
+kust.edu.cn
 mail.ustc.edu.cn
 student.laccd.edu
 mjj.edu.ge
