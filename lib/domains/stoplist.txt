@@ -263,3 +263,6 @@ st.usst.edu.cn
 student.wstkt.edu.pl
 stu.xhsysu.edu.cn
 my.browncollege.edu
+2020.gsm.cocite.pt
+gsm.cocite.pt
+cocite.pt
