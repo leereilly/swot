@@ -260,3 +260,4 @@ mail.irsc.edu
 kmust.edu.cn
 rawafed.edu.ps
 st.usst.edu.cn
+student.wstkt.edu.pl
