@@ -266,3 +266,4 @@ my.browncollege.edu
 2020.gsm.cocite.pt
 gsm.cocite.pt
 cocite.pt
+stu.sisu.edu.cn
