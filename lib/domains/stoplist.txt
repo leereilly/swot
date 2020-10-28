@@ -178,7 +178,6 @@ cochise.edu
 kings.edu.uy
 cjlu.edu.cn
 my.yosemite.edu
-hit.edu.cn
 stu.parkland.edu
 cc.peralta.edu
 tongji.edu.cn
@@ -194,7 +193,6 @@ swpu.edu.cn
 lzu.edu.cn
 student.unsw.edu.au
 bfsu.edu.cn
-shu.edu.cn
 hrbeu.edu.cn
 bnu.edu.cn
 jlu.edu.cn
@@ -202,7 +200,6 @@ zucc.edu.cn
 xmu.edu.cn
 seu.edu.cn
 nenu.edu.cn
-csu.edu.cn
 nwafu.edu.cn
 swu.edu.cn
 snnu.edu.cn
@@ -228,7 +225,6 @@ stu.ouc.edu.cn
 tsinghua.pkumail.tech
 stu.haut.edu.cn
 sem.tsinghua.edu.cn
-mails.tsinghua.edu.cn
 mails.cust.edu.cn
 insite.4cd.edu
 cug.edu.cn
@@ -250,7 +246,6 @@ lzjtu.edu.cn
 connect.hku.hk
 stu.scu.edu.cn
 kust.edu.cn
-mail.ustc.edu.cn
 student.laccd.edu
 mjj.edu.ge
 nnu.edu.cn
@@ -267,3 +262,6 @@ my.browncollege.edu
 gsm.cocite.pt
 cocite.pt
 stu.sisu.edu.cn
+vip.haust.edu.cn
+njnu.edu.cn
+pku.edu.cn
