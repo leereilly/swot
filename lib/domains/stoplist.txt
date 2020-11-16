@@ -267,3 +267,4 @@ go.minnstate.edu
 siswa.email
 codesra.cn
 tccd.edu
+mail.hbut.edu.cn
