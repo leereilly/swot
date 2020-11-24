@@ -264,3 +264,4 @@ tccd.edu
 mail.hbut.edu.cn
 cc.peralta.edu
 wstkt.edu.pl
+volmail.jalc.edu
