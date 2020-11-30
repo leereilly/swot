@@ -268,3 +268,4 @@ volmail.jalc.edu
 chd.edu.cn
 stu.cihanuniversity.org
 smail.nju.edu.cn
+seu.edu.mk
