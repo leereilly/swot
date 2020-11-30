@@ -266,3 +266,5 @@ cc.peralta.edu
 wstkt.edu.pl
 volmail.jalc.edu
 chd.edu.cn
+stu.cihanuniversity.org
+smail.nju.edu.cn
