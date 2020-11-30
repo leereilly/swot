@@ -269,3 +269,5 @@ chd.edu.cn
 stu.cihanuniversity.org
 smail.nju.edu.cn
 seu.edu.mk
+sfu.edu.cn
+stu.sqxy.edu.cn
