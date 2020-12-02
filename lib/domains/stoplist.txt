@@ -275,3 +275,4 @@ stud.acdt.edu.cn
 student.ohlone.edu
 stu.hnie.edu.cn
 student.carlalbert.edu
+lixin.edu.cn
