@@ -254,7 +254,7 @@ my.browncollege.edu
 gsm.cocite.pt
 cocite.pt
 stu.sisu.edu.cn
-vip.haust.edu.cn
+haust.edu.cn
 njnu.edu.cn
 mymail.tcc.fl.edu
 go.minnstate.edu
@@ -276,3 +276,4 @@ student.ohlone.edu
 stu.hnie.edu.cn
 student.carlalbert.edu
 lixin.edu.cn
+mymail.gaston.edu
