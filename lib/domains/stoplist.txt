@@ -277,3 +277,4 @@ stu.hnie.edu.cn
 student.carlalbert.edu
 lixin.edu.cn
 mymail.gaston.edu
+stu.nmu.edu.cn
