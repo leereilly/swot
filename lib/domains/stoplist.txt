@@ -278,3 +278,4 @@ student.carlalbert.edu
 lixin.edu.cn
 mymail.gaston.edu
 stu.nmu.edu.cn
+asu.edu
