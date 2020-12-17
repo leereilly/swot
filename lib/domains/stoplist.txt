@@ -281,3 +281,4 @@ stu.nmu.edu.cn
 asu.edu
 nicu.ac.mu
 stu.cpu.edu.cn
+stu.xpu.edu.cn
