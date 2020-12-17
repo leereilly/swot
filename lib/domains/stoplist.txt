@@ -280,3 +280,4 @@ mymail.gaston.edu
 stu.nmu.edu.cn
 asu.edu
 nicu.ac.mu
+stu.cpu.edu.cn
