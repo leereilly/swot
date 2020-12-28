@@ -283,3 +283,5 @@ nicu.ac.mu
 stu.cpu.edu.cn
 stu.xpu.edu.cn
 alum.urmc.rochester.edu
+vict.edu.ht
+bit.edu.cn
