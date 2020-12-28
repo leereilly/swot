@@ -51,7 +51,6 @@ edu.et
 edu.gh
 edu.gt
 edu.hn
-edu.ht
 edu.in
 edu.jm
 edu.jo
