@@ -21,7 +21,6 @@ ac.pr
 ac.ru
 ac.rw
 ac.sz
-ac.ug
 ac.uk
 ac.yu
 ac.za
@@ -99,7 +98,6 @@ g12.br
 hs.kr
 ms.kr
 sc.kr
-sc.ug
 sch.ae
 sch.gg
 sch.id
