@@ -297,3 +297,8 @@ hiast.edu.vn
 jmu.edu.cn
 whu.edu.cn
 aof.anadolu.edu.tr
+zju.edu.cn
+uiot.ac.ug
+stu.qhnu.edu.cn
+stu.ahu.edu.cn
+mail.xjtu.edu.cn
