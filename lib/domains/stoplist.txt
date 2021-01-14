@@ -291,3 +291,9 @@ ust.hk
 iga-marrakech.ma
 cuu.ac.ug
 student.humg.edu.vn
+lzpcc.edu.cn
+ishikuniversity.net
+hiast.edu.vn
+jmu.edu.cn
+whu.edu.cn
+aof.anadolu.edu.tr
