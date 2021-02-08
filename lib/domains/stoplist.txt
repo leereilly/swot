@@ -308,3 +308,5 @@ fjys.edu.cn
 bjtu.edu.cn
 ouc.edu.cn
 bgu.edu.kg
+stu.sdnu.edu.cn
+dzxy.ntu.edu.cn
