@@ -306,3 +306,5 @@ mail2.gdut.edu.cn
 nnu.edu.cn
 fjys.edu.cn
 bjtu.edu.cn
+ouc.edu.cn
+bgu.edu.kg
