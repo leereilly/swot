@@ -310,3 +310,5 @@ ouc.edu.cn
 bgu.edu.kg
 stu.sdnu.edu.cn
 dzxy.ntu.edu.cn
+bitzh.edu.cn
+std.uestc.edu.cn
