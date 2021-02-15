@@ -314,3 +314,4 @@ dzxy.ntu.edu.cn
 bitzh.edu.cn
 std.uestc.edu.cn
 kashop.me
+stu.kust.edu.cn
