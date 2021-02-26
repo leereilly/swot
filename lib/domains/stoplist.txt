@@ -322,3 +322,5 @@ secupv.org
 xingle.me
 caa.edu.cn
 stu.scau.edu.cn
+stu.liiajc.me
+smail.skawi.me
