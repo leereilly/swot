@@ -340,3 +340,9 @@ cheoa.studio
 esore.asia
 zhaoqian.ninja
 rocks
+tech
+email
+live
+ninja
+studio
+zut.edu.cn
