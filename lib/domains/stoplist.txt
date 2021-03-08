@@ -346,3 +346,4 @@ live
 ninja
 studio
 zut.edu.cn
+sz.pku.edu.cn
