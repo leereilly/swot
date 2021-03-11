@@ -213,7 +213,6 @@ wru.vn
 bcmail.cuny.edu
 peking.pkumail.tech
 stu.hcnu.edu.cn
-stu.ouc.edu.cn
 tsinghua.pkumail.tech
 stu.haut.edu.cn
 sem.tsinghua.edu.cn
@@ -349,3 +348,4 @@ zut.edu.cn
 sz.pku.edu.cn
 mail.nwpu.edu.cn
 bestlistbase.com
+mail.ru
