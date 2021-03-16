@@ -344,6 +344,7 @@ email
 live
 ninja
 studio
+app
 zut.edu.cn
 sz.pku.edu.cn
 mail.nwpu.edu.cn
