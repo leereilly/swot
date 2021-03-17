@@ -344,9 +344,15 @@ email
 live
 ninja
 studio
+app
 zut.edu.cn
 sz.pku.edu.cn
 mail.nwpu.edu.cn
 bestlistbase.com
 mail.ru
 m.fafu.edu.cn
+leonvero.com
+mailpoof.com
+emlmuak.cn
+mail.mss.sc.ug
+sus.edu
