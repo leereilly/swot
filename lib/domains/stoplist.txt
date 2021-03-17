@@ -302,7 +302,6 @@ stu.ahu.edu.cn
 mail.xjtu.edu.cn
 mail.0du.win
 mail2.gdut.edu.cn
-nnu.edu.cn
 fjys.edu.cn
 bjtu.edu.cn
 ouc.edu.cn
