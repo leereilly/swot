@@ -363,3 +363,4 @@ shisu.edu.cn
 st.cupk.edu.cn
 tk
 lfnu.edu.cn
+eurasia.edu
