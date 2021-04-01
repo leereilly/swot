@@ -293,7 +293,6 @@ ishikuniversity.net
 hiast.edu.vn
 jmu.edu.cn
 whu.edu.cn
-aof.anadolu.edu.tr
 zju.edu.cn
 uiot.ac.ug
 qhnu.edu.cn
@@ -372,3 +371,4 @@ my.anokaramsey.edu
 post.eurasia.edu
 mziuri.edu.ge
 ljb.edu.hk
+lucbjtu.ac.uk
