@@ -148,7 +148,7 @@ stu.ccsu.edu.cn
 email.axc.edu.gr
 mail.csu.edu.cn
 zanestate.edu
-student.palomar.edu
+palomar.edu
 cumt.edu.cn
 me.bergen.edu
 students.smanra.sch.id
