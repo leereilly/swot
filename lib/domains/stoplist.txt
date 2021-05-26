@@ -161,7 +161,6 @@ student.ntu.edu.pk
 correo.icesi.edu.co
 edu.moi
 alum.ccu.edu.tw
-hbgyzy.edu.cn
 mail.edu.tw
 hc.edu.tw
 go.edu.tw
