@@ -311,7 +311,6 @@ std.uestc.edu.cn
 kashop.me
 stu.kust.edu.cn
 my.tccd.edu
-gavilan.edu
 secupv.org
 xingle.me
 caa.edu.cn
