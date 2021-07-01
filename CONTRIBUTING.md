@@ -2,8 +2,6 @@
 
 If you did not contribute to this repository before, please read the repository rules at the bottom of [this page](https://github.com/JetBrains/swot/).
 
-**Due to summer holidays, pull requests processing may take longer than usual. If you submit your request between July 11th and July 23rd, 2018, its processing may be delayed for up to ten business days. We apologise for any inconvenience it may cause and thank you for understanding! JetBrains Team**
-
 #### Data Contributions
 
 * All of the school data is stored in a simple filesystem data structure under `lib/domains`.
@@ -36,8 +34,8 @@ Change the file contents of the appropriate file.
 
 A simple `git rm` on the approriate file will do the trick.
 
-#### Refer the blacklist
-Please do not suggest to add domains from the blacklist. They're banned for the reason. The list currently looks like follows
+#### Refer the stoplist
+Please do not suggest to add domains from the stoplist. They're banned for the reason. The list currently looks like follows
 * si.edu - anyone could register a domain there
 * america.edu - anyone could register a domain there
 * californiacolleges.edu - anyone could register e-mail account there
