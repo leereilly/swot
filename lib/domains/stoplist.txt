@@ -379,3 +379,4 @@ stu.cqupt.edu.cn
 huanghuai.edu.cn
 yzpc.edu.cn
 sekaschool.ac.th
+ctgu.edu.cn
