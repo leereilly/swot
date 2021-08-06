@@ -384,3 +384,5 @@ ctgu.edu.cn
 st.sandau.edu.cn
 stu.nun.edu.cn
 zcmu.edu.cn
+student.oaklandcc.edu
+alumni.unc.edu
