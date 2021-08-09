@@ -386,3 +386,4 @@ stu.nun.edu.cn
 zcmu.edu.cn
 student.oaklandcc.edu
 alumni.unc.edu
+jou.edu.cn
