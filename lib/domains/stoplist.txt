@@ -233,6 +233,7 @@ mail.ntust.edu.tw
 mails.qust.edu.cn
 lzjtu.edu.cn
 connect.hku.hk
+graduate.hku.hk
 stu.scu.edu.cn
 kust.edu.cn
 student.laccd.edu
@@ -382,3 +383,6 @@ sekaschool.ac.th
 ctgu.edu.cn
 st.sandau.edu.cn
 stu.nun.edu.cn
+zcmu.edu.cn
+student.oaklandcc.edu
+alumni.unc.edu
