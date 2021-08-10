@@ -388,3 +388,5 @@ student.oaklandcc.edu
 alumni.unc.edu
 jou.edu.cn
 student.nocccd.edu
+mails.imnu.edu.cn
+njau.edu.cn
