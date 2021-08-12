@@ -390,3 +390,4 @@ jou.edu.cn
 student.nocccd.edu
 mails.imnu.edu.cn
 njau.edu.cn
+stu.ncwu.edu.cn
