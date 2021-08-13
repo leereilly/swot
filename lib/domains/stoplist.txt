@@ -391,3 +391,4 @@ student.nocccd.edu
 mails.imnu.edu.cn
 njau.edu.cn
 stu.ncwu.edu.cn
+alu.fudan.edu.cn
