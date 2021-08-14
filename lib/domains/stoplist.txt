@@ -395,3 +395,4 @@ alu.fudan.edu.cn
 stu.gzucm.edu.cn
 st.buh.edu.vn
 zjnu.edu.cn
+hainanu.edu.cn
