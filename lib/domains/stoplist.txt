@@ -392,3 +392,7 @@ mails.imnu.edu.cn
 njau.edu.cn
 stu.ncwu.edu.cn
 alu.fudan.edu.cn
+stu.gzucm.edu.cn
+st.buh.edu.vn
+zjnu.edu.cn
+hainanu.edu.cn
