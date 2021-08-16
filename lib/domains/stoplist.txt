@@ -407,3 +407,4 @@ csu.ph
 sstu-edu.ru
 unisilvaner.info
 kbtut.tj
+caa.columbia.edu
