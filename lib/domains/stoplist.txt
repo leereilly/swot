@@ -411,3 +411,4 @@ caa.columbia.edu
 stu.wxic.edu.cn
 my.ccri.edu
 hhu.edu.cn
+mail.uic.edu.cn
