@@ -416,3 +416,5 @@ stu.colegiotorremalmuerta.es
 sjtu.edu.cn
 rochester.edu
 unisilvaner.info
+stu.jiangnan.edu.cn
+mail.dhu.edu.cn
