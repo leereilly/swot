@@ -418,3 +418,6 @@ rochester.edu
 unisilvaner.info
 stu.jiangnan.edu.cn
 mail.dhu.edu.cn
+wust.edu.cn
+smail.hunnu.edu.cn
+vanlanguni.vn
