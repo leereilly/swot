@@ -421,3 +421,5 @@ mail.dhu.edu.cn
 wust.edu.cn
 smail.hunnu.edu.cn
 vanlanguni.vn
+stu.mziuri.edu.ge
+azwestern.edu
