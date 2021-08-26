@@ -110,7 +110,7 @@ alu.comillas.edu
 zknu.edu.cn
 go.sfcollege.edu
 kst.edu.sg
-campus.mccd.edu
+mccd.edu
 xzyz.edu.cn
 giant.cos.edu
 henu.edu.cn
