@@ -488,3 +488,4 @@ zucc.edu.cn
 zuel.edu.cn
 zut.edu.cn
 buaa.edu.cn
+jsut.edu.cn
