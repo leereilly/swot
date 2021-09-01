@@ -493,3 +493,4 @@ student.ciu.edu.tr
 gzhu.edu.cn
 scuec.edu.cn
 everettcc.edu
+bucea.edu.cn
