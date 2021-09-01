@@ -491,3 +491,4 @@ buaa.edu.cn
 jsut.edu.cn
 student.ciu.edu.tr
 gzhu.edu.cn
+post.mechnik.spb.ru
