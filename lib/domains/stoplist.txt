@@ -490,3 +490,4 @@ zut.edu.cn
 buaa.edu.cn
 jsut.edu.cn
 student.ciu.edu.tr
+gzhu.edu.cn
