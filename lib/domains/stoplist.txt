@@ -492,3 +492,4 @@ jsut.edu.cn
 student.ciu.edu.tr
 gzhu.edu.cn
 post.mechnik.spb.ru
+mails.mechnik.spb.ru
