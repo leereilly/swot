@@ -38,6 +38,8 @@ bjdx.ac.cn
 bjlg.ac.cn
 bjtu.edu.cn
 bnu.edu.cn
+buaa.edu.cn
+bucea.edu.cn
 caa.columbia.edu
 caa.edu.cn
 californiacolleges.edu
@@ -59,34 +61,6 @@ cheoa.studio
 cjlu.edu.cn
 clatsopcc.edu
 cloudlearn.tech
-<<<<<<< HEAD
-bbc.edu.cn
-student.cccs.edu
-fountaingatesc.vic.edu.au
-edu.tanta.edu.eg
-mail.ltcc.edu
-student.ksu.edu.sa
-vip.henu.edu.cn
-student.napavalley.edu
-mycom.marin.edu
-alu.comillas.edu
-zknu.edu.cn
-go.sfcollege.edu
-kst.edu.sg
-mccd.edu
-xzyz.edu.cn
-giant.cos.edu
-henu.edu.cn
-stu.zuel.edu.cn
-uotago.ac.nz
-xzyz.edu.cn
-edu.uca.ma
-pekingwebmail.tech
-apus.edu
-students.uwc.edu
-mail.broward.edu
-mymail.aacc.edu
-madisoncollege.edu
 cochise.edu
 cocite.pt
 codesra.cn
@@ -125,6 +99,7 @@ esore.asia
 esprims.tn
 eufe.edu.ht
 eurasia.edu
+everettcc.edu
 fjys.edu.cn
 fountaingatesc.vic.edu.au
 ga
@@ -138,6 +113,7 @@ graduate.hku.hk
 gsm.cocite.pt
 gydx.ac.cn
 gzhtcm.edu.cn
+gzhu.edu.cn
 hainanu.edu.cn
 hainu.edu.cn
 haust.edu.cn
@@ -148,6 +124,7 @@ hbut.edu.cn
 hcc.edu.tw
 hc.edu.tw
 hcmup.edu.vn
+<<<<<<< HEAD
 henu.edu.cn
 hhu.edu.cn
 hiast.edu.vn
@@ -176,6 +153,7 @@ jlu.edu.cn
 jmu.edu.cn
 jou.edu.cn
 jsust.edu.cn
+jsut.edu.cn
 kashop.me
 kbtut.tj
 kg.edu.kg
@@ -235,6 +213,7 @@ mail.sustc.edu.cn
 mail.uic.edu.cn
 mail.wcccd.edu
 mail.xjtu.edu.cn
+mccd.edu
 mclennan.edu
 mdu.edu.rs
 me.bergen.edu
@@ -250,6 +229,7 @@ my.anokaramsey.edu
 my.browncollege.edu
 my.canyons.edu
 my.ccri.edu
+my.chattanoogastate.edu
 my.cleveland.edu
 mycom.marin.edu
 my.edu.moi
@@ -306,6 +286,7 @@ scc.stanly.edu
 sch.edu.af
 school.mss.sc.ug
 scnu.edu.cn
+scuec.edu.cn
 scu.edu.cn
 sdju.edu.cn
 sdnu.edu.cn
@@ -326,6 +307,7 @@ sicau.edu.cn
 si.edu
 sierracollege.edu
 siswa.email
+sit.edu.cn
 sjtu.edu.cn
 smail.hunnu.edu.cn
 smail.nju.edu.cn
@@ -356,6 +338,7 @@ stud.acdt.edu.cn
 student.carlalbert.edu
 student.cccs.edu
 student.citruscollege.edu
+student.ciu.edu.tr
 student.cmccd.edu
 student.cumtb.edu.cn
 student.glendale.edu
@@ -380,6 +363,7 @@ students.rossu.edu
 students.smanra.sch.id
 students.solano.edu
 students.uwc.edu
+students.westerntc.edu
 student.unsw.edu.au
 student.wstkt.edu.pl
 studio
@@ -461,6 +445,7 @@ www.90888.cc
 wxic.edu.cn
 wzu.edu.cn
 xbdx.ac.cn
+xidian.edu.cn
 xinfu.ac.cn
 xingle.me
 xiyou.edu.cn
@@ -485,15 +470,3 @@ zknu.edu.cn
 zucc.edu.cn
 zuel.edu.cn
 zut.edu.cn
-buaa.edu.cn
-jsut.edu.cn
-student.ciu.edu.tr
-gzhu.edu.cn
-scuec.edu.cn
-everettcc.edu
-bucea.edu.cn
-southwest.tn.edu
-students.westerntc.edu
-my.chattanoogastate.edu
-xidian.edu.cn
-sit.edu.cn
