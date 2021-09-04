@@ -87,14 +87,12 @@ students.uwc.edu
 mail.broward.edu
 mymail.aacc.edu
 madisoncollege.edu
-=======
 cochise.edu
 cocite.pt
 codesra.cn
 connect.hku.hk
 correo.icesi.edu.co
 cougarmail.collin.edu
->>>>>>> f32e0336b94240b0a1e8eb4487fc2dc1c693dc43
 cpcc.edu
 cqu.edu.cn
 csu.ph
