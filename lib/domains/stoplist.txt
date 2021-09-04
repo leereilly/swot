@@ -124,7 +124,6 @@ hbut.edu.cn
 hcc.edu.tw
 hc.edu.tw
 hcmup.edu.vn
-<<<<<<< HEAD
 henu.edu.cn
 hhu.edu.cn
 hiast.edu.vn
