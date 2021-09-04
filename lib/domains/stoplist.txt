@@ -498,3 +498,4 @@ southwest.tn.edu
 students.westerntc.edu
 my.chattanoogastate.edu
 xidian.edu.cn
+sit.edu.cn
