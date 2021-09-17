@@ -484,3 +484,5 @@ sust.edu
 rutgers.edu
 yccd.edu
 paulsmiths.edu
+ghazanthemprep.org
+tri-c.edu
