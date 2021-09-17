@@ -483,3 +483,4 @@ stu.sxit.edu.cn
 sust.edu
 rutgers.edu
 yccd.edu
+paulsmiths.edu
