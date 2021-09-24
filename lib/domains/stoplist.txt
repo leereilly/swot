@@ -491,3 +491,4 @@ my.occc.edu
 mechnik.spb.ru
 freenet.kg
 sharkia3.moe.edu.eg
+my.smccd.edu
