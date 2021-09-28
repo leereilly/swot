@@ -493,3 +493,4 @@ freenet.kg
 sharkia3.moe.edu.eg
 my.smccd.edu
 dragons.hutchcc.edu
+mail.cihanuniversity.org
