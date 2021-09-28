@@ -493,4 +493,6 @@ freenet.kg
 sharkia3.moe.edu.eg
 my.smccd.edu
 dragons.hutchcc.edu
-mail.cihanuniversity.org
+cihanuniversity.org
+stu.hit.edu.cn
+mails.tsinghua.edu.cn
