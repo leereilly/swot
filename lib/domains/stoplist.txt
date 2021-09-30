@@ -496,3 +496,4 @@ dragons.hutchcc.edu
 cihanuniversity.org
 stu.hit.edu.cn
 mails.tsinghua.edu.cn
+deltacollege.edu
