@@ -498,3 +498,4 @@ stu.hit.edu.cn
 mails.tsinghua.edu.cn
 deltacollege.edu
 gavilan.edu
+mgccc.edu
