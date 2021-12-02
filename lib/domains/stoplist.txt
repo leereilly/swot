@@ -499,3 +499,5 @@ deltacollege.edu
 gavilan.edu
 mgccc.edu
 my.jcu.edu.au
+masu.edu.cn
+utexas.edu
