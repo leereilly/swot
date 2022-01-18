@@ -506,3 +506,4 @@ cczu.edu.cn
 sdust.edu.cn
 gsuite.cornell.edu
 cmail.cornell.edu
+anadolu.edu.tr
