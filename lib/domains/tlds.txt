@@ -42,7 +42,6 @@ edu.bs
 edu.bz
 edu.ck
 edu.cn
-edu.do
 edu.dz
 edu.ee
 edu.er
