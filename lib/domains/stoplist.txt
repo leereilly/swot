@@ -518,3 +518,4 @@ mgt.sjp.ac.lk
 student.alamo.edu
 collin.edu
 sdu.edu.cn
+tse.moe.edu.eg
