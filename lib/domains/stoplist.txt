@@ -500,7 +500,6 @@ gavilan.edu
 mgccc.edu
 my.jcu.edu.au
 masu.edu.cn
-utexas.edu
 unijos.edu.ng
 cczu.edu.cn
 sdust.edu.cn
