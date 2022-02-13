@@ -318,7 +318,6 @@ sss.edu.bi
 sstu-edu.ru
 st.btbu.edu.cn
 st.buh.edu.vn
-st.cupk.edu.cn
 std.uestc.edu.cn
 stlcc.edu
 stmail.tanenbaumchat.org
