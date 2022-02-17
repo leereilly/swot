@@ -496,7 +496,6 @@ stu.hit.edu.cn
 mails.tsinghua.edu.cn
 deltacollege.edu
 mgccc.edu
-my.jcu.edu.au
 masu.edu.cn
 unijos.edu.ng
 cczu.edu.cn
