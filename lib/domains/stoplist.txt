@@ -515,3 +515,8 @@ student.alamo.edu
 collin.edu
 sdu.edu.cn
 tse.moe.edu.eg
+stu.cdut.edu.cn
+hsc.pku.edu.cn
+e.gzhu.edu.cn
+ayit.edu.cn
+kingshurst.ac.uk
