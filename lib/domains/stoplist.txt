@@ -307,7 +307,6 @@ sierracollege.edu
 siswa.email
 sit.edu.cn
 sjtu.edu.cn
-smail.hunnu.edu.cn
 smail.nju.edu.cn
 smail.skawi.me
 smc.edu
@@ -520,3 +519,6 @@ hsc.pku.edu.cn
 e.gzhu.edu.cn
 ayit.edu.cn
 kingshurst.ac.uk
+hunnu.edu.cn
+cque.edu.cn
+student.uantwerpen.be
