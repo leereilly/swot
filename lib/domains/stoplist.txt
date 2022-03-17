@@ -524,3 +524,4 @@ cque.edu.cn
 student.uantwerpen.be
 sust.edu.cn
 bentley.edu
+o365.msu.ac.th
