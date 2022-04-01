@@ -91,7 +91,7 @@ edu.uca.ma
 edu.umi.ac.ma
 email
 email.axc.edu.gr
-email.t.edu.vn
+t.edu.vn
 emlmuak.cn
 enayu.com
 esore.asia
@@ -387,7 +387,6 @@ stu.shzu.edu.cn
 stu.sisu.edu.cn
 stu.sqxy.edu.cn
 st.usst.edu.cn
-stu.t.edu.vn
 stu.wxic.edu.cn
 stu.xhsysu.edu.cn
 stu.xpu.edu.cn
@@ -525,3 +524,7 @@ student.uantwerpen.be
 sust.edu.cn
 bentley.edu
 o365.msu.ac.th
+sg.edu.vn
+tu.edu.vn
+inu.edu.vn
+ksu.edu.bi
