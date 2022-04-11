@@ -527,3 +527,5 @@ sg.edu.vn
 tu.edu.vn
 inu.edu.vn
 ksu.edu.bi
+stu.xhu.edu.cn
+njtech.edu.cn
