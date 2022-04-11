@@ -21,7 +21,6 @@ ac.pr
 ac.ru
 ac.rw
 ac.sz
-ac.uk
 ac.yu
 ac.za
 ac.zm
