@@ -535,3 +535,4 @@ mail.ccmu.edu.cn
 link.tyut.edu.cn
 stu.pku.edu.cn
 slc.ubc.ca
+alumni.ubc.ca
