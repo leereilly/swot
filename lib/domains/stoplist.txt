@@ -536,3 +536,4 @@ link.tyut.edu.cn
 stu.pku.edu.cn
 slc.ubc.ca
 alumni.ubc.ca
+sv.ussh.edu.vn
