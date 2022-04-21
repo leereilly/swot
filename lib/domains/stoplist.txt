@@ -537,3 +537,4 @@ stu.pku.edu.cn
 slc.ubc.ca
 alumni.ubc.ca
 sv.ussh.edu.vn
+yznu.edu.cn
