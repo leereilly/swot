@@ -538,3 +538,4 @@ slc.ubc.ca
 alumni.ubc.ca
 sv.ussh.edu.vn
 yznu.edu.cn
+stu.zjhu.edu.cn
