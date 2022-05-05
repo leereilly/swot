@@ -544,3 +544,5 @@ cacc.edu
 rb.moe.gov.sa
 stu.nuc.edu
 dove.kh.edu.tw
+stu.yznu.cn
+kfu.edu.cn
