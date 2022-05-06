@@ -546,3 +546,4 @@ stu.nuc.edu
 dove.kh.edu.tw
 stu.yznu.cn
 kfu.edu.cn
+smail.cczu.edu.cn
