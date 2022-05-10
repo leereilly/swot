@@ -543,7 +543,7 @@ rmutl.ac.th
 cacc.edu
 rb.moe.gov.sa
 stu.nuc.edu
-dove.kh.edu.tw
+kh.edu.tw
 stu.yznu.cn
 kfu.edu.cn
 smail.cczu.edu.cn
