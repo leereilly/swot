@@ -553,3 +553,5 @@ matc.edu
 pgc.edu.pk
 spscc.edu
 baypath.edu
+stu.cdsj6.edu.mo
+plm.edu.ph
