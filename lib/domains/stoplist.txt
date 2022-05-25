@@ -557,3 +557,4 @@ stu.cdsj6.edu.mo
 plm.edu.ph
 njit.edu
 sziit.edu.cn
+alumni.stanford.edu
