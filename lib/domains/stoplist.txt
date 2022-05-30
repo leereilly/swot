@@ -559,3 +559,4 @@ njit.edu
 sziit.edu.cn
 alumni.stanford.edu
 knights.ucf.edu
+viacesi.fr
