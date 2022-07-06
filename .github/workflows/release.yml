@@ -14,7 +14,7 @@ jobs:
 
       - name: Compile and run Kotlin
         run: |
-          kotlinc src/swot -include-runtime -d swot.jar
+          kotlinc src/main/kotlin/swot -include-runtime -d swot.jar
           java -jar swot.jar
 
       - name: Move the 'latest' tag to the head commit
