@@ -566,3 +566,4 @@ swccd.edu
 mercubuana.ac.id
 alumni.tku.edu.tw
 tralu.hdu.edu.cn
+my.jccmi.edu
