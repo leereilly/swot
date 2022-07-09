@@ -61,7 +61,6 @@ edu.me
 edu.mg
 edu.ml
 edu.mn
-edu.mo
 edu.mt
 edu.mv
 edu.mw

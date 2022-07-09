@@ -567,3 +567,5 @@ mercubuana.ac.id
 alumni.tku.edu.tw
 tralu.hdu.edu.cn
 my.jccmi.edu
+stu.cdsj6.edu.mo
+stu.suse.edu.cn
