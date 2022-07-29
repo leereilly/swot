@@ -570,3 +570,4 @@ my.jccmi.edu
 stu.cdsj6.edu.mo
 stu.suse.edu.cn
 alum.mit.edu
+student.cdsj.edu.mo
