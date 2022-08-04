@@ -578,3 +578,5 @@ ecut.edu.cn
 stu.xjtu.edu.cn
 s.slcupc.edu.cn
 alumni.bham.ac.uk
+unitec.edu
+kbtc.edu.mm
