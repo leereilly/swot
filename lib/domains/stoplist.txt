@@ -580,3 +580,5 @@ s.slcupc.edu.cn
 alumni.bham.ac.uk
 unitec.edu
 kbtc.edu.mm
+idat.edu.pe
+ms1.mcu.edu.tw
