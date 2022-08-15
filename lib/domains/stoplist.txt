@@ -585,3 +585,4 @@ ms1.mcu.edu.tw
 powerbi.edu.kg
 aya.yale.edu
 mail.wvncc.edu
+tnw.ac.th
