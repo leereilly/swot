@@ -516,7 +516,6 @@ stu.cdut.edu.cn
 hsc.pku.edu.cn
 e.gzhu.edu.cn
 ayit.edu.cn
-kingshurst.ac.uk
 hunnu.edu.cn
 cque.edu.cn
 sust.edu.cn
