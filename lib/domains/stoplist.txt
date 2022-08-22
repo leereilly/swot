@@ -592,3 +592,5 @@ edu.cdsj6.edu.mo
 students.uajy.ac.id
 postgradoutp.edu.pe
 alumnos.unp.edu.pe
+alpha.edu.pk
+tcl.edu
