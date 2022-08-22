@@ -587,3 +587,4 @@ mail.wvncc.edu
 tnw.ac.th
 uttab.edu.mx
 urgrad.rochester.edu
+neu.edu.vn
