@@ -590,3 +590,5 @@ urgrad.rochester.edu
 neu.edu.vn
 edu.cdsj6.edu.mo
 students.uajy.ac.id
+postgradoutp.edu.pe
+alumnos.unp.edu.pe
