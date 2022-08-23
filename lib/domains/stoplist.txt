@@ -594,3 +594,4 @@ postgradoutp.edu.pe
 alumnos.unp.edu.pe
 alpha.edu.pk
 tcl.edu
+alumni.zstu.edu.cn
