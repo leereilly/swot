@@ -595,3 +595,4 @@ alumnos.unp.edu.pe
 alpha.edu.pk
 tcl.edu
 alumni.zstu.edu.cn
+upc.edu.pe
