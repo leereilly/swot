@@ -596,3 +596,5 @@ alpha.edu.pk
 tcl.edu
 alumni.zstu.edu.cn
 upc.edu.pe
+feucanvas.edu.ph
+vtdi.edu.jm
