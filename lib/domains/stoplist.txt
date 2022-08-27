@@ -546,7 +546,6 @@ kfu.edu.cn
 smail.cczu.edu.cn
 cu.edu.kg
 kangnam.ac.kr
-reseau.eseo.fr
 stu.sxau.edu.cn
 matc.edu
 pgc.edu.pk
