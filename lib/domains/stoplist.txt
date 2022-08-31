@@ -599,3 +599,8 @@ vtdi.edu.jm
 hawkmail.hccfl.edu
 lcu.edu.cn
 mylife.unisa.ac.za
+utexas.edu
+utpl.edu.ec
+fue.edu.eg
+d.uraccan.edu.ni
+unasam.edu.pe
