@@ -21,7 +21,6 @@ america.edu
 app
 apus.edu
 art.edu.lv
-asu.edu
 aufe.edu.cn
 aurora.ekof.bg.ac.rs
 australia.edu
