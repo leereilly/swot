@@ -607,3 +607,4 @@ gtc.edu
 utp.edu.pe
 ute.edu.mx
 pace.edu
+unadvirtual.edu.co
