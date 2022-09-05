@@ -606,3 +606,4 @@ stu.ftccollege.edu
 gtc.edu
 utp.edu.pe
 ute.edu.mx
+pace.edu
