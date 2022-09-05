@@ -602,3 +602,7 @@ utpl.edu.ec
 fue.edu.eg
 uraccan.edu.ni
 unasam.edu.pe
+stu.ftccollege.edu
+gtc.edu
+utp.edu.pe
+ute.edu.mx
