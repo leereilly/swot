@@ -608,3 +608,4 @@ utp.edu.pe
 ute.edu.mx
 pace.edu
 unadvirtual.edu.co
+ms.uas.edu.mx
