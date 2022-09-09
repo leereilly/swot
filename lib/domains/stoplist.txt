@@ -611,3 +611,11 @@ unadvirtual.edu.co
 ms.uas.edu.mx
 sencico.edu.pe
 gtu.edu.tr
+cientifica.edu.pe
+uanl.edu.mx
+mail.bnuz.edu.cn
+st.gxu.edu.cn
+slc.ubc.ca
+alum.ubc.ca
+alumni.ubc.ca
+slc.ubc.ca
