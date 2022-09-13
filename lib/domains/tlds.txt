@@ -68,7 +68,6 @@ edu.mx
 edu.ni
 edu.np
 edu.pa
-edu.pe
 edu.ph
 edu.pk
 edu.pr
