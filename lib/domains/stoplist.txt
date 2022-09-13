@@ -620,3 +620,4 @@ alum.ubc.ca
 alumni.ubc.ca
 slc.ubc.ca
 acarballeira.es
+univ-caen.fr
