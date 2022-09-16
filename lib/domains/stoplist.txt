@@ -623,3 +623,5 @@ acarballeira.es
 univ-caen.fr
 office365.nkust.edu.tw
 thebes.edu.eg
+st.maltepe.edu.tr
+stu.tjcu.edu.cn
