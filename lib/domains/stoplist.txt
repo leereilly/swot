@@ -624,3 +624,5 @@ office365.nkust.edu.tw
 thebes.edu.eg
 st.maltepe.edu.tr
 stu.tjcu.edu.cn
+osasmailovic.edu.ba
+conalep.edu.mx

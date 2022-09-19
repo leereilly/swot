@@ -32,7 +32,6 @@ edu
 edu.al
 edu.ar
 edu.az
-edu.ba
 edu.bb
 edu.bd
 edu.bh
@@ -64,10 +63,8 @@ edu.mn
 edu.mt
 edu.mv
 edu.mw
-edu.mx
 edu.ni
 edu.pa
-edu.ph
 edu.pk
 edu.pr
 edu.pt
