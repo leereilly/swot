@@ -627,3 +627,4 @@ stu.tjcu.edu.cn
 osasmailovic.edu.ba
 conalep.edu.mx
 student.ub.ac.id
+std.balamand.edu.lb
