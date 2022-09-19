@@ -626,3 +626,4 @@ st.maltepe.edu.tr
 stu.tjcu.edu.cn
 osasmailovic.edu.ba
 conalep.edu.mx
+student.ub.ac.id
