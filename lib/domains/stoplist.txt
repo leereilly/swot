@@ -634,3 +634,5 @@ student.bau.edu.lb
 std.aou.edu.eg
 iskolarngbayan.pup.edu.ph
 puce.edu.ec
+student.thomasmore.be
+isiswa.uitm.edu.my
