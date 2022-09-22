@@ -629,3 +629,8 @@ conalep.edu.mx
 student.ub.ac.id
 std.balamand.edu.lb
 mail.lcc.edu
+student.cumtb.edu.cn
+student.bau.edu.lb
+std.aou.edu.eg
+iskolarngbayan.pup.edu.ph
+puce.edu.ec
