@@ -640,3 +640,4 @@ rg.moe.gov.sa
 northshore.edu
 students.prairiestate.edu
 uam.edu.co
+bgtk.kz
