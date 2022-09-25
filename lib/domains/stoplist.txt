@@ -641,3 +641,7 @@ northshore.edu
 students.prairiestate.edu
 uam.edu.co
 nub.edu.eg
+tcathartsville.edu
+stou.ac.th
+isik.edu.tr
+students.muet.edu.pk
