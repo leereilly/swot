@@ -651,3 +651,4 @@ mju.ac.th
 ucp.edu.pk
 alu.uap.edu.pe
 estudiantes.cordillera.edu.ec
+365.cleu.edu.mx
