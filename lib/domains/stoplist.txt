@@ -657,3 +657,5 @@ bsu.edu.eg
 mined.edu.sv
 student.olympic.edu
 asu.edu.eg
+alumni.msoe.edu
+misena.edu.co
