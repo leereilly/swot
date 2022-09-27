@@ -656,3 +656,4 @@ uteco.edu.do
 bsu.edu.eg
 mined.edu.sv
 student.olympic.edu
+asu.edu.eg
