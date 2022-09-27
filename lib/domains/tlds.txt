@@ -77,7 +77,6 @@ edu.sc
 edu.sd
 edu.sh
 edu.sl
-edu.sv
 edu.sy
 edu.tt
 edu.ve
