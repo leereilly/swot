@@ -660,3 +660,4 @@ asu.edu.eg
 alumni.msoe.edu
 newcastle.ac.uk
 whitecaps.gc.edu
+mail.chzu.edu.cn
