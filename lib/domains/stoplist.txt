@@ -662,3 +662,4 @@ whitecaps.gc.edu
 mail.chzu.edu.cn
 sm.imamu.edu.sa
 ug.edu.ec
+sti.edu.ph
