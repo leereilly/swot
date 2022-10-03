@@ -661,3 +661,4 @@ newcastle.ac.uk
 whitecaps.gc.edu
 mail.chzu.edu.cn
 sm.imamu.edu.sa
+ug.edu.ec
