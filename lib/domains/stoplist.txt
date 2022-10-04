@@ -634,7 +634,6 @@ student.bau.edu.lb
 std.aou.edu.eg
 iskolarngbayan.pup.edu.ph
 puce.edu.ec
-student.thomasmore.be
 isiswa.uitm.edu.my
 rg.moe.gov.sa
 northshore.edu
@@ -659,3 +658,9 @@ student.olympic.edu
 asu.edu.eg
 alumni.msoe.edu
 newcastle.ac.uk
+whitecaps.gc.edu
+mail.chzu.edu.cn
+sm.imamu.edu.sa
+ug.edu.ec
+sti.edu.ph
+amity.edu
