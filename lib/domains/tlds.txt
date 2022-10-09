@@ -45,7 +45,6 @@ edu.ee
 edu.er
 edu.et
 edu.gh
-edu.gt
 edu.hn
 edu.in
 edu.jm
@@ -77,7 +76,6 @@ edu.sc
 edu.sd
 edu.sh
 edu.sl
-edu.sv
 edu.sy
 edu.tt
 edu.ve
