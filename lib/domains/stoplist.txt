@@ -666,4 +666,4 @@ sti.edu.ph
 amity.edu
 barstow.edu
 mcl.edu.ph
-eng.modern-academy.edu.eg
+modern-academy.edu.eg
