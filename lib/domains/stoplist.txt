@@ -661,3 +661,11 @@ newcastle.ac.uk
 whitecaps.gc.edu
 mail.chzu.edu.cn
 sm.imamu.edu.sa
+ug.edu.ec
+sti.edu.ph
+amity.edu
+barstow.edu
+mcl.edu.ph
+modern-academy.edu.eg
+alumno.uned.es
+365.ntcu.edu.tw
