@@ -669,4 +669,4 @@ mcl.edu.ph
 modern-academy.edu.eg
 alumno.uned.es
 365.ntcu.edu.tw
-mapua.edu.ph
+mymail.mapua.edu.ph
