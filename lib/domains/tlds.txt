@@ -21,7 +21,6 @@ ac.pr
 ac.ru
 ac.rw
 ac.sz
-ac.uk
 ac.yu
 ac.za
 ac.zm
@@ -33,7 +32,6 @@ edu
 edu.al
 edu.ar
 edu.az
-edu.ba
 edu.bb
 edu.bd
 edu.bh
@@ -42,13 +40,11 @@ edu.bs
 edu.bz
 edu.ck
 edu.cn
-edu.do
 edu.dz
 edu.ee
 edu.er
 edu.et
 edu.gh
-edu.gt
 edu.hn
 edu.in
 edu.jm
@@ -63,16 +59,11 @@ edu.me
 edu.mg
 edu.ml
 edu.mn
-edu.mo
 edu.mt
 edu.mv
 edu.mw
-edu.mx
 edu.ni
-edu.np
 edu.pa
-edu.pe
-edu.ph
 edu.pk
 edu.pr
 edu.pt
@@ -85,7 +76,6 @@ edu.sc
 edu.sd
 edu.sh
 edu.sl
-edu.sv
 edu.sy
 edu.tt
 edu.ve

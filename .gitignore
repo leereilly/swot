@@ -3,3 +3,5 @@ Gemfile.lock
 *.gem
 .bundle
 .idea
+.gradle
+build
