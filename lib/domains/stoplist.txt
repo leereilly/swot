@@ -672,3 +672,4 @@ alumno.uned.es
 mymail.mapua.edu.ph
 my.witcc.edu
 mku.ac.ke
+edu.em-lyon.com
