@@ -689,3 +689,8 @@ roxbury.edu
 my.stchas.edu
 email.tjc.edu
 weatherhead.case.edu
+stud.tjut.edu.cn
+njit.edu.cn
+hait.edu.cn
+stumail.sdut.edu.cn
+ucsiuniversity.edu.my
