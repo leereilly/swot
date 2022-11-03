@@ -698,3 +698,4 @@ asu.edu
 student.ptss.edu.my
 buc.edu.eg
 stmail.hbtcm.edu.cn
+campusucc.edu.co
