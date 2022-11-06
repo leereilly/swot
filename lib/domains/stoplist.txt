@@ -694,3 +694,11 @@ njit.edu.cn
 hait.edu.cn
 stumail.sdut.edu.cn
 ucsiuniversity.edu.my
+asu.edu
+student.ptss.edu.my
+buc.edu.eg
+stmail.hbtcm.edu.cn
+campusucc.edu.co
+student.utem.edu.my
+pucgo.edu.br
+mahasiswa.itb.ac.id
