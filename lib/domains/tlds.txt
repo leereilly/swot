@@ -7,7 +7,6 @@ ac.gn
 ac.il
 ac.in
 ac.jp
-ac.ke
 ac.kr
 ac.ma
 ac.me
