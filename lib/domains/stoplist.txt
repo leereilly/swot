@@ -705,3 +705,4 @@ case.edu
 uncp.edu.pe
 edu.azores.gov.pt
 dyptc.edu.in
+mubs.ac.ug
