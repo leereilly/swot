@@ -710,3 +710,6 @@ aluno.unip.br
 jmpaneracollege.com
 dtcc.edu
 wwcc.edu
+aluno.unicarioca.edu.br
+indoamerica.edu.ec
+workschool.ca
