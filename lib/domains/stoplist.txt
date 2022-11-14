@@ -702,3 +702,4 @@ student.utem.edu.my
 pucgo.edu.br
 mahasiswa.itb.ac.id
 case.edu
+uncp.edu.pe
