@@ -703,3 +703,5 @@ pucgo.edu.br
 mahasiswa.itb.ac.id
 case.edu
 uncp.edu.pe
+edu.azores.gov.pt
+dyptc.edu.in
