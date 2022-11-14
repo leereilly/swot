@@ -707,3 +707,5 @@ edu.azores.gov.pt
 dyptc.edu.in
 mubs.ac.ug
 aluno.unip.br
+jmpaneracollege.com
+dtcc.edu
