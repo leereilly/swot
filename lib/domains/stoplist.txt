@@ -723,3 +723,4 @@ holmescc.edu
 navarrocollege.edu
 alumni.imperial.ac.uk
 cwru.edu
+mec.edu.py
