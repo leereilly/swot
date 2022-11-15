@@ -67,7 +67,6 @@ edu.pk
 edu.pr
 edu.pt
 edu.pw
-edu.py
 edu.qa
 edu.ru
 edu.sa
