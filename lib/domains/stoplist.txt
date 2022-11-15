@@ -715,3 +715,10 @@ indoamerica.edu.ec
 workschool.ca
 umbc.edu
 azhar.edu.eg
+cibertec.edu.pe
+ivytech.edu
+my.stchas.edu
+student.egcc.edu
+holmescc.edu
+navarrocollege.edu
+alumni.imperial.ac.uk
