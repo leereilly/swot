@@ -726,3 +726,7 @@ cwru.edu
 mec.edu.py
 mu.edu.sa
 itstep.academy
+moe-dl.edu.my
+lau.edu
+os-dkorac.edu.me
+ghanacu.org
