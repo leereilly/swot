@@ -731,3 +731,5 @@ lau.edu
 os-dkorac.edu.me
 ghanacu.org
 continental.edu.pe
+utch.edu.co
+daihocyhanoi.edu.vn
