@@ -1,5 +1,2 @@
 Oberstufenzentrum Informations- und Medizintechnik
 Upper Secondary School Information and Medical Technology
-
-university url: https://www.oszimt.de
-Course url: https://moodle.oszimt.de/my/
