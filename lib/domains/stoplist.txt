@@ -344,7 +344,7 @@ student.msjc.edu
 student.mtsac.edu
 student.napavalley.edu
 student.nocccd.edu
-student.ntu.edu.pk
+ntu.edu.pk
 student.oaklandcc.edu
 student.ohlone.edu
 student.ptithcm.edu.vn
