@@ -486,6 +486,7 @@ occc.edu
 mechnik.spb.ru
 freenet.kg
 sharkia3.moe.edu.eg
+sch.moe.edu.eg
 my.smccd.edu
 dragons.hutchcc.edu
 cihanuniversity.org
