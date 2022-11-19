@@ -344,7 +344,7 @@ student.msjc.edu
 student.mtsac.edu
 student.napavalley.edu
 student.nocccd.edu
-student.ntu.edu.pk
+ntu.edu.pk
 student.oaklandcc.edu
 student.ohlone.edu
 student.ptithcm.edu.vn
@@ -486,6 +486,7 @@ occc.edu
 mechnik.spb.ru
 freenet.kg
 sharkia3.moe.edu.eg
+sch.moe.edu.eg
 my.smccd.edu
 dragons.hutchcc.edu
 cihanuniversity.org
@@ -731,3 +732,18 @@ lau.edu
 os-dkorac.edu.me
 ghanacu.org
 continental.edu.pe
+utch.edu.co
+daihocyhanoi.edu.vn
+pcc.edu
+uopca.unipune.ac.in
+students.fui.edu.pk
+ucacue.edu.ec
+stu.kemu.ac.ke
+dlsud.edu.ph
+pharm.bsu.edu.eg
+rangers.nwosu.edu
+correo.itm.edu.co
+zetech.ac.ke
+edu.sorbonne-paris-nord.fr
+dakahliya1.moe.edu.eg
+unemi.edu.ec
