@@ -758,3 +758,4 @@ oshs.edu.ba
 email.zzuli.edu.cn
 ufpa.br
 alumnos.uteg.edu.mx
+itculiacan.edu.mx
