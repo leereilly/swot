@@ -756,3 +756,5 @@ mahasiswa.itb.ac.id
 s.unikl.edu.my
 oshs.edu.ba
 email.zzuli.edu.cn
+ufpa.br
+alumnos.uteg.edu.mx
