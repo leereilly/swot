@@ -759,3 +759,11 @@ email.zzuli.edu.cn
 ufpa.br
 alumnos.uteg.edu.mx
 itculiacan.edu.mx
+mail.umy.ac.id
+upsjb.edu.pe
+batestech.edu
+mfk.app
+upm.edu.my
+uadec.edu.mx
+just.edu.jo
+student.psis.edu.my
