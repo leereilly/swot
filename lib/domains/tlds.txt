@@ -57,7 +57,6 @@ edu.ly
 edu.me
 edu.mg
 edu.ml
-edu.mn
 edu.mv
 edu.mw
 edu.ni

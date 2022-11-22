@@ -769,3 +769,6 @@ just.edu.jo
 student.psis.edu.my
 student.ptss.edu.my
 isise.edu.pe
+dome.tu.ac.th
+fwu.edu.np
+khugjil.edu.mn
