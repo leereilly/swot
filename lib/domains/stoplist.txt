@@ -767,3 +767,4 @@ upm.edu.my
 uadec.edu.mx
 just.edu.jo
 student.psis.edu.my
+student.ptss.edu.my
