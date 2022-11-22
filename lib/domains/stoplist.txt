@@ -773,3 +773,4 @@ dome.tu.ac.th
 fwu.edu.np
 khugjil.edu.mn
 ibero.edu.co
+moej.edu.jo

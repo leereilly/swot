@@ -47,7 +47,6 @@ edu.gh
 edu.hn
 edu.in
 edu.jm
-edu.jo
 edu.kh
 edu.kn
 edu.kw
