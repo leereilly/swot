@@ -60,7 +60,6 @@ edu.mv
 edu.mw
 edu.ni
 edu.pa
-edu.pk
 edu.pr
 edu.pt
 edu.pw
