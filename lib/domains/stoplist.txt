@@ -776,3 +776,4 @@ ibero.edu.co
 moej.edu.jo
 student.lccc.wy.edu
 zu.edu.jo
+students.fui.edu.pk
