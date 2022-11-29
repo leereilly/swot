@@ -787,3 +787,5 @@ studium.unict.it
 o365.unab.edu.co
 uoh.edu.pk
 ump.edu.my
+ulive.pccu.edu.tw
+mskh.am
