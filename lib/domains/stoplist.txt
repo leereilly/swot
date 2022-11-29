@@ -782,3 +782,4 @@ aluno.ies.edu.br
 mail.apu.edu.my
 ucsy.edu.mm
 fpt.edu.vn
+wust.edu.cn
