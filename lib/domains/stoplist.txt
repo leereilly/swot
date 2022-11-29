@@ -777,3 +777,8 @@ moej.edu.jo
 student.lccc.wy.edu
 zu.edu.jo
 students.fui.edu.pk
+std.nisantasi.edu.tr
+aluno.ies.edu.br
+mail.apu.edu.my
+ucsy.edu.mm
+fpt.edu.vn
