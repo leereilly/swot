@@ -792,3 +792,10 @@ mskh.am
 ubboemmius.nl
 ulbra.edu.br
 uon.edu.au
+est.unev.edu.do
+lsdc.co.za
+stumail.hbu.edu.cn
+mails.jlu.edu.cn
+scnu.edu.cn
+st.nuc.edu.cn
+profundity.com.tw
