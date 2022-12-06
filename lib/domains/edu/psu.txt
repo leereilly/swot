@@ -1,11 +1,2 @@
 Pennsylvania State University
-Pennsylvania State University - Abington
-Pennsylvania State University - Altoona
-Pennsylvania State University at Erie - Behrend College
-Pennsylvania State University at Harrisburg - The Capital College
-Pennsylvania State University - Berks-Lehigh Valley College
-Pennsylvania State University Delaware County
-Pennsylvania State University Great Valley
-Pennsylvania State University - Lehigh Valley
-Pennsylvania State University - Milton S.Hershey Medical Center
-Pennsylvania State University - Schuylkill
+Pennsylvania State University, campuses: Abington, Altoona, Erie, Harrisburg, Delaware County, Great Valley, Lehigh Valley, Schuylkill

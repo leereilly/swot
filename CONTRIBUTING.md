@@ -1,5 +1,7 @@
 # Contributing to Swot
 
+If you did not contribute to this repository before, please read the repository rules at the bottom of [this page](https://github.com/JetBrains/swot/).
+
 #### Data Contributions
 
 * All of the school data is stored in a simple filesystem data structure under `lib/domains`.
@@ -32,8 +34,8 @@ Change the file contents of the appropriate file.
 
 A simple `git rm` on the approriate file will do the trick.
 
-#### Refer the blacklist
-Please do not suggest to add domains from the blacklist. They're banned for the reason. The list currently looks like follows
+#### Refer the stoplist
+Please do not suggest to add domains from the stoplist. They're banned for the reason. The list currently looks like follows
 * si.edu - anyone could register a domain there
 * america.edu - anyone could register a domain there
 * californiacolleges.edu - anyone could register e-mail account there
