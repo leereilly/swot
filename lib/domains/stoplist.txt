@@ -803,3 +803,6 @@ lttc.edu.vn
 off365.ncku.edu.tw
 student.lccc.wy.edu
 bahcesehir.edu.tr
+harran.edu.tr
+cc.ntut.edu.tw
+std.yildiz.edu.tr
