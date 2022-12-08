@@ -49,7 +49,6 @@ edu.in
 edu.jm
 edu.kh
 edu.kn
-edu.kw
 edu.kz
 edu.lr
 edu.ly
