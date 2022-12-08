@@ -818,3 +818,17 @@ campoalegre.edu.gt
 student.uum.edu.my
 student.unicv.edu.cv
 uce.edu.do
+udla.edu.co
+pucese.edu.ec
+uj.edu.sa
+unisalle.edu.co
+stu.ssst.edu.ba
+student.isf.edu.hk
+my.gavilan.edu
+ogr.altinbas.edu.tr
+student.aast.edu
+std.antalya.edu.tr
+insite.4cd.edu
+behera1.moe.edu.eg
+calamba.sti.edu.ph
+isbstudent.comsats.edu.pk
