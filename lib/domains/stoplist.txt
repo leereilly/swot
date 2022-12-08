@@ -832,3 +832,6 @@ insite.4cd.edu
 behera1.moe.edu.eg
 calamba.sti.edu.ph
 isbstudent.comsats.edu.pk
+ceuandalucia.es
+office.stust.edu.tw
+art.dmu.edu.eg
