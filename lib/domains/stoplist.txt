@@ -840,3 +840,5 @@ ci.suez.edu.eg
 ms.daihocthudo.edu.vn
 bham.sch.uk
 staffs.sch.uk
+pg.edu.pl
+outlook.rmutr.ac.th
