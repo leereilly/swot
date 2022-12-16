@@ -838,7 +838,6 @@ art.dmu.edu.eg
 sh-eng.menofia.edu.eg
 ci.suez.edu.eg
 ms.daihocthudo.edu.vn
-bham.sch.uk
 staffs.sch.uk
 pg.edu.pl
 outlook.rmutr.ac.th
