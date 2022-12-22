@@ -658,7 +658,6 @@ mined.edu.sv
 student.olympic.edu
 asu.edu.eg
 alumni.msoe.edu
-newcastle.ac.uk
 whitecaps.gc.edu
 mail.chzu.edu.cn
 sm.imamu.edu.sa
@@ -850,3 +849,9 @@ smakstmariamalang.sch.id
 st-bernards.slough.sch.uk
 giki.edu.pk
 um5.ac.ma
+my.bridgevalley.edu
+edu.univali.br
+colegio.univalle.edu
+kafrelsheikh2.moe.edu.eg
+caccmail.cacc.edu
+xavierengg.com
