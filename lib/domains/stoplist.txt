@@ -525,7 +525,6 @@ inu.edu.vn
 ksu.edu.bi
 stu.xhu.edu.cn
 njtech.edu.cn
-ucl.ac.uk
 stu.csust.edu.cn
 mail.ccmu.edu.cn
 link.tyut.edu.cn
