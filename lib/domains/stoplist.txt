@@ -870,3 +870,5 @@ alumno.uaemex.mx
 mail.imu.edu.cn
 nes.edu.jo
 ofppt-edu.ma
+my.uvm.edu.mx
+isise.edu.pe
