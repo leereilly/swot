@@ -872,3 +872,5 @@ nes.edu.jo
 ofppt-edu.ma
 my.uvm.edu.mx
 isise.edu.pe
+upeu.edu.pe
+posta.pau.edu.tr
