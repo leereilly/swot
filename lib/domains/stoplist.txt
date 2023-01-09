@@ -867,3 +867,6 @@ archten.croydon.sch.uk
 student.chula.ac.th
 sharjah.ac.ae
 alumno.uaemex.mx
+mail.imu.edu.cn
+nes.edu.jo
+ofppt-edu.ma
