@@ -874,3 +874,4 @@ my.uvm.edu.mx
 isise.edu.pe
 upeu.edu.pe
 posta.pau.edu.tr
+cit.just.edu.jo
