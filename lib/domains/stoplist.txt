@@ -876,3 +876,4 @@ upeu.edu.pe
 posta.pau.edu.tr
 cit.just.edu.jo
 bub.edu.bh
+ub.edu.bs
