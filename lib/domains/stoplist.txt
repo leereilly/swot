@@ -878,3 +878,4 @@ cit.just.edu.jo
 bub.edu.bh
 ub.edu.bs
 cis.edu.eg
+uns.edu.pe
