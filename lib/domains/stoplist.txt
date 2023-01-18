@@ -879,3 +879,4 @@ bub.edu.bh
 ub.edu.bs
 cis.edu.eg
 uns.edu.pe
+ufhec.edu.do
