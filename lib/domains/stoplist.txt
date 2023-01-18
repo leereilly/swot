@@ -887,3 +887,4 @@ alumnos.uninorte.edu.py
 ub.ac.bw
 office.itb.ac.id
 isctem.ac.mz
+uce.edu.ec
