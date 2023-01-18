@@ -883,3 +883,5 @@ ufhec.edu.do
 stikom-bali.ac.id
 nwosu.edu
 lonestar.edu
+alumnos.uninorte.edu.py
+ub.ac.bw
