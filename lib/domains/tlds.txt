@@ -11,7 +11,6 @@ ac.kr
 ac.ma
 ac.me
 ac.mw
-ac.mz
 ac.ni
 ac.om
 ac.pa
