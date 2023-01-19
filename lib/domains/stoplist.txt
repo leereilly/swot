@@ -889,3 +889,4 @@ office.itb.ac.id
 isctem.ac.mz
 uce.edu.ec
 dartmouth.edu
+uy.edu.mm
