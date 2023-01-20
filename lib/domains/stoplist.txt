@@ -898,3 +898,4 @@ dpu.ac.th
 puccampinas.edu.br
 pucpr.edu.br
 ausbildungswolken.de
+usiu.ac.ke
