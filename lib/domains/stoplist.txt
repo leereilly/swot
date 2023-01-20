@@ -894,3 +894,6 @@ est.umet.edu.ec
 fh.unair.ac.id
 binus.ac.id
 cit.edu
+dpu.ac.th
+puccampinas.edu.br
+pucpr.edu.br
