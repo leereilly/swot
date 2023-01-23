@@ -905,3 +905,4 @@ pmu.edu.sa
 stu.jazanu.edu.sa
 mail.tmcc.edu
 nic.edu
+ul.edu.co
