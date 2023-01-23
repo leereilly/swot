@@ -902,3 +902,6 @@ usiu.ac.ke
 unicoc.edu.co
 helwan.edu.eg
 pmu.edu.sa
+stu.jazanu.edu.sa
+mail.tmcc.edu
+nic.edu
