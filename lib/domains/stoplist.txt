@@ -908,3 +908,5 @@ nic.edu
 ul.edu.co
 academico.ifmg.edu.br
 unifacs.edu.br
+udca.edu.co
+hust.edu.kg
