@@ -910,3 +910,6 @@ academico.ifmg.edu.br
 unifacs.edu.br
 udca.edu.co
 hust.edu.kg
+students.jinan.edu.lb
+office365.ncu.edu.tw
+csiriicb.in
