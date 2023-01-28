@@ -913,3 +913,4 @@ hust.edu.kg
 students.jinan.edu.lb
 office365.ncu.edu.tw
 csiriicb.in
+my.lowercolumbia.edu
