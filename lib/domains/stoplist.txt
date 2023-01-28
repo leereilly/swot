@@ -914,3 +914,5 @@ students.jinan.edu.lb
 office365.ncu.edu.tw
 csiriicb.in
 my.lowercolumbia.edu
+student.monroecc.edu
+my.centennialcollege.ca
