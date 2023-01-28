@@ -916,3 +916,5 @@ csiriicb.in
 my.lowercolumbia.edu
 student.monroecc.edu
 my.centennialcollege.ca
+jfn.ac.lk
+live.mut.ac.za
