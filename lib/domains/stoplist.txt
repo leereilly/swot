@@ -781,7 +781,6 @@ mail.apu.edu.my
 ucsy.edu.mm
 fpt.edu.vn
 wust.edu.cn
-studium.unict.it
 o365.unab.edu.co
 uoh.edu.pk
 ump.edu.my
