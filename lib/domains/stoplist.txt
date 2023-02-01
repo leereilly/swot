@@ -781,7 +781,6 @@ mail.apu.edu.my
 ucsy.edu.mm
 fpt.edu.vn
 wust.edu.cn
-studium.unict.it
 o365.unab.edu.co
 uoh.edu.pk
 ump.edu.my
@@ -908,3 +907,17 @@ nic.edu
 ul.edu.co
 academico.ifmg.edu.br
 unifacs.edu.br
+udca.edu.co
+hust.edu.kg
+students.jinan.edu.lb
+office365.ncu.edu.tw
+csiriicb.in
+my.lowercolumbia.edu
+student.monroecc.edu
+my.centennialcollege.ca
+jfn.ac.lk
+live.mut.ac.za
+universidadean.edu.co
+pucmm.edu.do
+students.hou.edu.vn
+uh.edu
