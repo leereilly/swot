@@ -938,3 +938,6 @@ hs-darmstadt.de
 liccsalsl.org
 allianceinternationalschool.com
 fh-htachur.ch
+fh-schwaebischhall.de
+ittc.edu.vn
+mul.edu.pk
