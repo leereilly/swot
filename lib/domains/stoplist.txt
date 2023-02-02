@@ -821,7 +821,6 @@ uj.edu.sa
 unisalle.edu.co
 stu.ssst.edu.ba
 student.isf.edu.hk
-my.gavilan.edu
 ogr.altinbas.edu.tr
 student.aast.edu
 std.antalya.edu.tr
@@ -952,3 +951,4 @@ alumni.anu.edu.au
 student.mmarau.ac.ke
 phuocbinh.edu.vn
 nur.edu.bo
+vaa.edu.vn
