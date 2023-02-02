@@ -925,3 +925,5 @@ usms.ac.ma
 aust.edu.lb
 uniabuja.edu.ng
 wmoenglishacademy.co.in
+student.mksu.ac.ke
+red.unid.mx
