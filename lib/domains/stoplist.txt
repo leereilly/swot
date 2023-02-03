@@ -954,3 +954,4 @@ nur.edu.bo
 vaa.edu.vn
 student.eur.nl
 estudiantes.edu.ec
+student.csn.edu
