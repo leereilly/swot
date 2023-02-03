@@ -952,3 +952,5 @@ student.mmarau.ac.ke
 phuocbinh.edu.vn
 nur.edu.bo
 vaa.edu.vn
+student.eur.nl
+estudiantes.edu.ec
