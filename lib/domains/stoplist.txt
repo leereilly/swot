@@ -958,3 +958,7 @@ student.csn.edu
 unimaksl.education
 hufi.edu.vn
 estudiantesunap.cl
+vinhuni.edu.vn
+unisinu.edu.co
+rmuti.ac.th
+student.scalda.nl
