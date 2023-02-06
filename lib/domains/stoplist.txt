@@ -974,3 +974,4 @@ student.uin-suka.ac.id
 stu.meu.edu.jo
 myseneca.ca
 petkasem.ac.th
+medicine.zu.edu.eg
