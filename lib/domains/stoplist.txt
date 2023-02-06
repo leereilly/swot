@@ -975,3 +975,5 @@ stu.meu.edu.jo
 myseneca.ca
 petkasem.ac.th
 medicine.zu.edu.eg
+nu.edu.eg
+universidad-une.com
