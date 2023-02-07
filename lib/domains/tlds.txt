@@ -80,7 +80,6 @@ ms.kr
 sc.kr
 sch.ae
 sch.gg
-sch.id
 sch.je
 sch.jo
 sch.lk
