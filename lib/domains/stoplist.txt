@@ -987,3 +987,5 @@ student.istiqlal.sch.id
 student.smanrandudongkal.sch.id
 mail.stmikbumigora.ac.id
 icc.edu
+kingshurst.ac.uk
+tulsacc.edu
