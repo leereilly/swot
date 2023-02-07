@@ -983,3 +983,4 @@ lumstu.com
 elcamino.edu
 student.sekolahanugrah.sch.id
 student.smawirausaha.sch.id
+student.istiqlal.sch.id
