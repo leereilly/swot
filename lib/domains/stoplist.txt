@@ -986,3 +986,4 @@ student.smawirausaha.sch.id
 student.istiqlal.sch.id
 student.smanrandudongkal.sch.id
 mail.stmikbumigora.ac.id
+icc.edu
