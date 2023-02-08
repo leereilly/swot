@@ -992,3 +992,4 @@ tulsacc.edu
 std.izu.edu.tr
 umkt.ac.id
 caledonian.ac.uk
+utp.ac.pa
