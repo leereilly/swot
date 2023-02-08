@@ -989,3 +989,5 @@ mail.stmikbumigora.ac.id
 icc.edu
 kingshurst.ac.uk
 tulsacc.edu
+std.izu.edu.tr
+umkt.ac.id
