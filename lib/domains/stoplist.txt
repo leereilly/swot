@@ -994,3 +994,5 @@ umkt.ac.id
 caledonian.ac.uk
 utp.ac.pa
 unach.edu.ec
+unisinu.edu.co
+lsdc.co.za
