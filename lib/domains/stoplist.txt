@@ -1000,3 +1000,4 @@ pom-ko.edu.me
 psm.edu.ve
 ecu.edu.eg
 geu.ac.in
+mail.smamuhammadiyahkotaternate.sch.id
