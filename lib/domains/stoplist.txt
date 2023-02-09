@@ -996,3 +996,7 @@ utp.ac.pa
 unach.edu.ec
 unisinu.edu.co
 lsdc.co.za
+pom-ko.edu.me
+psm.edu.ve
+ecu.edu.eg
+geu.ac.in

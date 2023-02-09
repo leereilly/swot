@@ -69,7 +69,6 @@ edu.sh
 edu.sl
 edu.sy
 edu.tt
-edu.ve
 edu.ws
 edu.ye
 edu.zm
