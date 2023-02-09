@@ -1001,3 +1001,6 @@ psm.edu.ve
 ecu.edu.eg
 geu.ac.in
 mail.smamuhammadiyahkotaternate.sch.id
+stud.ur.ac.rw
+diogocao.edu.pt
+gulfuniversity.edu.bh
