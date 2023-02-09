@@ -1016,3 +1016,4 @@ sh-eng.menofia.edu.eg
 fhss.sjp.ac.lk
 siswa365.um.edu.my
 unwe.bg
+uninorte.edu.co
