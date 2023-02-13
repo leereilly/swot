@@ -1025,3 +1025,4 @@ student.bahria.edu.pk
 tacomacc.edu
 soongsil.ac.kr
 uts.edu.ve
+st.schools.ac.cy
