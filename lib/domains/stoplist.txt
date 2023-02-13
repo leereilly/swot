@@ -685,7 +685,7 @@ sinclair.edu
 collin.edu
 buc.blinn.edu
 roxbury.edu
-my.stchas.edu
+stchas.edu
 email.tjc.edu
 stud.tjut.edu.cn
 njit.edu.cn
@@ -1031,3 +1031,5 @@ mail.icmbs.sch.id
 students.unilorin.edu.ng
 alumnos.uai.edu.ar
 colc.co
+est.ups.edu.ec
+esoft.academy
