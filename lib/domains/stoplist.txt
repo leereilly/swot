@@ -1027,3 +1027,4 @@ soongsil.ac.kr
 uts.edu.ve
 st.schools.ac.cy
 uv.edu.ph
+mail.icmbs.sch.id
