@@ -1028,3 +1028,5 @@ uts.edu.ve
 st.schools.ac.cy
 uv.edu.ph
 mail.icmbs.sch.id
+students.unilorin.edu.ng
+alumnos.uai.edu.ar
