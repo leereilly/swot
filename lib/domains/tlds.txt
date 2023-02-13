@@ -1,6 +1,5 @@
 ac.bd
 ac.be
-ac.cy
 ac.gg
 ac.gn
 ac.il
