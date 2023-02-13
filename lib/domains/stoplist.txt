@@ -1033,3 +1033,5 @@ alumnos.uai.edu.ar
 colc.co
 est.ups.edu.ec
 esoft.academy
+pme.suezuni.edu.eg
+hnulinton.org
