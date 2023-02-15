@@ -118,7 +118,7 @@ haust.edu.cn
 haywood.edu
 hbdx.ac.cn
 hbu.edu.cn
-hbut.edu.cn 
+hbut.edu.cn
 hcc.edu.tw
 hc.edu.tw
 hcmup.edu.vn
@@ -1037,3 +1037,18 @@ pme.suezuni.edu.eg
 hnulinton.org
 ogrenci.bartin.edu.tr
 senacminas.edu.br
+mitid.edu.in
+slu.edu.ph
+vief.edu.vn
+sjbit.edu.in
+rmutto.ac.th
+alumni.iu.edu
+une.edu
+su.ac.th
+students.tum.ac.ke
+stu.unizulu.ac.za
+crru.ac.th
+utecnologica.edu.bo
+iu.edu.jo
+futa.edu.ng
+ustabuca.edu.co
