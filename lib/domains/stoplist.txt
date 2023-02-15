@@ -1035,3 +1035,5 @@ est.ups.edu.ec
 esoft.academy
 pme.suezuni.edu.eg
 hnulinton.org
+ogrenci.bartin.edu.tr
+senacminas.edu.br
