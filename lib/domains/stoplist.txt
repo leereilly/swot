@@ -819,7 +819,7 @@ udla.edu.co
 pucese.edu.ec
 uj.edu.sa
 unisalle.edu.co
-stu.ssst.edu.ba
+alumni.ssst.edu.ba
 student.isf.edu.hk
 ogr.altinbas.edu.tr
 student.aast.edu
