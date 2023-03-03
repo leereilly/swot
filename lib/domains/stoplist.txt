@@ -1045,7 +1045,7 @@ rmutto.ac.th
 alumni.iu.edu
 une.edu
 su.ac.th
-students.tum.ac.ke
+tum.ac.ke
 stu.unizulu.ac.za
 crru.ac.th
 utecnologica.edu.bo
