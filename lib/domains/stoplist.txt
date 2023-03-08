@@ -1071,3 +1071,5 @@ gagpk.ru
 kastamonu.edu.tr
 subu.edu.tr
 ogrenci.bartin.edu.tr
+email.psu.ac.th
+kmutt.ac.th
