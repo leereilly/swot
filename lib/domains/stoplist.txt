@@ -1073,3 +1073,5 @@ subu.edu.tr
 ogrenci.bartin.edu.tr
 email.psu.ac.th
 kmutt.ac.th
+ataa.sch.sa
+alumno.buap.mx
