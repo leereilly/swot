@@ -331,7 +331,7 @@ stu.ctcd.edu
 stu.cuz.edu.cn
 stud.acdt.edu.cn
 student.carlalbert.edu
-student.cccs.edu
+cccs.edu
 student.citruscollege.edu
 student.ciu.edu.tr
 student.cmccd.edu
