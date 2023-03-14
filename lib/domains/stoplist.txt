@@ -1075,3 +1075,6 @@ email.psu.ac.th
 kmutt.ac.th
 ataa.sch.sa
 alumno.buap.mx
+alumni.habib.edu.pk
+stu.aydin.edu.tr
+ced.alliance.edu.in
