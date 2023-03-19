@@ -331,7 +331,7 @@ stu.ctcd.edu
 stu.cuz.edu.cn
 stud.acdt.edu.cn
 student.carlalbert.edu
-student.cccs.edu
+cccs.edu
 student.citruscollege.edu
 student.ciu.edu.tr
 student.cmccd.edu
@@ -1070,3 +1070,13 @@ ogrenci.karabuk.edu.tr
 gagpk.ru
 kastamonu.edu.tr
 subu.edu.tr
+ogrenci.bartin.edu.tr
+email.psu.ac.th
+kmutt.ac.th
+ataa.sch.sa
+alumno.buap.mx
+alumni.habib.edu.pk
+stu.aydin.edu.tr
+ced.alliance.edu.in
+alum.us.es
+ufromail.cl
