@@ -1078,3 +1078,5 @@ alumno.buap.mx
 alumni.habib.edu.pk
 stu.aydin.edu.tr
 ced.alliance.edu.in
+alum.us.es
+ufromail.cl
