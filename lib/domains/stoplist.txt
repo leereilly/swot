@@ -1080,3 +1080,4 @@ stu.aydin.edu.tr
 ced.alliance.edu.in
 alum.us.es
 ufromail.cl
+bupt.cn
