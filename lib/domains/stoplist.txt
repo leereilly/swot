@@ -1081,3 +1081,5 @@ ced.alliance.edu.in
 alum.us.es
 ufromail.cl
 bupt.cn
+alumni.manchester.ac.uk
+alu.hdu.edu.cn
