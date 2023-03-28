@@ -1085,3 +1085,9 @@ alumni.manchester.ac.uk
 alu.hdu.edu.cn
 studenti.unical.it
 csn.edu.pk
+lawsonstate.edu
+student.nibm.lk
+soongsil.ac.kr
+noun.edu.ng
+student.mercubuana.ac.id
+coep.ac.in
