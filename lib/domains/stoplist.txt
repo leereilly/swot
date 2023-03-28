@@ -1091,3 +1091,6 @@ soongsil.ac.kr
 noun.edu.ng
 student.mercubuana.ac.id
 coep.ac.in
+fagr.bu.edu.eg
+schools.ac.cy
+student.qau.edu.pk
