@@ -1083,3 +1083,5 @@ ufromail.cl
 bupt.cn
 alumni.manchester.ac.uk
 alu.hdu.edu.cn
+studenti.unical.it
+csn.edu.pk
