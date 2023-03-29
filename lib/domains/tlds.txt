@@ -59,8 +59,6 @@ edu.pr
 edu.pt
 edu.pw
 edu.qa
-edu.ru
-edu.sa
 edu.sc
 edu.sd
 edu.sh
