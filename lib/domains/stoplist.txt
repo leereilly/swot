@@ -1096,3 +1096,4 @@ schools.ac.cy
 student.qau.edu.pk
 sunburysc.vic.edu.au
 sfcollege.edu
+365.mokwon.ac.kr
