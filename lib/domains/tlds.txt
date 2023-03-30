@@ -64,7 +64,6 @@ edu.sd
 edu.sh
 edu.sl
 edu.sy
-edu.tt
 edu.ws
 edu.ye
 edu.zm
