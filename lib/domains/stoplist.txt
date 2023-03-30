@@ -1110,3 +1110,6 @@ uac.edu.co
 fvcc.edu
 unm.edu.pe
 unsl.edu.ar
+collegelacite.ca
+batce.edu.tt
+elcamino.edu
