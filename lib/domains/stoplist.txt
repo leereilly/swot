@@ -1115,3 +1115,6 @@ batce.edu.tt
 elcamino.edu
 tese.edu.mx
 ms.dendai.ac.jp
+go.pasadena.edu
+kmitl.ac.th
+nankai.edu.cn
