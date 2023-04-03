@@ -1118,3 +1118,7 @@ ms.dendai.ac.jp
 go.pasadena.edu
 kmitl.ac.th
 nankai.edu.cn
+uniacademia.edu.br
+rupp.edu.kh
+edu.hmu.gr
+unicda.edu.do
