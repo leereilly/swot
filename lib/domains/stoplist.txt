@@ -1124,3 +1124,8 @@ edu.hmu.gr
 unicda.edu.do
 email.phoenix.edu
 qzit.edu.cn
+portal.uni.edu.ni
+northshore.edu
+tecmilenio.mx
+ula.edu.mx
+mohawkcollege.ca
