@@ -1148,3 +1148,7 @@ pkru.ac.th
 siswa.um.edu.my
 stu.ptit.edu.vn
 parallax.lk
+au.edu
+ocgs.edu.ph
+unasa.edu.sv
+rb.edu.ps
