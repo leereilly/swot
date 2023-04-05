@@ -1147,3 +1147,4 @@ correoaiep.cl
 pkru.ac.th
 siswa.um.edu.my
 stu.ptit.edu.vn
+parallax.lk
