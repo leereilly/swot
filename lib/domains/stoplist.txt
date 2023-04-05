@@ -1152,3 +1152,7 @@ au.edu
 ocgs.edu.ph
 unasa.edu.sv
 rb.edu.ps
+tau.usbmed.edu.co
+student.hiu.vn
+student.huc.edu.vn
+kps.edu.pk
