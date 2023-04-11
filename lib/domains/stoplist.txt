@@ -1156,3 +1156,5 @@ tau.usbmed.edu.co
 student.hiu.vn
 student.huc.edu.vn
 kps.edu.pk
+ncepu.edu.cn
+imt.ac.in
