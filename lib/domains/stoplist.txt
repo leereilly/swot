@@ -1159,3 +1159,9 @@ kps.edu.pk
 ncepu.edu.cn
 imt.ac.in
 xy.dlpu.edu.cn
+std.hu.edu.jo
+eap.gr
+posta.mu.edu.tr
+rule.edu.kh
+student.uj.ac.za
+ruhr-uni-bochum.de

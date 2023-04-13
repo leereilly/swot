@@ -43,7 +43,6 @@ edu.gh
 edu.hn
 edu.in
 edu.jm
-edu.kh
 edu.kn
 edu.kz
 edu.lr
