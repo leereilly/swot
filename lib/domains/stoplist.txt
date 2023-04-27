@@ -1208,4 +1208,4 @@ jic.edu.sa
 mybac.ac.bw
 ubp.edu.ar
 est.emi.edu.bo
-student.clackamas.edu
+clackamas.edu
