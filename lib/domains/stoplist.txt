@@ -1210,3 +1210,5 @@ ubp.edu.ar
 est.emi.edu.bo
 clackamas.edu
 kmitl.ac.th
+ac.eap.gr
+student.hywoman.ac.kr
