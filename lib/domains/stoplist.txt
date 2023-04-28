@@ -1218,3 +1218,4 @@ studenti.unimi.it
 meduca.edu.pa
 abie.ac.in
 aluno.uniasselvi.com.br
+aub.edu
