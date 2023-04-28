@@ -1,0 +1,1 @@
+Philander Smith College
