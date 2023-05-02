@@ -1209,3 +1209,17 @@ mybac.ac.bw
 ubp.edu.ar
 est.emi.edu.bo
 clackamas.edu
+kmitl.ac.th
+ac.eap.gr
+student.hywoman.ac.kr
+espol.edu.ec
+ufidelitas.ac.cr
+studenti.unimi.it
+meduca.edu.pa
+abie.ac.in
+aluno.uniasselvi.com.br
+aub.edu
+vit.edu.in
+mccmulund.ac.in
+student.universitaspertamina.ac.id
+univalle.edu
