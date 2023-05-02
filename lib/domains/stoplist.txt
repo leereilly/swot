@@ -1221,3 +1221,5 @@ aluno.uniasselvi.com.br
 aub.edu
 vit.edu.in
 mccmulund.ac.in
+student.universitaspertamina.ac.id
+univalle.edu
