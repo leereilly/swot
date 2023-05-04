@@ -1224,3 +1224,5 @@ mccmulund.ac.in
 student.universitaspertamina.ac.id
 univalle.edu
 lindenps.org
+amu.edu.et
+stu.nchu.edu.cn
