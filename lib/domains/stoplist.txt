@@ -1226,3 +1226,5 @@ univalle.edu
 lindenps.org
 amu.edu.et
 stu.nchu.edu.cn
+mail.aub.edu
+alumni.hust.edu.cn
