@@ -1228,3 +1228,4 @@ amu.edu.et
 stu.nchu.edu.cn
 mail.aub.edu
 alumni.hust.edu.cn
+eaglesvale.ac.zw

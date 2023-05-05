@@ -19,7 +19,6 @@ ac.sz
 ac.yu
 ac.za
 ac.zm
-ac.zw
 ed.ao
 ed.cr
 ed.jp
