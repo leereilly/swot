@@ -1237,3 +1237,9 @@ kwiatek365.pl
 nuv.ac.in
 alumnos.utn.edu.mx
 stu.mju.edu.cn
+qvtu.edu.cn
+mail.ypu.edu.tw
+office365.kunsan.ac.kr
+correo.usbcali.edu.co
+philips.edu.ar
+e.tlu.edu.vn
