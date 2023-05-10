@@ -1244,3 +1244,12 @@ correo.usbcali.edu.co
 philips.edu.ar
 e.tlu.edu.vn
 puntlandstateuniversity.com
+---
+thpt-baria-brvt.edu.vn
+nmms-mautern.at
+student.uno-r.edu.ph
+cb.students.amrita.edu
+sabanciuniv.edu
+student.scad.edu
+alu.ufc.br
+alumno.udg.mx
