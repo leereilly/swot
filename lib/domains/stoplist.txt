@@ -1255,4 +1255,8 @@ alum.urmc.rochester.edu
 student.uno-r.edu.ph
 cb.students.amrita.edu
 alumno.udg.mx
-ufidelitas.ac.cr
+mcast.edu.mt
+phyd.psu.edu.eg
+student.tsu.edu.ph
+r4a-3.deped.gov.ph
+thcstranvangiau.com
