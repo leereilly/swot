@@ -19,7 +19,6 @@ ac.sz
 ac.yu
 ac.za
 ac.zm
-ac.zw
 ed.ao
 ed.cr
 ed.jp
@@ -38,7 +37,6 @@ edu.cn
 edu.dz
 edu.ee
 edu.er
-edu.et
 edu.gh
 edu.hn
 edu.in
