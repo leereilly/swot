@@ -1269,3 +1269,5 @@ s.afeka.ac.il
 student.huc.edu.vn
 uta.edu.ec
 students.uettaxila.edu.pk
+must.edu.mn
+itca.edu.sv
