@@ -1277,3 +1277,6 @@ academico.ifg.edu.br
 sempreuninorte.com.br
 uni-muenster.de
 maricopa.edu
+tusur.ru
+aluno.unb.br
+converse.edu
