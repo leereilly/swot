@@ -1009,7 +1009,7 @@ students.mu.ac.ke
 uac.edu.co
 dillard.edu
 ucsm.edu.pe
-cimat.ues.edu.sv
+ues.edu.sv
 traralsc.vic.edu.au
 sempreung.com.br
 sh-eng.menofia.edu.eg
@@ -1271,3 +1271,17 @@ uta.edu.ec
 students.uettaxila.edu.pk
 must.edu.mn
 itca.edu.sv
+alunos.estacio.br
+utmachala.edu.ec
+academico.ifg.edu.br
+sempreuninorte.com.br
+uni-muenster.de
+maricopa.edu
+tusur.ru
+aluno.unb.br
+converse.edu
+htl-steyr.ac.at
+sc.edu.my
+wgu.edu
+student.maseno.ac.ke
+aim.edu
