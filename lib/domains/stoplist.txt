@@ -1285,3 +1285,4 @@ sc.edu.my
 wgu.edu
 student.maseno.ac.ke
 aim.edu
+taalim.ma
