@@ -1,1 +1,11 @@
 Lycée Edouard Branly Amiens
+
+•	the school official website URL:
+https://edouard-branly.ac-amiens.fr/
+
+•	the school street address, including city and country:
+70 Boulevard de Saint-Quentin
+80000 Amiens
+
+•	an URL of a page on the official website where the school offers an IT-related long-term (>1 year) course:
+https://edouard-branly.ac-amiens.fr/sn-informatique-et-reseaux/
