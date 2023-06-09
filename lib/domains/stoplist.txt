@@ -1287,3 +1287,4 @@ aim.edu
 taalim.ma
 univ-annaba.org
 inacapmail.cl
+url.edu.gt
