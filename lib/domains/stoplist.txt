@@ -1290,3 +1290,5 @@ inacapmail.cl
 url.edu.gt
 scun.edu.cn
 meduca.edu.pa
+os-bbuha.edu.me
+go.shoreline.edu
