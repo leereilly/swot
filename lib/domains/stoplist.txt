@@ -1289,3 +1289,4 @@ univ-annaba.org
 inacapmail.cl
 url.edu.gt
 scun.edu.cn
+meduca.edu.pa
