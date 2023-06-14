@@ -1292,3 +1292,4 @@ scun.edu.cn
 meduca.edu.pa
 os-bbuha.edu.me
 go.shoreline.edu
+eniac.edu.br
