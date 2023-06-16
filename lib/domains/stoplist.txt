@@ -1303,3 +1303,15 @@ g.skku.edu
 georgetown.edu
 student.iuh.edu.vn
 students.gov.ge
+my.hancockcollege.edu
+lcps.org
+stu.huel.edu.cn
+whut.edu.cn
+2011.cqut.edu.cn
+2012.cqut.edu.cn
+2013.cqut.edu.cn
+2014.cqut.edu.cn
+2015.cqut.edu.cn
+2016.cqut.edu.cn
+2017.cqut.edu.cn
+2018.cqut.edu.cn
