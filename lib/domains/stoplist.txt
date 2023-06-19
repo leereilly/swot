@@ -1317,3 +1317,4 @@ whut.edu.cn
 2018.cqut.edu.cn
 uc.pt
 utsc.edu
+alumnos.santotomas.cl
