@@ -1319,3 +1319,5 @@ uc.pt
 utsc.edu
 alumnos.santotomas.cl
 sempreuninassau.com.br
+medicine.psu.ac.th
+o365st.cycu.edu.tw
