@@ -1328,3 +1328,5 @@ massey.ac.nz
 green.ac.bd
 hocking.edu
 edu.lpnu.ua
+iluv.ums.edu.my
+uph.edu
