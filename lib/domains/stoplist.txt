@@ -1326,3 +1326,5 @@ est.itsc.edu.do
 adc.aditya.ac.in
 massey.ac.nz
 green.ac.bd
+hocking.edu
+edu.lpnu.ua
