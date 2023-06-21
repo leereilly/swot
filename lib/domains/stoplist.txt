@@ -1331,3 +1331,7 @@ edu.lpnu.ua
 iluv.ums.edu.my
 uph.edu
 aec.edu.in
+hup.edu.vn
+ug.edu.ge
+udea.edu.co
+mabankisd.net
