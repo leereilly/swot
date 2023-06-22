@@ -1170,7 +1170,6 @@ ogr.duzce.edu.tr
 montgomerycollege.edu
 palermo.edu
 boun.edu.tr
-my.wgu.edu
 howardcc.edu
 dartmouth.edu
 vikings.grayson.edu
@@ -1335,3 +1334,7 @@ hup.edu.vn
 ug.edu.ge
 udea.edu.co
 mabankisd.net
+obcnet.nl
+est.unicaribe.edu.do
+stud.ur.edu.pl
+uit.edu.vn
