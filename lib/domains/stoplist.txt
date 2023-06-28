@@ -66,7 +66,6 @@ connect.hku.hk
 correo.icesi.edu.co
 cougarmail.collin.edu
 cpcc.edu
-cqu.edu.cn
 csu.ph
 ctgu.edu.cn
 cug.edu.cn
@@ -1338,5 +1337,3 @@ est.unicaribe.edu.do
 stud.ur.edu.pl
 uit.edu.vn
 brandeis.edu
-student.kdupg.edu.my
-student.ltuc.com
