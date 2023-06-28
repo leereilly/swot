@@ -1338,3 +1338,5 @@ est.unicaribe.edu.do
 stud.ur.edu.pl
 uit.edu.vn
 brandeis.edu
+student.kdupg.edu.my
+student.ltuc.com
