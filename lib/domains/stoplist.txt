@@ -66,7 +66,6 @@ connect.hku.hk
 correo.icesi.edu.co
 cougarmail.collin.edu
 cpcc.edu
-cqu.edu.cn
 csu.ph
 ctgu.edu.cn
 cug.edu.cn
@@ -1069,7 +1068,7 @@ gagpk.ru
 kastamonu.edu.tr
 subu.edu.tr
 ogrenci.bartin.edu.tr
-email.psu.ac.th
+psu.ac.th
 kmutt.ac.th
 ataa.sch.sa
 alumno.buap.mx
@@ -1317,7 +1316,7 @@ uc.pt
 ustc.edu
 alumnos.santotomas.cl
 sempreuninassau.com.br
-medicine.psu.ac.th
+psu.ac.th
 o365st.cycu.edu.tw
 stu.khas.edu.tr
 est.itsc.edu.do
@@ -1338,3 +1337,7 @@ est.unicaribe.edu.do
 stud.ur.edu.pl
 uit.edu.vn
 brandeis.edu
+etu.u-pec.fr
+ucsdawei.edu.mm
+alu.cqu.edu.cn
+skku.edu
