@@ -1340,3 +1340,4 @@ brandeis.edu
 etu.u-pec.fr
 ucsdawei.edu.mm
 alu.cqu.edu.cn
+skku.edu
