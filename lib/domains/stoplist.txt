@@ -1341,3 +1341,6 @@ etu.u-pec.fr
 ucsdawei.edu.mm
 alu.cqu.edu.cn
 skku.edu
+deakin.edu.au
+njtc.edu.cn
+omareyah.edu.jo
