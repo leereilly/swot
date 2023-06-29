@@ -1344,3 +1344,5 @@ skku.edu
 deakin.edu.au
 njtc.edu.cn
 omareyah.edu.jo
+bistu.edu.cn
+ogr.uludag.edu.tr
