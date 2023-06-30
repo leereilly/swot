@@ -1348,3 +1348,4 @@ bistu.edu.cn
 ogr.uludag.edu.tr
 upb.edu.co
 uaf.edu.pk
+ogr.ktu.edu.tr
