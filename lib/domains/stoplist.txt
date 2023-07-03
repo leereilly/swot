@@ -1365,3 +1365,4 @@ students.umfiasi.ro
 uab.ro
 uam.edu.pa
 unah.edu.hn
+email.cugb.edu.cn
