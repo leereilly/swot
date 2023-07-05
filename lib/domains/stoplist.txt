@@ -1369,3 +1369,4 @@ email.cugb.edu.cn
 rstc.edu
 student.kdupg.edu.my
 student.ltuc.com
+com.edu
