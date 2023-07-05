@@ -1370,3 +1370,6 @@ rstc.edu
 student.kdupg.edu.my
 student.ltuc.com
 com.edu
+student.duet.ac.bd
+uvvnet.com.br
+esec.pt
