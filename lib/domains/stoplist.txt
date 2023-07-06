@@ -1373,3 +1373,8 @@ com.edu
 student.duet.ac.bd
 uvvnet.com.br
 esec.pt
+estudante.sed.sc.gov.br
+presidency.edu.in
+duocuc.cl
+cotc.edu
+student.wallacestate.edu
