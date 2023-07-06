@@ -1376,3 +1376,4 @@ esec.pt
 estudante.sed.sc.gov.br
 presidency.edu.in
 duocuc.cl
+cotc.edu
