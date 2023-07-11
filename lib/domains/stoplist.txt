@@ -1378,3 +1378,4 @@ duocuc.cl
 cotc.edu
 student.wallacestate.edu
 tecnocomfenalco.edu.co
+live.acibadem.edu.tr
