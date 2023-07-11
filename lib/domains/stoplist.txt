@@ -84,7 +84,6 @@ ecust.edu.cn
 educn.ac.cn
 edu.icoremail.net
 edu.moi
-edu.tanta.edu.eg
 edu.uca.ma
 edu.umi.ac.ma
 email
