@@ -1382,3 +1382,15 @@ live.acibadem.edu.tr
 alumnos.udg.mx
 strose.edu
 mymdc.net
+ncr1.deped.gov.ph
+apps.ntpc.edu.tw
+cuc.edu.co
+ois.edu.pa
+uam.edu.pa
+unah.edu.hn
+iesdelatuel.edu.ar
+bjmu.edu.cn
+mail.uca.es
+mail.smasidhikarya.sch.id
+bupt.edu.cn
+bupt.cn
