@@ -967,7 +967,7 @@ aejuliodinis.edu.pt
 psu.edu.eg
 live.mut.ac.za
 atsu.edu.ge
-student.uin-suka.ac.id
+uin-suka.ac.id
 stu.meu.edu.jo
 myseneca.ca
 petkasem.ac.th
