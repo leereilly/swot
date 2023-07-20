@@ -1394,3 +1394,5 @@ mail.uca.es
 mail.smasidhikarya.sch.id
 bupt.edu.cn
 bupt.cn
+uregina.ca
+webdmc.delmar.edu
