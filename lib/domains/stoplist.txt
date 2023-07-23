@@ -1408,3 +1408,10 @@ cotcmail.cotc.edu
 owls.williamwoods.edu
 umc.br
 nit.edu.cn
+rwth-aachen.de
+fayettetech.edu
+udec.cl
+lhmc.edu.cn
+esad-valenciennes.fr
+unipamplona.edu.co
+lhmc.edu.cn
