@@ -1404,3 +1404,4 @@ cqu.edu.cn
 nwacc.edu
 umm.edu.mx
 sas-sd.net
+cotcmail.cotc.edu
