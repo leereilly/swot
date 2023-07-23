@@ -1405,3 +1405,6 @@ nwacc.edu
 umm.edu.mx
 sas-sd.net
 cotcmail.cotc.edu
+owls.williamwoods.edu
+umc.br
+nit.edu.cn
