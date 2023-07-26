@@ -833,7 +833,7 @@ ci.suez.edu.eg
 ms.daihocthudo.edu.vn
 staffs.sch.uk
 pg.edu.pl
-outlook.rmutr.ac.th
+rmutr.ac.th
 cta.edu.vn
 espoch.edu.ec
 office.aefc.edu.pt
