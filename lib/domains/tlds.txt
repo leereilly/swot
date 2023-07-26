@@ -29,7 +29,6 @@ edu.az
 edu.bb
 edu.bd
 edu.bh
-edu.bn
 edu.bs
 edu.bz
 edu.ck
