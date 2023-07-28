@@ -1439,3 +1439,4 @@ fmu.edu.br
 mas.bg.ac.rs
 dese.iitd.ac.in
 student.butte.edu
+student.coastalalabama.edu
