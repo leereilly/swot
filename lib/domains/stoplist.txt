@@ -1440,3 +1440,4 @@ mas.bg.ac.rs
 dese.iitd.ac.in
 student.butte.edu
 student.coastalalabama.edu
+foe.zu.edu.eg
