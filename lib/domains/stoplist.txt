@@ -1426,3 +1426,13 @@ khu.ac.kr
 tamu.edu
 shafc.edu.cn
 ogr.deu.edu.tr
+chu.edu.cn
+colorado.edu
+hcc2.edu.vn
+wfl.sh.edu.cn
+eng.just.edu.jo
+student.riphah.edu.pk
+my.cast.education
+uet.edu.pk
+sau.edu.pk
+student.sau.edu.pk
