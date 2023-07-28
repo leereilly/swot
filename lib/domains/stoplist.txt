@@ -1436,3 +1436,8 @@ my.cast.education
 uet.edu.pk
 sau.edu.pk
 student.sau.edu.pk
+fmu.edu.br
+uni-bremen.de
+mail.uni-kiel.de
+mas.bg.ac.rs
+dese.iitd.ac.in
