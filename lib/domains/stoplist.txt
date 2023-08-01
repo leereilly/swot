@@ -1481,3 +1481,4 @@ itla.edu.do
 alu.frlp.utn.edu.ar
 est.uasd.edu.do
 aust.ae
+calhoun.edu
