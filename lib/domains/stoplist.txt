@@ -1482,3 +1482,7 @@ alu.frlp.utn.edu.ar
 est.uasd.edu.do
 aust.ae
 calhoun.edu
+stu.uob.edu.bh
+helplive.edu.my
+uts.edu.co
+alu.edu.gva.es
