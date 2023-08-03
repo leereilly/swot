@@ -1338,7 +1338,6 @@ uit.edu.vn
 brandeis.edu
 etu.u-pec.fr
 ucsdawei.edu.mm
-alu.cqu.edu.cn
 skku.edu
 deakin.edu.au
 njtc.edu.cn
@@ -1508,4 +1507,5 @@ inam.edu.mx
 kientruchanoi.edu.vn
 alumnos.uaslp.mx
 ugto.mx
-alsun.miniauniv.edu.eg
+miniauniv.edu.eg
+student.angelina.edu
