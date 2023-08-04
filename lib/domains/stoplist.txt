@@ -1519,3 +1519,4 @@ nyu.edu
 alumno.unlam.edu.ar
 academico.cesmac.edu.br
 edu.udesc.br
+mail.hnust.edu.cn
