@@ -1248,7 +1248,7 @@ thpt-baria-brvt.edu.vn
 nmms-mautern.at
 alum.urmc.rochester.edu
 student.uno-r.edu.ph
-cb.students.amrita.edu
+amrita.edu
 alumno.udg.mx
 mcast.edu.mt
 phyd.psu.edu.eg
@@ -1520,3 +1520,9 @@ alumno.unlam.edu.ar
 academico.cesmac.edu.br
 edu.udesc.br
 mail.hnust.edu.cn
+zjnu.net
+libertadores.edu.co
+deped.gov.ph
+alumni.virginia.edu
+manukaumail.com
+byu.net
