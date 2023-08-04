@@ -1517,3 +1517,5 @@ ufpr.br
 hcmut.edu.vn
 nyu.edu
 alumno.unlam.edu.ar
+academico.cesmac.edu.br
+edu.udesc.br
