@@ -1531,3 +1531,8 @@ uhb.edu.sa
 stu.fafu.edu.cn
 uibe.edu.cn
 jcjc.edu
+cuhk.edu.hk
+mail.scuec.edu.cn
+kocaeli.edu.tr
+mail.vt.edu
+alumnos.upm.es
