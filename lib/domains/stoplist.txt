@@ -1544,3 +1544,6 @@ spobcollege.edu
 library.sacsites.csus.edu
 stu.fjmu.edu.cn
 estudante.ifes.edu.br
+est.umet.edu.ec
+my.fsu.edu
+axhu.edu.cn
