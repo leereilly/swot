@@ -1527,3 +1527,7 @@ alumni.virginia.edu
 manukaumail.com
 byu.net
 frsf.utn.edu.ar
+uhb.edu.sa
+stu.fafu.edu.cn
+uibe.edu.cn
+jcjc.edu
