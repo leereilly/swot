@@ -1536,3 +1536,7 @@ mail.scuec.edu.cn
 kocaeli.edu.tr
 mail.vt.edu
 alumnos.upm.es
+student.smawirausaha.sch.id
+mail.ncyu.edu.tw
+scholar.yc.edu
+stu.sicnu.edu.cn
