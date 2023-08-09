@@ -1540,3 +1540,7 @@ student.smawirausaha.sch.id
 mail.ncyu.edu.tw
 scholar.yc.edu
 stu.sicnu.edu.cn
+spobcollege.edu
+library.sacsites.csus.edu
+stu.fjmu.edu.cn
+estudante.ifes.edu.br
