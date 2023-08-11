@@ -1547,3 +1547,5 @@ estudante.ifes.edu.br
 est.umet.edu.ec
 my.fsu.edu
 axhu.edu.cn
+comunidad.unam.mx
+ualberta.ca
