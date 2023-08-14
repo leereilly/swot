@@ -1540,7 +1540,7 @@ mail.ncyu.edu.tw
 scholar.yc.edu
 stu.sicnu.edu.cn
 spobcollege.edu
-library.sacsites.csus.edu
+sacsites.csus.edu
 stu.fjmu.edu.cn
 estudante.ifes.edu.br
 est.umet.edu.ec
@@ -1564,3 +1564,6 @@ highline.edu
 muskegoncc.edu
 xy.dlpu.edu.cn
 students.nilai.edu.my
+stu.trenholmstate.edu
+ciis.ac.in
+alunouninter.com
