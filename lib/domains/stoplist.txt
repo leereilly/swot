@@ -1557,3 +1557,11 @@ library.arizona.edu
 library.harvard.edu
 hungyen.itrithuc.vn
 library.osu.edu
+lbwcc.edu
+student.whatcom.edu
+bellevuecollege.edu
+skagit.edu
+highline.edu
+muskegoncc.edu
+xy.dlpu.edu.cn
+students.nilai.edu.my
