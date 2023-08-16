@@ -1580,3 +1580,4 @@ jcjc.edu
 campus.economicas.uba.ar
 conalepmex.edu.mx
 senati.pe
+utech.edu.jm
