@@ -1578,3 +1578,5 @@ student.rtc.edu
 valverde.edu
 jcjc.edu
 campus.economicas.uba.ar
+conalepmex.edu.mx
+senati.pe
