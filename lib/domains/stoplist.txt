@@ -1572,3 +1572,4 @@ aulamexiquense.mx
 student.prasetiyamulya.ac.id
 smksingaparna.sch.id
 myemail.dmu.ac.uk
+marun.edu.tr
