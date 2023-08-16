@@ -1576,3 +1576,4 @@ marun.edu.tr
 my.fsu.edu
 student.rtc.edu
 valverde.edu
+jcjc.edu
