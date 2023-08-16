@@ -1581,3 +1581,5 @@ campus.economicas.uba.ar
 conalepmex.edu.mx
 senati.pe
 utech.edu.jm
+st.ahu.edu.jo
+escoladotrabalhador40.com.br
