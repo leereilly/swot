@@ -1603,3 +1603,4 @@ moestudents.edu.kn
 nvsu.edu.ph
 chula.ac.th
 student.utcb.ro
+mhs.its.ac.id
