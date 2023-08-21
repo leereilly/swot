@@ -1613,3 +1613,5 @@ jsahvc.edu.cn
 student.cup.edu.cn
 my.milpark.ac.za
 usil.pe
+etap.edu.pt
+trakya.edu.tr
