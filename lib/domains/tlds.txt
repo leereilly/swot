@@ -42,7 +42,6 @@ edu.in
 edu.kz
 edu.lr
 edu.ly
-edu.me
 edu.mg
 edu.ml
 edu.mv
