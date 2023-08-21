@@ -1610,3 +1610,4 @@ unicaen.fr
 uoc.gr
 sqxy.edu.cn
 jsahvc.edu.cn
+student.cup.edu.cn
