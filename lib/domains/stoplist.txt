@@ -1611,3 +1611,5 @@ uoc.gr
 sqxy.edu.cn
 jsahvc.edu.cn
 student.cup.edu.cn
+my.milpark.ac.za
+usil.pe
