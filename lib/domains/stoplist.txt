@@ -1629,3 +1629,6 @@ my.sanjuancollege.edu
 alumni.unca.edu
 live.ku.th
 student.uny.ac.id
+hsestudents.org
+dpsnc.net
+itb.edu.ec
