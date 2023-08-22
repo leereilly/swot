@@ -1632,3 +1632,10 @@ student.uny.ac.id
 hsestudents.org
 dpsnc.net
 itb.edu.ec
+iti.edu.ec
+stu.fynu.edu.cn
+mail.pima.edu
+stu.usc.edu.cn
+edu.fh-wien.ac.at
+martinmethodist.edu
+haramaya.edu.et
