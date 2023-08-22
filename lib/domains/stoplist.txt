@@ -1639,3 +1639,7 @@ stu.usc.edu.cn
 edu.fh-wien.ac.at
 martinmethodist.edu
 haramaya.edu.et
+chalmers.se
+scccd.edu
+parrastu.catholic.edu.au
+usim.edu.my
