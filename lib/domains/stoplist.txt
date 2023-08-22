@@ -1647,3 +1647,4 @@ trenholmstate.edu
 ucsc.edu
 uchicago.edu
 my.stvt.edu
+student.edu.az
