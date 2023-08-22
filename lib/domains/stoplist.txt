@@ -1537,7 +1537,7 @@ mail.vt.edu
 alumnos.upm.es
 student.smawirausaha.sch.id
 mail.ncyu.edu.tw
-scholar.yc.edu
+yc.edu
 stu.sicnu.edu.cn
 spobcollege.edu
 sacsites.csus.edu
@@ -1646,3 +1646,4 @@ usim.edu.my
 trenholmstate.edu
 ucsc.edu
 uchicago.edu
+my.stvt.edu
