@@ -1648,3 +1648,6 @@ ucsc.edu
 uchicago.edu
 my.stvt.edu
 student.edu.az
+mail2.gantep.edu.tr
+pdsu.edu.cn
+wow.hongik.ac.kr
