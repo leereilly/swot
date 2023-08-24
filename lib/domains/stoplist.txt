@@ -1653,3 +1653,4 @@ pdsu.edu.cn
 wow.hongik.ac.kr
 nacc.edu
 student.ccc.edu
+utc.edu.vn
