@@ -1654,3 +1654,4 @@ wow.hongik.ac.kr
 nacc.edu
 student.ccc.edu
 utc.edu.vn
+student.hcmus.edu.vn
