@@ -1655,3 +1655,7 @@ student.ccc.edu
 utc.edu.vn
 student.hcmus.edu.vn
 dmu.ac.uk
+alumni.conncoll.edu
+ms.pict.edu
+um.es
+alunos.ipb.pt
