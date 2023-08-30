@@ -1659,3 +1659,6 @@ alumni.conncoll.edu
 ms.pict.edu
 um.es
 alunos.ipb.pt
+fmed.uc.pt
+gregorianschool.edu.in
+rgi.edu.in
