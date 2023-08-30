@@ -1662,3 +1662,5 @@ fmed.uc.pt
 gregorianschool.edu.in
 rgi.edu.in
 mail.utoronto.ca
+unla.edu.ar
+lms.utc.edu.vn
