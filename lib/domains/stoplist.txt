@@ -1623,7 +1623,6 @@ usmp.pe
 sheridan.edu
 binghamton.edu
 stu.jjc.edu
-my.sanjuancollege.edu
 alumni.unca.edu
 live.ku.th
 student.uny.ac.id
@@ -1675,3 +1674,4 @@ alum.utoronto.ca
 paaet.edu.kw
 guru.sd.belajar.id
 sanjuancollege.edu
+vjrq.cn
