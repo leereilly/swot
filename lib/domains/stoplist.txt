@@ -1681,3 +1681,4 @@ nmsu.edu
 zjtcm.net
 mysvc.skagit.edu
 muskegoncc.edu
+my.chemeketa.edu
