@@ -39,12 +39,9 @@ edu.er
 edu.gh
 edu.hn
 edu.in
-edu.jm
-edu.kn
 edu.kz
 edu.lr
 edu.ly
-edu.me
 edu.mg
 edu.ml
 edu.mv
