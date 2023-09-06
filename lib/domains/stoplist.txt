@@ -1681,3 +1681,7 @@ nmsu.edu
 zjtcm.net
 mysvc.skagit.edu
 muskegoncc.edu
+my.chemeketa.edu
+my.sanjuancollege.edu
+esap.edu.co
+lacitec.on.ca
