@@ -1688,7 +1688,6 @@ lacitec.on.ca
 aai.edu
 unyt.edu.al
 muc.edu.cn
-a.divider.al
 alumnos.utalca.cl
 alunos.estgv.ipv.pt
 anc.ac.th
@@ -1709,3 +1708,7 @@ student.cvtc.edu
 students.namcol.edu.na
 uniandes.edu.ec
 uottawa.ca
+live.kmu.edu.tw
+ntu.edu.tw
+my.berks.edu
+stu.sumhs.edu.cn
