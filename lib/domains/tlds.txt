@@ -6,7 +6,6 @@ ac.il
 ac.in
 ac.jp
 ac.kr
-ac.ma
 ac.me
 ac.mw
 ac.ni
