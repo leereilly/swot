@@ -1718,3 +1718,4 @@ miamioh.edu
 southplainscollege.edu
 provo.edu
 mpgu.edu
+mahidol.ac.th
