@@ -1159,7 +1159,6 @@ eap.gr
 posta.mu.edu.tr
 rule.edu.kh
 student.uj.ac.za
-ruhr-uni-bochum.de
 s.hlju.edu.cn
 aiub.edu
 ogr.duzce.edu.tr
@@ -1711,3 +1710,5 @@ live.kmu.edu.tw
 ntu.edu.tw
 my.berks.edu
 stu.sumhs.edu.cn
+uci.edu
+mpsaz.org
