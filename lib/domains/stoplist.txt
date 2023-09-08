@@ -1717,3 +1717,4 @@ austincc.edu
 miamioh.edu
 southplainscollege.edu
 provo.edu
+mpgu.edu
