@@ -1721,3 +1721,4 @@ mpgu.edu
 mahidol.ac.th
 svkmmumbai.onmicrosoft.com
 barsanti.edu.it
+e.ntu.edu.sg
