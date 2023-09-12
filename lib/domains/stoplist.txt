@@ -1658,7 +1658,6 @@ alunos.ipb.pt
 fmed.uc.pt
 gregorianschool.edu.in
 rgi.edu.in
-mail.utoronto.ca
 unla.edu.ar
 lms.utc.edu.vn
 lethbridgecollege.ca
@@ -1722,3 +1721,4 @@ mahidol.ac.th
 svkmmumbai.onmicrosoft.com
 barsanti.edu.it
 e.ntu.edu.sg
+tongji.edu.cn
