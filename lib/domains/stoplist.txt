@@ -1722,3 +1722,4 @@ svkmmumbai.onmicrosoft.com
 barsanti.edu.it
 e.ntu.edu.sg
 tongji.edu.cn
+ugm.ac.id
