@@ -1723,3 +1723,8 @@ barsanti.edu.it
 e.ntu.edu.sg
 tongji.edu.cn
 ugm.ac.id
+email.szu.edu.cn
+stu.hebmu.edu.cn
+isik.edu.tr
+r4a-2.deped.gov.ph
+o365.skku.edu
