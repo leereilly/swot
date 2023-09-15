@@ -1772,3 +1772,4 @@ mail.uni-kiel.de
 uny.ac.id
 mail.umy.ac.id
 my.scccd.edu
+utg.edu.gm
