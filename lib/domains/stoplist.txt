@@ -1772,3 +1772,6 @@ uny.ac.id
 mail.umy.ac.id
 my.scccd.edu
 utg.edu.gm
+qu.edu.sa
+cloud.isu.edu.tw
+gm.tut.edu.tw
