@@ -1774,4 +1774,6 @@ my.scccd.edu
 utg.edu.gm
 qu.edu.sa
 cloud.isu.edu.tw
-gm.tut.edu.tw
+tut.edu.tw
+unmer.ac.id
+stu.nwupl.edu.cn
