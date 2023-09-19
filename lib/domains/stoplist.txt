@@ -370,7 +370,6 @@ stu.just.edu.cn
 stu.kust.edu.cn
 stu.liiajc.me
 stumail.sdut.edu.cn
-stu.mziuri.edu.ge
 stu.ncwu.edu.cn
 stu.nmu.edu.cn
 stu.nun.edu.cn
