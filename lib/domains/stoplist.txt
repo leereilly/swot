@@ -1781,3 +1781,10 @@ nac.ucr.ac.cr
 bvp.edu.in
 st.fhv.uniza.sk
 metropolitan.ac.rs
+whit.edu.cn
+aiit.edu.cn
+madina.ac.ma
+comunidadort.edu.ar
+my.miller-motte.edu
+connect.polyu.hk
+alu.cdut.edu.cn
