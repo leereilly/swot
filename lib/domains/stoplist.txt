@@ -1790,3 +1790,4 @@ alu.cdut.edu.cn
 usanandres.cl
 rswol-iserv.info
 cbu.ac.kr
+nyist.edu.cn
