@@ -1795,3 +1795,4 @@ nyist.edu.cn
 ufuk.edu.tr
 mail.rmu.edu
 alumni.upenn.edu
+kku.edu.tr
