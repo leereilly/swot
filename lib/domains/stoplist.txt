@@ -1815,3 +1815,4 @@ maine.edu
 student.guc.edu.eg
 stu.mdit.edu.cn
 dsu.edu.pk
+etu.univ-amu.fr
