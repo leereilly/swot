@@ -1812,3 +1812,5 @@ daegu.ac.kr
 aluno.uece.br
 stu.bzuu.edu.cn
 maine.edu
+student.guc.edu.eg
+stu.mdit.edu.cn
