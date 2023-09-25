@@ -1816,3 +1816,9 @@ student.guc.edu.eg
 stu.mdit.edu.cn
 dsu.edu.pk
 etu.univ-amu.fr
+alunos.unisanta.br
+spjain.org
+ucm.ac.mz
+acoe.edu.in
+iub.edu.pk
+sabah.edu.az
