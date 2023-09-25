@@ -1810,3 +1810,5 @@ ucs.br
 g.hongik.ac.kr
 daegu.ac.kr
 aluno.uece.br
+stu.bzuu.edu.cn
+maine.edu
