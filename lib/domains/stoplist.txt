@@ -1806,3 +1806,7 @@ ichat.sp.edu.sg
 st.uew.edu.gh
 nou.edu.np
 g.batstate-u.edu.ph
+ucs.br
+g.hongik.ac.kr
+daegu.ac.kr
+aluno.uece.br
