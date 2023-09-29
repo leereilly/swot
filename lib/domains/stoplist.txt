@@ -1824,3 +1824,8 @@ iub.edu.pk
 sabah.edu.az
 ecit.edu.cn
 insan.edu.kg
+link.cuhk.edu.hk
+sues.edu.cn
+csu.edu.cn
+stu.qlu.edu.cn
+poornima.ac.in
