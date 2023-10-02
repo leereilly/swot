@@ -1833,3 +1833,4 @@ etu.univ-amu.fr
 uartes.edu.ec
 hindscc.edu
 hacc.edu
+utfpr.edu.br
