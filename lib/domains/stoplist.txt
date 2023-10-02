@@ -1705,7 +1705,6 @@ live.kmu.edu.tw
 ntu.edu.tw
 my.berks.edu
 stu.sumhs.edu.cn
-uci.edu
 mpsaz.org
 mail.aeust.edu.tw
 austincc.edu
