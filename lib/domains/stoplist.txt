@@ -1607,7 +1607,6 @@ student.cup.edu.cn
 my.milpark.ac.za
 usil.pe
 etap.edu.pt
-trakya.edu.tr
 cbs.kiu.ac.jp
 alumnos.utleon.edu.mx
 sss-pv.edu.me
