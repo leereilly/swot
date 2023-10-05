@@ -1599,7 +1599,6 @@ student.utcb.ro
 mhs.its.ac.id
 moe.edu.kn
 ncc.edu
-unicaen.fr
 uoc.gr
 sqxy.edu.cn
 jsahvc.edu.cn
