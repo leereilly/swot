@@ -1832,3 +1832,4 @@ uartes.edu.ec
 hindscc.edu
 hacc.edu
 utfpr.edu.br
+clpccd.edu
