@@ -1833,3 +1833,4 @@ hindscc.edu
 hacc.edu
 utfpr.edu.br
 clpccd.edu
+students.laredo.edu
