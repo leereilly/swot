@@ -1507,7 +1507,6 @@ uibe.edu.cn
 student.iatc.edu.sa
 aluno.agvaf.edu.pt
 ufpr.br
-hcmut.edu.vn
 nyu.edu
 alumno.unlam.edu.ar
 academico.cesmac.edu.br
