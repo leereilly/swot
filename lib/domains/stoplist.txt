@@ -1837,3 +1837,4 @@ mezun.deu.edu.tr
 student.mau.edu.ng
 tsu.ac.th
 student.mmust.ac.ke
+cougars.csusm.edu
