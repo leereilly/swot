@@ -1507,7 +1507,6 @@ uibe.edu.cn
 student.iatc.edu.sa
 aluno.agvaf.edu.pt
 ufpr.br
-hcmut.edu.vn
 nyu.edu
 alumno.unlam.edu.ar
 academico.cesmac.edu.br
@@ -1599,7 +1598,6 @@ student.utcb.ro
 mhs.its.ac.id
 moe.edu.kn
 ncc.edu
-unicaen.fr
 uoc.gr
 sqxy.edu.cn
 jsahvc.edu.cn
@@ -1607,7 +1605,6 @@ student.cup.edu.cn
 my.milpark.ac.za
 usil.pe
 etap.edu.pt
-trakya.edu.tr
 cbs.kiu.ac.jp
 alumnos.utleon.edu.mx
 sss-pv.edu.me
@@ -1834,3 +1831,10 @@ uartes.edu.ec
 hindscc.edu
 hacc.edu
 utfpr.edu.br
+clpccd.edu
+students.laredo.edu
+mezun.deu.edu.tr
+student.mau.edu.ng
+tsu.ac.th
+student.mmust.ac.ke
+cougars.csusm.edu
