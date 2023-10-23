@@ -1838,3 +1838,5 @@ student.mau.edu.ng
 tsu.ac.th
 student.mmust.ac.ke
 cougars.csusm.edu
+emu.edu.tr
+studenti.uniba.it
