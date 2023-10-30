@@ -1860,3 +1860,4 @@ student.hactech.edu.vn
 iitu.edu.kz
 retired.bogazici.edu.tr
 alum.bogazici.edu.tr
+ybu.edu.tr
