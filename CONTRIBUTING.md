@@ -1,10 +1,6 @@
 # Contributing to Swot
 
-If you did not contribute to this repository before, please read the repository rules at the bottom of [this page](https://github.com/JetBrains/swot/).
-
-$${\color{red}Please \space notice \space that \space pull \space requests \space will \space not \space be \space processed \space from \space Oct \space 12 \space to \space Oct \space 22 \space, \space 2023.}$$ 
-
-$${\color{red}Thank \space you \space for \space your \space patience!}$$
+If you did not contribute to this repository before, please read [the repository rules](https://github.com/JetBrains/swot/tree/master#swot).
 
 #### Data Contributions
 
