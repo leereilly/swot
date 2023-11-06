@@ -1862,3 +1862,7 @@ retired.bogazici.edu.tr
 alum.bogazici.edu.tr
 ybu.edu.tr
 umsida.ac.id
+vtsnis.edu.rs
+ricstudent.com
+el-eng.menofia.edu.eg
+st.knust.edu.gh
