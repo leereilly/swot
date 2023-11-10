@@ -1867,3 +1867,4 @@ ricstudent.com
 el-eng.menofia.edu.eg
 knust.edu.gh
 hce.edu.vn
+ftu.edu.vn
