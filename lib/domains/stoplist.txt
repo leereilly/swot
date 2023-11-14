@@ -1589,7 +1589,6 @@ education.nsw.gov.au
 ui.ac.id
 sempreunama.com.br
 essec.edu
-post.bgu.ac.il
 unibge.hu
 moestudents.edu.kn
 nvsu.edu.ph
