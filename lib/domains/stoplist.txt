@@ -1176,7 +1176,7 @@ students.mohave.edu
 cuiatd.edu.pk
 itu.edu.tr
 mso365.ulp.pt
-r4a-1.deped.gov.ph
+deped.gov.ph
 cic.pt
 student.cankaya.edu.tr
 uopstd.edu.jo
@@ -1226,7 +1226,7 @@ alunos.unisagrado.edu.br
 fatecie.edu.br
 kwiatek365.pl
 nuv.ac.in
-alumnos.utn.edu.mx
+utn.edu.mx
 stu.mju.edu.cn
 qvtu.edu.cn
 mail.ypu.edu.tw
@@ -1589,7 +1589,6 @@ education.nsw.gov.au
 ui.ac.id
 sempreunama.com.br
 essec.edu
-post.bgu.ac.il
 unibge.hu
 moestudents.edu.kn
 nvsu.edu.ph
@@ -1775,7 +1774,6 @@ student.xjtlu.edu.cn
 nac.ucr.ac.cr
 bvp.edu.in
 st.fhv.uniza.sk
-metropolitan.ac.rs
 whit.edu.cn
 aiit.edu.cn
 madina.ac.ma
@@ -1856,3 +1854,17 @@ etud.u-picardie.fr
 uniwa.gr
 uowm.gr
 red.ujaen.es
+abu.edu.ng
+student.hactech.edu.vn
+iitu.edu.kz
+retired.bogazici.edu.tr
+alum.bogazici.edu.tr
+ybu.edu.tr
+umsida.ac.id
+vtsnis.edu.rs
+ricstudent.com
+el-eng.menofia.edu.eg
+knust.edu.gh
+hce.edu.vn
+ftu.edu.vn
+world.edu
