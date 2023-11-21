@@ -1886,3 +1886,4 @@ alu.uestc.edu.cn
 students.mccc.edu
 mails.zstu.edu.cn
 fu-berlin.de
+etudiant.univ-rennes1.fr
