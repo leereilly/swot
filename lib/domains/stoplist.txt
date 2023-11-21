@@ -1878,3 +1878,8 @@ tiangong.edu.cn
 ogr.sakarya.edu.tr
 alumni.uniba.it
 tutaunggyi.edu.mm
+kmd.edu.mm
+ucm.ac.mz
+stu.ccit.edu.cn
+stud.unifi.it
+alu.uestc.edu.cn
