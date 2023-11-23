@@ -733,7 +733,6 @@ students.fui.edu.pk
 ucacue.edu.ec
 stu.kemu.ac.ke
 dlsud.edu.ph
-pharm.bsu.edu.eg
 rangers.nwosu.edu
 correo.itm.edu.co
 zetech.ac.ke
@@ -1890,3 +1889,4 @@ etudiant.univ-rennes1.fr
 coastalbend.edu
 lamarpa.edu
 students.laredo.edu
+bsu.edu.ru
