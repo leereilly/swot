@@ -1890,3 +1890,4 @@ coastalbend.edu
 lamarpa.edu
 students.laredo.edu
 bsu.edu.ru
+mccann.edu
