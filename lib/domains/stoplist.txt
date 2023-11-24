@@ -1893,3 +1893,4 @@ bsu.edu.ru
 mccann.edu
 unn.edu.ng
 stud.iuav.it
+conncoll.edu
