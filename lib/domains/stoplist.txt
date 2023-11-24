@@ -1894,3 +1894,5 @@ mccann.edu
 unn.edu.ng
 stud.iuav.it
 conncoll.edu
+whit.edu.cn
+mail4u.tnu.edu.tw
