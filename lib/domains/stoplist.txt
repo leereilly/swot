@@ -1891,3 +1891,4 @@ lamarpa.edu
 students.laredo.edu
 bsu.edu.ru
 mccann.edu
+unn.edu.ng
