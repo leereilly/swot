@@ -1909,3 +1909,10 @@ c3chuvanan.edu.vn
 fmed.bu.edu.eg
 student.annauniv.edu
 unapec.edu.do
+agri.aru.edu.eg
+rrlc.tu.edu.np
+ogr.kent.edu.tr
+sh.bbu.edu.kh
+alumnos.uaslp.edu.mx
+stu.vistula.edu.pl
+ms.hanu.edu.vn
