@@ -1918,7 +1918,6 @@ stu.vistula.edu.pl
 ms.hanu.edu.vn
 au.edu.eg
 akhbaracademy.edu.eg
-stu.vistula.edu.pl
 donbosco.edu.ec
 dmu.edu.eg
 educastur.es
