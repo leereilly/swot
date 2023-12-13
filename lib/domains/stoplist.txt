@@ -1931,3 +1931,5 @@ soy.sena.edu.co
 student.bccc.edu
 projecao.edu.br
 alumnos.uat.edu.mx
+uni-bremen.de
+odessa.edu
