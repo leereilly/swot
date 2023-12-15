@@ -1096,7 +1096,6 @@ rhodesstate.edu
 student.wsb.edu.pl
 ldceahm.gujgov.edu.in
 aaup.edu
-buet.ac.bd
 uac.edu.co
 fvcc.edu
 unm.edu.pe
@@ -1935,3 +1934,10 @@ uni-bremen.de
 odessa.edu
 iwcc.edu
 alex3.moe.edu.eg
+alumnos.uat.edu.mx
+stumail.nwu.edu.cn
+student.bccc.edu
+projecao.edu.br
+intecap.edu.gt
+educadventista.org
+studenti.uniroma1.it
