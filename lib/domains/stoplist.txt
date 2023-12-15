@@ -1934,3 +1934,4 @@ alumnos.uat.edu.mx
 uni-bremen.de
 odessa.edu
 iwcc.edu
+alex3.moe.edu.eg
