@@ -1943,3 +1943,5 @@ educadventista.org
 studenti.uniroma1.it
 liberty.edu
 haiphong.itrithuc.vn
+umn.edu
+cmich.edu
