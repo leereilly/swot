@@ -1973,3 +1973,5 @@ dmu.ac.kr
 suwon.ac.kr
 s.konan-u.ac.jp
 student.tp.edu.sg
+mail.utoronto.ca
+my.cityu.edu.hk
