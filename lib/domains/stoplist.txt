@@ -1741,7 +1741,6 @@ students.wiut.uz
 apps.ntpc.edu.tw
 my.columbiasc.edu
 jnu.edu.cn
-technikum-wien.at
 ruc.edu.cn
 daytonastate.edu
 istitutomasterform.it
