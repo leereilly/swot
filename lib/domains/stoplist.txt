@@ -1978,3 +1978,5 @@ my.cityu.edu.hk
 rsu.edu.lv
 aluno.newtonpaiva.br
 discente.ufopa.edu.br
+student.usm.my
+alumnos365.xoc.uam.mx
