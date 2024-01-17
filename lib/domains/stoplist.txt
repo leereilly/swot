@@ -1975,3 +1975,6 @@ s.konan-u.ac.jp
 student.tp.edu.sg
 mail.utoronto.ca
 my.cityu.edu.hk
+rsu.edu.lv
+aluno.newtonpaiva.br
+discente.ufopa.edu.br
