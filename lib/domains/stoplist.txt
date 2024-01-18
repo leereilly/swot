@@ -1979,3 +1979,5 @@ aluno.newtonpaiva.br
 discente.ufopa.edu.br
 student.usm.my
 alumnos365.xoc.uam.mx
+silpakorn.edu
+su.ac.th
