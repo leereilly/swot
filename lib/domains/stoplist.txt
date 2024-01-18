@@ -1965,8 +1965,6 @@ kgu.ac.kr
 mail.ulsan.ac.kr
 inha.edu
 kyonggi.ac.kr
-kuic.kyonggi.ac.kr
-mail.kyonggi.ac.kr
 dongyang.ac.kr
 dmu.ac.kr
 suwon.ac.kr
@@ -1979,3 +1977,7 @@ aluno.newtonpaiva.br
 discente.ufopa.edu.br
 student.usm.my
 alumnos365.xoc.uam.mx
+silpakorn.edu
+su.ac.th
+stu.neisd.net
+g.seoultech.ac.kr
