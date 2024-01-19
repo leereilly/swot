@@ -1986,3 +1986,4 @@ ddsbstudent.ca
 unimoron.edu.ar
 student.mcu.edu.ph
 upn.pe
+student.cgcc.edu
