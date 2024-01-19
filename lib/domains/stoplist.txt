@@ -1981,3 +1981,4 @@ silpakorn.edu
 su.ac.th
 stu.neisd.net
 g.seoultech.ac.kr
+fti.edu.al
