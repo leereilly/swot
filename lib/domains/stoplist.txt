@@ -1996,3 +1996,7 @@ aabu.edu.jo
 ac.isb.edu.bn
 aiet.edu.eg
 eco.maranatha.edu
+husteduvn.onmicrosoft.com
+library.sacsites.csus.edu
+comunidadort.edu.ar
+mccc.edu
