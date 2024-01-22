@@ -1995,3 +1995,4 @@ cs.ifmo.ru
 aabu.edu.jo
 ac.isb.edu.bn
 aiet.edu.eg
+eco.maranatha.edu
