@@ -1990,3 +1990,4 @@ student.cgcc.edu
 utp.edu.co
 alum.uca.es
 colostate.edu
+shsu.am
