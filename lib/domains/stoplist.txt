@@ -1687,7 +1687,6 @@ rhedu.org.il
 std.bau.edu.jo
 std.kyu.ac.ug
 stu.k12.wv.us
-student.cvtc.edu
 students.namcol.edu.na
 uniandes.edu.ec
 uottawa.ca
