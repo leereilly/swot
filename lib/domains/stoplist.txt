@@ -1592,7 +1592,6 @@ student.utcb.ro
 mhs.its.ac.id
 moe.edu.kn
 ncc.edu
-uoc.gr
 sqxy.edu.cn
 jsahvc.edu.cn
 student.cup.edu.cn
@@ -2001,3 +2000,4 @@ library.sacsites.csus.edu
 comunidadort.edu.ar
 mccc.edu
 idea.edu.cn
+kau.edu.sa
