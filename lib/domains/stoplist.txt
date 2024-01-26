@@ -263,6 +263,7 @@ palomar.edu
 paofu.us
 peking.pkumail.tech
 pekingwebmail.tech
+phystech.edu
 pipeline.sbcc.edu
 post.eurasia.edu
 pycharm.ac.cn
