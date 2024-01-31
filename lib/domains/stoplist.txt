@@ -1328,7 +1328,6 @@ uit.edu.vn
 brandeis.edu
 etu.u-pec.fr
 ucsdawei.edu.mm
-skku.edu
 deakin.edu.au
 njtc.edu.cn
 omareyah.edu.jo
