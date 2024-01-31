@@ -1490,7 +1490,6 @@ stu.aydin.edu.tr
 st.huflit.edu.vn
 365.um.edu.my
 s-mu.edu.eg
-teb.edu.pl
 inam.edu.mx
 kientruchanoi.edu.vn
 alumnos.uaslp.mx
