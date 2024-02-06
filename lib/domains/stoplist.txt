@@ -1943,7 +1943,7 @@ cau.ac.kr
 std.neu.edu.tr
 o365.u-szeged.hu
 lpru.ac.th
-dac.unicamp.br
+unicamp.br
 student.sru.ac.th
 kkumail.com
 cassia.kku.ac.th
