@@ -1831,8 +1831,6 @@ emu.edu.tr
 studenti.uniba.it
 bereabeautyacademy.edu
 ogr.iu.edu.tr
-vut.cz
-vutbr.cz
 uop.gr
 aueb.gr
 ee.duth.gr
@@ -2001,3 +1999,7 @@ kau.edu.sa
 tzc.edu.cn
 pucsp.edu.br
 iitg.ac.in
+mail.scut.edu.cn
+nodai.ac.jp
+stu.jhun.edu.cn
+upm.edu.sa
