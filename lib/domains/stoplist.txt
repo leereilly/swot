@@ -1837,7 +1837,6 @@ ee.duth.gr
 auth.gr
 etu.unilim.fr
 uni-sofia.bg
-knou.ac.kr
 etu.u-bordeaux.fr
 etud.u-picardie.fr
 uniwa.gr
