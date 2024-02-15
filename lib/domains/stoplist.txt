@@ -1762,7 +1762,7 @@ tut.edu.tw
 unmer.ac.id
 stu.nwupl.edu.cn
 student.xjtlu.edu.cn
-nac.ucr.ac.cr
+ucr.ac.cr
 bvp.edu.in
 st.fhv.uniza.sk
 whit.edu.cn
