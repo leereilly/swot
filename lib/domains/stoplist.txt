@@ -2004,3 +2004,4 @@ nodai.ac.jp
 stu.jhun.edu.cn
 upm.edu.sa
 wzut.edu.cn
+gr.akdeniz.edu.tr
