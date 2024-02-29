@@ -1981,3 +1981,4 @@ stu.jhun.edu.cn
 upm.edu.sa
 wzut.edu.cn
 ogr.akdeniz.edu.tr
+o.cnu.ac.kr
