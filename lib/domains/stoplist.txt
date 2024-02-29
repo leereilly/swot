@@ -1786,7 +1786,6 @@ nou.edu.np
 g.batstate-u.edu.ph
 ucs.br
 g.hongik.ac.kr
-daegu.ac.kr
 aluno.uece.br
 stu.bzuu.edu.cn
 maine.edu
@@ -1939,11 +1938,7 @@ alias.kkumail.com
 imail.sunway.edu.my
 edu.bme.hu
 apps.ajou.ac.kr
-kunsan.ac.kr
-portal.osan.ac.kr
-stu.kbtus.ac.kr
-mail.ulsan.ac.kr
-inha.edu
+office365.kunsan.ac.kr
 s.konan-u.ac.jp
 student.tp.edu.sg
 my.cityu.edu.hk
