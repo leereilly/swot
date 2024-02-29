@@ -62,7 +62,6 @@ cloudlearn.tech
 cochise.edu
 cocite.pt
 codesra.cn
-connect.hku.hk
 correo.icesi.edu.co
 cougarmail.collin.edu
 cpcc.edu
@@ -487,7 +486,6 @@ my.smccd.edu
 dragons.hutchcc.edu
 cihanuniversity.org
 stu.hit.edu.cn
-mails.tsinghua.edu.cn
 deltacollege.edu
 mgccc.edu
 masu.edu.cn
@@ -1186,7 +1184,6 @@ mail.escuelaing.edu.co
 tut4life.ac.za
 ogrenci.bilecik.edu.tr
 usg.edu
-konkuk.ac.kr
 nu.ac.th
 aths.ac.ae
 institutomerani.edu.co
@@ -1199,7 +1196,6 @@ est.emi.edu.bo
 clackamas.edu
 kmitl.ac.th
 ac.eap.gr
-student.hywoman.ac.kr
 espol.edu.ec
 ufidelitas.ac.cr
 studenti.unimi.it
@@ -1580,7 +1576,6 @@ mail.baskent.edu.tr
 ufabc.edu.br
 tulsacc.edu
 education.nsw.gov.au
-ui.ac.id
 sempreunama.com.br
 essec.edu
 unibge.hu
@@ -1703,7 +1698,6 @@ mpgu.edu
 mahidol.ac.th
 svkmmumbai.onmicrosoft.com
 barsanti.edu.it
-e.ntu.edu.sg
 tongji.edu.cn
 ugm.ac.id
 email.szu.edu.cn
@@ -1945,24 +1939,14 @@ cassia.kku.ac.th
 alias.kkumail.com
 imail.sunway.edu.my
 edu.bme.hu
-hansung.ac.kr
-itc.ac.kr
 apps.ajou.ac.kr
-ajou.ac.kr
 kunsan.ac.kr
 portal.osan.ac.kr
 stu.kbtus.ac.kr
-o365.cku.ac.kr
-kgu.ac.kr
 mail.ulsan.ac.kr
 inha.edu
-kyonggi.ac.kr
-dongyang.ac.kr
-dmu.ac.kr
-suwon.ac.kr
 s.konan-u.ac.jp
 student.tp.edu.sg
-mail.utoronto.ca
 my.cityu.edu.hk
 rsu.edu.lv
 aluno.newtonpaiva.br
