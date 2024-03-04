@@ -1264,7 +1264,6 @@ tusur.ru
 aluno.unb.br
 converse.edu
 sc.edu.my
-wgu.edu
 student.maseno.ac.ke
 aim.edu
 taalim.ma
@@ -1982,3 +1981,5 @@ upm.edu.sa
 wzut.edu.cn
 ogr.akdeniz.edu.tr
 o.cnu.ac.kr
+ydu.edu.tw
+setsuna.eu.org
