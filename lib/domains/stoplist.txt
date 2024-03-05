@@ -1919,7 +1919,6 @@ liberty.edu
 haiphong.itrithuc.vn
 umn.edu
 cmich.edu
-cau.ac.kr
 std.neu.edu.tr
 o365.u-szeged.hu
 lpru.ac.th
