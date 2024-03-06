@@ -1748,7 +1748,6 @@ cloud.isu.edu.tw
 tut.edu.tw
 unmer.ac.id
 stu.nwupl.edu.cn
-student.xjtlu.edu.cn
 ucr.ac.cr
 bvp.edu.in
 st.fhv.uniza.sk
