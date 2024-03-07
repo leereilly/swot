@@ -1886,7 +1886,6 @@ rrlc.tu.edu.np
 ogr.kent.edu.tr
 sh.bbu.edu.kh
 alumnos.uaslp.edu.mx
-stu.vistula.edu.pl
 ms.hanu.edu.vn
 au.edu.eg
 akhbaracademy.edu.eg
