@@ -1818,7 +1818,6 @@ ogr.iu.edu.tr
 uop.gr
 ee.duth.gr
 auth.gr
-etu.unilim.fr
 uni-sofia.bg
 etu.u-bordeaux.fr
 etud.u-picardie.fr
