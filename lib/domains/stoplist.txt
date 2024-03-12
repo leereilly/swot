@@ -1974,3 +1974,5 @@ setsuna.eu.org
 mymail.lausd.net
 tranquillity.ee
 academico.ifrn.edu.br
+student.unand.ac.id
+my.buu.ac.th
