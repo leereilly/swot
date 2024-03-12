@@ -1976,3 +1976,5 @@ tranquillity.ee
 academico.ifrn.edu.br
 student.unand.ac.id
 my.buu.ac.th
+me.buet.ac.bd
+dekalbschoolsga.org
