@@ -1891,7 +1891,6 @@ donbosco.edu.ec
 dmu.edu.eg
 educastur.es
 educa.jcyl.es
-comunidadunir.net
 kthcm.edu.vn
 student.cscc.edu
 uninove.edu.br
@@ -1978,3 +1977,9 @@ student.unand.ac.id
 my.buu.ac.th
 me.buet.ac.bd
 dekalbschoolsga.org
+alumni.ncyu.edu.tw
+ncku.edu.tw
+metmans.edu.eg
+sanbeda.edu.ph
+aua.gr
+student.ugal.ro
