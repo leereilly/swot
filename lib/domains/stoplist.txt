@@ -1871,7 +1871,6 @@ univ-emir.dz
 stu.swun.edu.cn
 uap.edu.ar
 stumail.nwu.edu.cn
-tum.de
 pdpu.edu.ua
 oi.edu.eg
 c3chuvanan.edu.vn
