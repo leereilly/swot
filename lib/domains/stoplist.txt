@@ -1161,7 +1161,6 @@ student.northampton.edu
 students.ukdw.ac.id
 students.mohave.edu
 cuiatd.edu.pk
-itu.edu.tr
 mso365.ulp.pt
 deped.gov.ph
 cic.pt
@@ -1313,7 +1312,6 @@ uit.edu.vn
 brandeis.edu
 etu.u-pec.fr
 ucsdawei.edu.mm
-deakin.edu.au
 njtc.edu.cn
 omareyah.edu.jo
 bistu.edu.cn
