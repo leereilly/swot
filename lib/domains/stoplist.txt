@@ -582,7 +582,6 @@ alumnos.unp.edu.pe
 alpha.edu.pk
 tcl.edu
 alumni.zstu.edu.cn
-upc.edu.pe
 feucanvas.edu.ph
 vtdi.edu.jm
 hawkmail.hccfl.edu
@@ -684,7 +683,6 @@ njit.edu.cn
 hait.edu.cn
 stumail.sdut.edu.cn
 ucsiuniversity.edu.my
-asu.edu
 student.ptss.edu.my
 buc.edu.eg
 hbtcm.edu.cn
