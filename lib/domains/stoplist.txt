@@ -826,7 +826,6 @@ sh-eng.menofia.edu.eg
 ci.suez.edu.eg
 ms.daihocthudo.edu.vn
 staffs.sch.uk
-pg.edu.pl
 rmutr.ac.th
 cta.edu.vn
 espoch.edu.ec
@@ -1388,7 +1387,6 @@ cotcmail.cotc.edu
 owls.williamwoods.edu
 umc.br
 nit.edu.cn
-rwth-aachen.de
 fayettetech.edu
 udec.cl
 lhmc.edu.cn
