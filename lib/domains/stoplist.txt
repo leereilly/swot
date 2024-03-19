@@ -418,7 +418,6 @@ uotago.ac.nz
 usst.edu.cn
 ustb.edu.cn
 ustc.edu.cn
-ust.hk
 vanlanguni.vn
 vcccd.edu
 vccs.edu
@@ -752,7 +751,6 @@ mail.umy.ac.id
 upsjb.edu.pe
 batestech.edu
 mfk.app
-upm.edu.my
 uadec.edu.mx
 just.edu.jo
 student.psis.edu.my
@@ -1250,7 +1248,6 @@ uta.edu.ec
 students.uettaxila.edu.pk
 must.edu.mn
 itca.edu.sv
-alunos.estacio.br
 utmachala.edu.ec
 academico.ifg.edu.br
 sempreuninorte.com.br
@@ -1561,7 +1558,6 @@ escoladotrabalhador40.com.br
 ecam.fr
 uniroma5.it
 uni.opole.pl
-fh-salzburg.ac.at
 chemeketa.edu
 smail.pcd.edu
 gumed.edu.pl
@@ -1800,7 +1796,6 @@ etu.univ-amu.fr
 uartes.edu.ec
 hindscc.edu
 hacc.edu
-utfpr.edu.br
 clpccd.edu
 students.laredo.edu
 mezun.deu.edu.tr
