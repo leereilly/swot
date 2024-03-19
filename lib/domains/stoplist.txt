@@ -1249,7 +1249,6 @@ itca.edu.sv
 utmachala.edu.ec
 academico.ifg.edu.br
 sempreuninorte.com.br
-uni-muenster.de
 maricopa.edu
 tusur.ru
 aluno.unb.br
@@ -1537,7 +1536,6 @@ xy.dlpu.edu.cn
 students.nilai.edu.my
 stu.trenholmstate.edu
 ciis.ac.in
-alunouninter.com
 student.cup.edu.cn
 aulamexiquense.mx
 student.prasetiyamulya.ac.id
