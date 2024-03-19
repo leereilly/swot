@@ -1667,7 +1667,6 @@ std.kyu.ac.ug
 stu.k12.wv.us
 students.namcol.edu.na
 uniandes.edu.ec
-uottawa.ca
 live.kmu.edu.tw
 ntu.edu.tw
 my.berks.edu
@@ -1788,7 +1787,6 @@ csu.edu.cn
 stu.qlu.edu.cn
 poornima.ac.in
 mail.au.edu.pk
-etu.univ-amu.fr
 uartes.edu.ec
 hindscc.edu
 hacc.edu
