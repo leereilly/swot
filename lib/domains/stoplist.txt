@@ -1921,7 +1921,6 @@ kkumail.com
 cassia.kku.ac.th
 alias.kkumail.com
 imail.sunway.edu.my
-edu.bme.hu
 apps.ajou.ac.kr
 office365.kunsan.ac.kr
 s.konan-u.ac.jp
