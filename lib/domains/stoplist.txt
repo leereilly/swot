@@ -1027,7 +1027,6 @@ std.aou.edu.eg
 nub.edu.eg
 tanta.edu.eg
 bsu.edu.eg
-asu.edu.eg
 modern-academy.edu.eg
 buc.edu.eg
 azhar.edu.eg
@@ -1138,9 +1137,6 @@ intecap.edu.gt
 graduate.hku.hk
 ljb.edu.hk
 student.isf.edu.hk
-cuhk.edu.hk
-connect.polyu.hk
-link.cuhk.edu.hk
 my.cityu.edu.hk
 unah.hn
 unah.edu.hn
