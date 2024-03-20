@@ -81,7 +81,6 @@ aluno.ies.edu.br
 ulbra.edu.br
 edu.univali.br
 alunosatc.edu.br
-puccampinas.edu.br
 pucpr.edu.br
 academico.ifmg.edu.br
 unifacs.edu.br
@@ -96,7 +95,6 @@ fatecie.edu.br
 mackenzista.com.br
 academico.ifg.edu.br
 sempreuninorte.com.br
-aluno.unb.br
 eniac.edu.br
 sga.pucminas.br
 sempreuninassau.com.br
@@ -1082,8 +1080,6 @@ mail.ucv.es
 alumnos.uvigo.es
 mail.uca.es
 alu.edu.gva.es
-alumnos.upm.es
-um.es
 campus.eug.es
 uniovi.es
 live.uem.es
@@ -1783,7 +1779,6 @@ just.edu.tw
 just.edu.tw
 mail.ncyu.edu.tw
 live.kmu.edu.tw
-ntu.edu.tw
 mail.aeust.edu.tw
 ntnu.edu.tw
 apps.ntpc.edu.tw
