@@ -1273,6 +1273,7 @@ sh.bbu.edu.kh
 itc.edu.khmoestudents.edu.kn
 moe.edu.kn
 o.cnu.ac.kr
+knue.ac.kr
 cba.edu.kw
 paaet.edu.kw
 ul.edu.lb
