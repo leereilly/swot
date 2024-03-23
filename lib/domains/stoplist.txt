@@ -1093,7 +1093,6 @@ etu.u-pec.fr
 esad-valenciennes.fr
 epfedu.fr
 ecam.fr
-etu.univ-amu.fr
 etu.u-bordeaux.fr
 etud.u-picardie.fr
 etudiant.univ-rennes1.fr
