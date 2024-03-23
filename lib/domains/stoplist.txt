@@ -1897,3 +1897,4 @@ my.milpark.ac.za
 eaglesvale.ac.zw
 email.ncu.edu.cn
 gnnu.edu.cn
+smail.xtu.edu.cn
