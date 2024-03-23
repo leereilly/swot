@@ -1086,7 +1086,6 @@ educa.jcyl.es
 alum.uca.es
 amu.edu.et
 haramaya.edu.et
-viacesi.fr
 univ-caen.fr
 edu.sorbonne-paris-nord.fr
 mancheopenschool.fr
