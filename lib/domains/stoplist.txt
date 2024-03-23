@@ -1057,7 +1057,6 @@ eng.sohag.edu.eg
 s-mu.edu.eg
 miniauniv.edu.eg
 domazhermedicine.edu.eg
-student.guc.edu.eg
 el-eng.menofia.edu.eg
 oi.edu.eg
 fmed.bu.edu.eg
@@ -1266,7 +1265,6 @@ cu.edu.kg
 powerbi.edu.kg
 hust.edu.kg
 insan.edu.kg
-rupp.edu.kh
 rule.edu.kh
 water.itc.edu.kh
 sh.bbu.edu.kh
@@ -1838,7 +1836,6 @@ neu.edu.vn
 daihocyhanoi.edu.vn
 ump.edu.vn
 hust.edu.vn
-fpt.edu.vn
 lttc.edu.vn
 ms.daihocthudo.edu.vn
 cta.edu.vn
@@ -1900,3 +1897,5 @@ student.uj.ac.za
 tut4life.ac.za
 my.milpark.ac.za
 eaglesvale.ac.zw
+email.ncu.edu.cn
+gnnu.edu.cn
