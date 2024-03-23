@@ -36,7 +36,6 @@ borg-kindberg.at
 edu.fh-wien.ac.at
 fountaingatesc.vic.edu.au
 student.unsw.edu.au
-uon.edu.au
 alumni.anu.edu.au
 traralsc.vic.edu.au
 sunburysc.vic.edu.au
