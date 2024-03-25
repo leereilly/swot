@@ -1574,7 +1574,6 @@ edu.atec.pt
 aealcochete.edu.pt
 aluno.agvaf.edu.pt
 etap.edu.pt
-alunos.ipb.pt
 alunos.estgv.ipv.pt
 mec.edu.py
 alumnos.uninorte.edu.py
