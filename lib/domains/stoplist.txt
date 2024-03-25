@@ -1286,7 +1286,6 @@ art.edu.lv
 rsu.edu.lv
 uot.edu.ly
 edu.uca.ma
-edu.umi.ac.ma
 iga-marrakech.ma
 um5.ac.ma
 ofppt-edu.ma
@@ -1500,7 +1499,6 @@ upn.pe
 csu.ph
 plm.edu.ph
 feucanvas.edu.ph
-iskolarngbayan.pup.edu.ph
 sti.edu.ph
 mcl.edu.ph
 mymail.mapua.edu.ph
@@ -1607,7 +1605,6 @@ udsu.ru
 bsu.edu.ru
 cs.ifmo.ru
 stud.ur.ac.rw
-student.ksu.edu.sa
 rb.moe.gov.sa
 rg.moe.gov.sa
 sm.imamu.edu.sa
