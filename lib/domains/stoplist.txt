@@ -1552,7 +1552,6 @@ k.tut.edu.pl
 lxiv.secondary.edu.pl
 student.wstkt.edu.pl
 wstkt.edu.pl
-student.wsb.edu.pl
 kwiatek365.pl
 stud.ur.edu.pl
 stonabemowie.edu.pl
