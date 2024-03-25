@@ -1866,7 +1866,6 @@ utc.edu.vn
 student.hcmus.edu.vn
 lms.utc.edu.vn
 due.udn.vn
-actvn.edu.vn
 ictu.edu.vn
 st.neu.edu.vn
 student.hactech.edu.vn
