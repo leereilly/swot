@@ -1831,7 +1831,6 @@ sv.ussh.edu.vn
 neu.edu.vn
 daihocyhanoi.edu.vn
 ump.edu.vn
-hust.edu.vn
 lttc.edu.vn
 ms.daihocthudo.edu.vn
 cta.edu.vn
@@ -1856,7 +1855,6 @@ thpt-baria-brvt.edu.vn
 student.huc.edu.vn
 student.iuh.edu.vn
 hup.edu.vn
-uit.edu.vn
 kientruchanoi.edu.vn
 hcc2.edu.vn
 dtu.edu.vn
@@ -1871,7 +1869,6 @@ due.udn.vn
 actvn.edu.vn
 ictu.edu.vn
 st.neu.edu.vn
-fpt.edu.vn
 student.hactech.edu.vn
 hce.edu.vn
 ftu.edu.vn
