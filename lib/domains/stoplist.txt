@@ -1461,7 +1461,6 @@ spjain.org
 educadventista.org
 setsuna.eu.org
 dekalbschoolsga.org
-utp.ac.pa
 up.ac.pa
 meduca.edu.pa
 meduca.edu.pa
@@ -1834,7 +1833,6 @@ ittc.edu.vn
 mail.tdc.edu.vn
 huaf.edu.vn
 nttu.edu.vn
-vnu.edu.vn
 sv.ussh.edu.vn
 phuocbinh.edu.vn
 vaa.edu.vn
@@ -1848,7 +1846,6 @@ student.huc.edu.vn
 e.tlu.edu.vn
 thpt-baria-brvt.edu.vn
 student.huc.edu.vn
-student.iuh.edu.vn
 hup.edu.vn
 kientruchanoi.edu.vn
 hcc2.edu.vn
@@ -1884,3 +1881,4 @@ eaglesvale.ac.zw
 email.ncu.edu.cn
 gnnu.edu.cn
 smail.xtu.edu.cn
+knue.ac.kr
