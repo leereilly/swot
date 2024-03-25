@@ -1128,7 +1128,6 @@ intecap.edu.gt
 graduate.hku.hk
 ljb.edu.hk
 student.isf.edu.hk
-my.cityu.edu.hk
 unah.hn
 unah.edu.hn
 unah.edu.hn
