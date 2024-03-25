@@ -1859,7 +1859,6 @@ kientruchanoi.edu.vn
 hanoi.itrithuc.vn
 hungyen.itrithuc.vn
 utc.edu.vn
-student.hcmus.edu.vn
 lms.utc.edu.vn
 due.udn.vn
 ictu.edu.vn
