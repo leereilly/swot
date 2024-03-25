@@ -876,7 +876,6 @@ mail.aub.edu
 philander.edu
 npi.edu
 alum.urmc.rochester.edu
-amrita.edu
 maricopa.edu
 converse.edu
 aim.edu
@@ -1850,7 +1849,6 @@ vinhuni.edu.vn
 vief.edu.vn
 student.hiu.vn
 sv.hotec.edu.vn
-stu.ptit.edu.vn
 student.hiu.vn
 student.huc.edu.vn
 e.tlu.edu.vn
@@ -1883,7 +1881,6 @@ kthcm.edu.vn
 haiphong.itrithuc.vn
 kyile.website
 mail.0du.win
-mylife.unisa.ac.za
 lsdc.co.za
 live.mut.ac.za
 tut4life.ac.za
