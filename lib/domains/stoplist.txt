@@ -1766,7 +1766,6 @@ alumni.ncyu.edu.tw
 ncku.edu.tw
 muccobs.ac.tz
 edu.lpnu.ua
-pdpu.edu.ua
 cuu.ac.ug
 mail.mss.sc.ug
 school.mss.sc.ug
@@ -1871,3 +1870,7 @@ office.bufs.ac.kr
 share.epsb.ca
 perpetual.edu.ph
 mail.utec.edu.sv
+sivas.edu.tr
+skr.ac.th
+edu.arh.bg.ac.rs
+fapa.bu.edu.eg
