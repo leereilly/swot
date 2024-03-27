@@ -1830,7 +1830,6 @@ student.hiu.vn
 sv.hotec.edu.vn
 student.hiu.vn
 student.huc.edu.vn
-e.tlu.edu.vn
 thpt-baria-brvt.edu.vn
 student.huc.edu.vn
 hup.edu.vn
