@@ -1785,7 +1785,7 @@ archten.croydon.sch.uk
 kingshurst.ac.uk
 caledonian.ac.uk
 alumni.manchester.ac.uk
-dmu.ac.uk
+alumni365.dmu.ac.uk
 paofu.us
 salem.k12.va.us
 salem.k12.va.us
