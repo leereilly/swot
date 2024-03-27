@@ -1075,7 +1075,6 @@ alum.us.es
 mail.ucv.es
 alumnos.uvigo.es
 mail.uca.es
-alu.edu.gva.es
 campus.eug.es
 uniovi.es
 live.uem.es
@@ -1148,7 +1147,6 @@ smakstmariamalang.sch.id
 stikom-bali.ac.id
 office.itb.ac.id
 fh.unair.ac.id
-binus.ac.id
 uin-suka.ac.id
 student.sekolahanugrah.sch.id
 student.smawirausaha.sch.id
@@ -1311,7 +1309,6 @@ ucsdawei.edu.mm
 tutaunggyi.edu.mm
 kmd.edu.mm
 khugjil.edu.mn
-must.edu.mn
 stu.cdsj6.edu.mo
 stu.cdsj6.edu.mo
 student.cdsj.edu.mo
@@ -1375,7 +1372,6 @@ ump.edu.my
 student.uum.edu.my
 siswa365.um.edu.my
 moe-dl.edu.my
-student.uitm.edu.my
 siswa.um.edu.my
 staff.pmm.edu.my
 sc.edu.my
@@ -1476,7 +1472,6 @@ sencico.edu.pe
 cientifica.edu.pe
 alu.uap.edu.pe
 uncp.edu.pe
-cibertec.edu.pe
 continental.edu.pe
 upsjb.edu.pe
 isise.edu.pe
