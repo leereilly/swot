@@ -1266,7 +1266,6 @@ knue.ac.kr
 cba.edu.kw
 paaet.edu.kw
 ul.edu.lb
-std.balamand.edu.lb
 student.bau.edu.lb
 students.jinan.edu.lb
 aust.edu.lb
