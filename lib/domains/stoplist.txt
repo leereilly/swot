@@ -819,7 +819,6 @@ pcc.edu
 rangers.nwosu.edu
 batestech.edu
 student.lccc.wy.edu
-student.aast.edu
 insite.4cd.edu
 my.bridgevalley.edu
 colegio.univalle.edu
@@ -1090,7 +1089,6 @@ etu.u-pec.fr
 esad-valenciennes.fr
 epfedu.fr
 ecam.fr
-etu.u-bordeaux.fr
 etud.u-picardie.fr
 etudiant.univ-rennes1.fr
 dnmd.fun
@@ -1360,7 +1358,6 @@ alumnos.uaslp.edu.mx
 alumnos.uat.edu.mx
 alumnos.uat.edu.mx
 alumnos365.xoc.uam.mx
-isiswa.uitm.edu.my
 ucsiuniversity.edu.my
 student.ptss.edu.my
 student.utem.edu.my
@@ -1368,12 +1365,10 @@ moe-dl.edu.my
 s.unikl.edu.my
 student.psis.edu.my
 student.ptss.edu.my
-mail.apu.edu.my
 ump.edu.my
 student.uum.edu.my
 siswa365.um.edu.my
 moe-dl.edu.my
-siswa.um.edu.my
 staff.pmm.edu.my
 sc.edu.my
 upnm.edu.my
@@ -1385,7 +1380,6 @@ istudent.unisel.edu.my
 students.nilai.edu.my
 usim.edu.my
 imail.sunway.edu.my
-student.usm.my
 isctem.ac.mz
 ucm.ac.mz
 ucm.ac.mz
@@ -1434,7 +1428,6 @@ kkk.ac.nz
 k.kkk.ac.nz
 kkk.school.nz
 uotago.ac.nz
-massey.ac.nz
 mhzayt.online
 twzhhq.online
 secupv.org
@@ -1852,7 +1845,6 @@ utc.edu.vn
 lms.utc.edu.vn
 due.udn.vn
 ictu.edu.vn
-st.neu.edu.vn
 student.hactech.edu.vn
 hce.edu.vn
 ftu.edu.vn
@@ -1879,3 +1871,5 @@ knue.ac.kr
 tepeaca.tecnm.mx
 office.bufs.ac.kr
 share.epsb.ca
+perpetual.edu.ph
+mail.utec.edu.sv
