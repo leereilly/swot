@@ -781,7 +781,6 @@ mail.wvncc.edu
 urgrad.rochester.edu
 tcl.edu
 hawkmail.hccfl.edu
-utexas.edu
 stu.ftccollege.edu
 gtc.edu
 pace.edu
@@ -1878,3 +1877,4 @@ students.um.ac.id
 office.ui.ac.id
 stud.iuav.it
 stu.templejc.edu
+brightacademy.ac.in
