@@ -1038,7 +1038,6 @@ alexu.edu.eg
 cis.edu.eg
 psu.edu.eg
 medicine.zu.edu.eg
-nu.edu.eg
 ecu.edu.eg
 sh-eng.menofia.edu.eg
 pme.suezuni.edu.eg
