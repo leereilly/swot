@@ -1835,8 +1835,6 @@ st.huflit.edu.vn
 kientruchanoi.edu.vn
 hanoi.itrithuc.vn
 hungyen.itrithuc.vn
-utc.edu.vn
-lms.utc.edu.vn
 due.udn.vn
 ictu.edu.vn
 student.hactech.edu.vn
