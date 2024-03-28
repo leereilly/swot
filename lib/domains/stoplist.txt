@@ -1605,7 +1605,6 @@ qu.edu.sa
 kau.edu.sa
 upm.edu.sa
 kst.edu.sg
-ichat.sp.edu.sg
 student.tp.edu.sg
 scsl.si
 st.fhv.uniza.sk
