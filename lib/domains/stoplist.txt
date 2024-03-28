@@ -1159,7 +1159,6 @@ student.universitaspertamina.ac.id
 my.stmikbumigora.ac.id
 mail.smasidhikarya.sch.id
 sekolahnasima.sch.id
-ecampus.ut.ac.id
 student.smawirausaha.sch.id
 student.prasetiyamulya.ac.id
 smksingaparna.sch.id
